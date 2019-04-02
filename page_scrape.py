@@ -3,10 +3,13 @@ import os
 from bs4 import BeautifulSoup
 from typing import List, Dict, Tuple, Set
 import json
+import time
+from tqdm import tqdm
+import random
 
 
-CONFIG = "Literature" # Literature or Film
-
+CONFIG = "Theatre" # Literature or Film
+RESET = True
 
 BASE_URL = "https://tvtropes.org/pmwiki/pmwiki.php/{}/".format(CONFIG)
 BASE_DIR = os.path.join(os.getcwd(), CONFIG)
@@ -19,10 +22,18 @@ PROGRESS_FILE = os.path.join(BASE_DIR, "{}_progress.txt".format(CONFIG))
 
 def simplify_name(title: str) -> str:
     """
-    :return: title string lowercased and spaces removed
+    :return: title string lowercased and special characters removed
     """
-    return title.replace(" ", "").lower()
+    return ''.join(c for c in title.lower() if c.isalnum())
 
+def load_titles(filename: str) -> List[str]:
+    """
+
+    :param filename: Filename containing line-separated movie/book titles
+    :return: List of titles (simplified)
+    """
+    with open(filename, 'r') as f:
+        return [simplify_name(title) for title in f.readlines()]
 
 def fetch_page_soup(url: str):
     res = requests.get(url)
@@ -54,36 +65,52 @@ def extract_tropes_from_soup(soup) -> Set[str]:
                 retval.add(trope_title)
     return retval
 
+def clear_progress():
+    for f in [ZERO_TROPES_FILE, FEW_TROPES_FILE, TROPES_FILE, PROGRESS_FILE]:
+        if os.path.exists(f):
+            os.remove(f)
 
 if __name__ == "__main__":
-    book_titles = ["Emma"]
-    movie_titles = ["Rashomon", "Wolf Children"]
+    if RESET:
+        clear_progress()
+
+    book_titles = load_titles("remaining_Literature.json") # 8503
+    movie_titles = load_titles("movie_titles.txt") # 11753
+    random.shuffle(book_titles)
+    random.shuffle(movie_titles)
 
     titles = []
     if CONFIG == "Literature":
         titles = book_titles
     elif CONFIG == "Film":
         titles = movie_titles
+    elif CONFIG == "Theatre":
+        titles = book_titles
 
     if not os.path.exists(BASE_DIR):
         os.makedirs(BASE_DIR)
 
-    for b in titles:
+    for b in tqdm(titles):
         print(b)
-        s = fetch_page_soup(os.path.join(BASE_URL, simplify_name(b)))
-        tropes = list(extract_tropes_from_soup(s))
+        try:
+            s = fetch_page_soup(os.path.join(BASE_URL, simplify_name(b)))
+            tropes = list(extract_tropes_from_soup(s))
 
-        obj = {b: tropes}
-        if len(tropes) == 0:
+            obj = {b: tropes}
+            if len(tropes) > 0:
+                with open(TROPES_FILE, 'a+') as f:
+                    json.dump(obj, f)
+                    f.write("\n")
+            else:
+                with open(ZERO_TROPES_FILE, 'a+') as f:
+                    f.write(b)
+                    f.write("\n")
+
+        except requests.exceptions.HTTPError:
             with open(ZERO_TROPES_FILE, 'a+') as f:
-                json.dump(obj, f)
-        elif len(tropes) <= 10:
-            with open(FEW_TROPES_FILE, 'a+') as f:
-                json.dump(obj, f)
-        else:
-            with open(TROPES_FILE, 'a+') as f:
-                json.dump(obj, f)
-                f.write("\n")
-            with open(PROGRESS_FILE, 'a+') as f:
                 f.write(b)
                 f.write("\n")
+
+        with open(PROGRESS_FILE, 'a+') as f:
+            f.write(b)
+            f.write("\n")
