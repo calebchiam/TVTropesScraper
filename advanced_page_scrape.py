@@ -9,7 +9,7 @@ import random
 import itertools
 
 
-CONFIG = "Film" # Literature or Film
+CONFIG = "FilmTWO" # Literature or Film
 RESET = True
 
 BASE_URL = "https://tvtropes.org/pmwiki/pmwiki.php/{}/".format(CONFIG)
@@ -93,21 +93,46 @@ if __name__ == "__main__":
     if not os.path.exists(BASE_DIR):
         os.makedirs(BASE_DIR)
 
-    for t in tqdm(movies.keys()):
-        entry = movies[t]
-        t_year = "{}{}".format(t, entry["year"])
+    with open("combined_fixednames.json", 'r') as f:
+        for line in tqdm(f):
+            entry = json.loads(line)
+            t = entry["trope"]
+            # t = line.strip("\n")
+            print(t)
 
-        dt = [("Film", t), ("Film", t_year),
-              ("WesternAnimation", t), ("Anime", t),
-              ("Disney", t), ("Animation", t)]
+            if t in ["Lagaan", "ThreeIdiots"]:
+                attempt_scrape("Bollywood", t)
 
-        success = False
-        for domain, title in dt:
-            if attempt_scrape(domain, title) is True:
-                success = True
-                break
+            dt = [("Film", t),
+                  ("WesternAnimation", t), ("Anime", t),
+                  ("Disney", t), ("Animation", t)]
 
-        if not success:
-            with open(ZERO_TROPES_FILE, 'a+') as f:
-                f.write(t)
-                f.write("\n")
+            success = False
+            for domain, title in dt:
+                if attempt_scrape(domain, title) is True:
+                    success = True
+                    break
+
+            if not success:
+                with open(ZERO_TROPES_FILE, 'a+') as f:
+                    f.write(t)
+                    f.write("\n")
+
+    # for t in tqdm(movies.keys()):
+    #     entry = movies[t]
+    #     t_year = "{}{}".format(t, entry["year"])
+    #
+    #     dt = [("Film", t), ("Film", t_year),
+    #           ("WesternAnimation", t), ("Anime", t),
+    #           ("Disney", t), ("Animation", t)]
+    #
+    #     success = False
+    #     for domain, title in dt:
+    #         if attempt_scrape(domain, title) is True:
+    #             success = True
+    #             break
+    #
+    #     if not success:
+    #         with open(ZERO_TROPES_FILE, 'a+') as f:
+    #             f.write(t)
+    #             f.write("\n")
