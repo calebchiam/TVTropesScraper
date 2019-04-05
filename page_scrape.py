@@ -8,7 +8,7 @@ from tqdm import tqdm
 import random
 
 
-CONFIG = "Theatre" # Literature or Film
+CONFIG = "Main" # Literature or Film
 RESET = True
 
 BASE_URL = "https://tvtropes.org/pmwiki/pmwiki.php/{}/".format(CONFIG)
@@ -30,10 +30,10 @@ def load_titles(filename: str) -> List[str]:
     """
 
     :param filename: Filename containing line-separated movie/book titles
-    :return: List of titles (simplified)
+    :return: List of titles
     """
     with open(filename, 'r') as f:
-        return [simplify_name(title) for title in f.readlines()]
+        return [title for title in f.readlines()]
 
 def fetch_page_soup(url: str):
     res = requests.get(url)
@@ -70,22 +70,22 @@ def clear_progress():
         if os.path.exists(f):
             os.remove(f)
 
+
+
 if __name__ == "__main__":
     if RESET:
         clear_progress()
 
-    book_titles = load_titles("remaining_Literature.json") # 8503
-    movie_titles = load_titles("movie_titles.txt") # 11753
-    random.shuffle(book_titles)
-    random.shuffle(movie_titles)
-
     titles = []
     if CONFIG == "Literature":
-        titles = book_titles
+        titles = load_titles("remaining_Literature.json") # 8503
     elif CONFIG == "Film":
-        titles = movie_titles
+        titles = load_titles("movie_titles.txt") # 11753
     elif CONFIG == "Theatre":
-        titles = book_titles
+        titles = load_titles("remaining_Literature.json")
+    elif CONFIG == "Main":
+        titles = load_titles("tropes_titles.txt")
+
 
     if not os.path.exists(BASE_DIR):
         os.makedirs(BASE_DIR)
@@ -93,7 +93,7 @@ if __name__ == "__main__":
     for b in tqdm(titles):
         print(b)
         try:
-            s = fetch_page_soup(os.path.join(BASE_URL, simplify_name(b)))
+            s = fetch_page_soup(os.path.join(BASE_URL, b)) #simplify_name(b)
             tropes = list(extract_tropes_from_soup(s))
 
             obj = {b: tropes}

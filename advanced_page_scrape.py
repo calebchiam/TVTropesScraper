@@ -94,12 +94,12 @@ if __name__ == "__main__":
         os.makedirs(BASE_DIR)
 
 # 4, 5, 2, 4
-    tups = [("AvengersInfinityWar", ["TropesAToD", "TropesEToM", "TropesNToR", "TropesSToZ"]),
-            ("GoneWithTheWind", ["GoneWithTheWindTropesNoToD", "GoneWithTheWindTropesEToH",
-                                  "GoneWithTheWindTropesIToL", "GoneWithTheWindTropesMToR", "GoneWithTheWindTropesSToZ"]),
-            ("Megamind", ["TropesAToL", "TropesMToZ"]),
-            ("TheAvengers", ["TropesAToD", "TropesEToL", "TropesMToP", "TropesQToZ"])
-    ]
+#     tups = [("AvengersInfinityWar", ["TropesAToD", "TropesEToM", "TropesNToR", "TropesSToZ"]),
+#             ("GoneWithTheWind", ["GoneWithTheWindTropesNoToD", "GoneWithTheWindTropesEToH",
+#                                   "GoneWithTheWindTropesIToL", "GoneWithTheWindTropesMToR", "GoneWithTheWindTropesSToZ"]),
+#             ("Megamind", ["TropesAToL", "TropesMToZ"]),
+#             ("TheAvengers", ["TropesAToD", "TropesEToL", "TropesMToP", "TropesQToZ"])
+#     ]
 
     for domain, pages in tups:
         for p in pages:
