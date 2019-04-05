@@ -4,12 +4,15 @@ import pickle
 # For creating a Dictionary of simplified names to full names, e.g.
 # whosthere: Who's There?
 
-TARGET = "book_titles.txt"
+TARGET = "titles/book_titles.txt"
+
+def uppercase_words(title: str):
+    return " ".join([w.capitalize() for w in title.split(" ")])
 
 retval = dict()
 with open(TARGET, 'r') as f:
     for line in f:
-        retval[simplify_name(line)] = line.strip("\n")
+        retval[simplify_name(line)] = uppercase_words(line.strip("\n"))
 
 print(len(retval))
 
