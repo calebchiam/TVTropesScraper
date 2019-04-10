@@ -8,10 +8,10 @@ from tqdm import tqdm
 import random
 
 
-CONFIG = "Main" # Literature or Film
+CONFIG = "LiteratureTWO" # Literature or Film
 RESET = True
 
-BASE_URL = "https://tvtropes.org/pmwiki/pmwiki.php/{}/".format(CONFIG)
+BASE_URL = "https://tvtropes.org/pmwiki/pmwiki.php/Literature/"
 BASE_DIR = os.path.join(os.getcwd(), CONFIG)
 
 ZERO_TROPES_FILE = os.path.join(BASE_DIR, "zerotropes_{}.json".format(CONFIG))
@@ -34,6 +34,8 @@ def load_titles(filename: str) -> List[str]:
     """
     with open(filename, 'r') as f:
         return [title for title in f.readlines()]
+
+
 
 def fetch_page_soup(url: str):
     res = requests.get(url)
@@ -76,16 +78,15 @@ if __name__ == "__main__":
     if RESET:
         clear_progress()
 
-    titles = []
-    if CONFIG == "Literature":
-        titles = load_titles("remaining_Literature.json") # 8503
-    elif CONFIG == "Film":
-        titles = load_titles("movie_titles.txt") # 11753
-    elif CONFIG == "Theatre":
-        titles = load_titles("remaining_Literature.json")
-    elif CONFIG == "Main":
-        titles = load_titles("tropes_titles.txt")
+    with open("titles/scraped_titles.json", 'r') as f:
+        title_dict = json.load(f)
 
+    titles = []
+    with open("titles/scraped_no_overlap.txt", 'r') as f:
+        for line in f:
+            titles.append(line.strip("\n"))
+
+    inverted_dict = {v: k for k, v in title_dict.items()}
 
     if not os.path.exists(BASE_DIR):
         os.makedirs(BASE_DIR)
@@ -93,7 +94,7 @@ if __name__ == "__main__":
     for b in tqdm(titles):
         print(b)
         try:
-            s = fetch_page_soup(os.path.join(BASE_URL, b)) #simplify_name(b)
+            s = fetch_page_soup(os.path.join(BASE_URL, title_dict[b])) #simplify_name(b)
             tropes = list(extract_tropes_from_soup(s))
 
             obj = {b: tropes}
