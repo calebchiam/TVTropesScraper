@@ -105,7 +105,6 @@ John Tucker Must Die
 Olympus Has Fallen
 Harry Potter and the Deathly Hallows: Part 2
 Cool Runnings
-Tron
 The Mosquito Coast
 Mystery Science Theater 3000: The Movie
 Date Night
@@ -550,7 +549,6 @@ The Ten Commandments
 Colors
 Real Steel
 In the Line of Fire
-Boyz N the Hood
 Role Models
 The Girl Next Door
 House on Haunted Hill
@@ -1140,7 +1138,6 @@ The Emperor's New Groove
 Donnie Brasco
 Bottle Rocket
 The Fabulous Baker Boys
-Ben-hur
 Fandango
 Only You
 Barefoot in the Park
@@ -2118,7 +2115,6 @@ Dumbo
 Morning Glory
 Blow
 Sneakers
-Bridge To Terabithia
 First Blood
 Halloween: Resurrection
 Song of the Sea
@@ -2338,7 +2334,6 @@ What We Do in the Shadows
 *batteries not included
 X-Men
 The Musketeer
-Muppets From Space
 Valentine's Day
 Brother
 Cutthroat Island
@@ -2405,7 +2400,6 @@ P.S. I Love You
 The Aristocrats
 The Hitman's Bodyguard
 Kung Fu Panda 3
-Cecil B. DeMented
 London Has Fallen
 The Return of the Living Dead
 The Toy
@@ -2859,7 +2853,6 @@ The Last Witch Hunter
 The Red Shoes
 Everest
 Unfaithful
-Dodgeball: A True Underdog Story
 Persepolis
 Get Shorty
 Road to Perdition
@@ -3476,7 +3469,6 @@ Top Secret!
 Jupiter Ascending
 The Five-Year Engagement
 The Expendables 3
-Boxing Helena
 The Founder
 Mars Attacks!
 They Live
@@ -3762,7 +3754,6 @@ Evil Dead
 Roxanne
 Blade Runner
 She's All That
-Bastard Out of Carolina
 The Lobster
 Bad Day at Black Rock
 Holy Motors
@@ -4109,7 +4100,6 @@ Family Guy Presents Stewie Griffin: The Untold Story
 AVPR: Aliens vs. Predator - Requiem
 Pokemon 3: The Movie
 Les Miserables
-8MM
 Winnie the Pooh and the Blustery Day
 Cowboy Bebop: The Movie
 Guardians of the Galaxy 2
@@ -4346,7 +4336,6 @@ Moulin Rouge!
 A Perfect Getaway
 Dragonball Evolution
 The Specials
-Scott Pilgrim vs. The World
 Phantom of the Megaplex
 Greyfriars Bobby
 The Living Wake
@@ -4551,12 +4540,10 @@ In Hell
 A Series of Unfortunate Events
 Daens
 Bill & Ted
-WarCraft
 Snow Cake
 Godzilla vs. Biollante
 Werewolf
 The Librarian
-Shoot 'em Up
 Mulholland Dr.
 Punisher: War Zone
 Big Jake
@@ -4685,8 +4672,6 @@ Ultraman Zero: The Revenge of Belial
 Bon Cop, Bad Cop
 Ride Along
 Pokémon: Detective Pikachu
-RED
-The Wiz
 Ace Ventura
 City Hunter: The Cupid's Perfume
 Wings
@@ -4832,7 +4817,6 @@ Diary of the Dead
 Friday the 13th Part III
 Thelma & Louise
 The Hebrew Hammer
-Eurotrip
 New Jack City
 Lock, Stock & Two Smoking Barrels
 Indie Game: The Movie
