@@ -12,7 +12,7 @@ import json
 #                 f1.write("\n")
 
 
-with open("Literature_tropes_dataset2.json", 'r') as f:
+with open("Literature_tropes_dataset3.json", 'r') as f:
     entries = json.load(f)
 
 with open("../titles/successful_books2.txt", 'w') as f:

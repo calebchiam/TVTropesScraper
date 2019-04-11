@@ -32,7 +32,6 @@ Spectrum
 The Moon Pool
 Stone Fox
 Vortex
-The Grapes Of Wrath
 The Picture Of Dorian Gray
 One Day In The Life Of Ivan Denisovich
 The Courts Of The Morning
@@ -67,14 +66,12 @@ Manifold: Time
 King Dork
 Haroun And The Sea Of Stories
 Fatherland
-To Say Nothing Of The Dog
 Waterland
 Roma Eterna
 Jamaica Inn
 Horns
 City Of Thieves
 The Magic Goes Away
-Out Of The Dark
 The Dogs Of Babel
 The Sweet Hereafter
 Transformers: Exiles
@@ -159,7 +156,6 @@ How I Live Now
 Firestarter
 Yendi
 Warrior Scarlet
-Romance Of The Three Kingdoms
 Felidae
 The Master And Margarita
 Enchanted Glass
@@ -188,7 +184,6 @@ The Moving Finger
 Galilee
 Dombey And Son
 Little Brother
-War And Peace
 The Shadow Speaker
 The Regulators
 The Metamorphosis Of Prime Intellect
@@ -196,8 +191,6 @@ The Captain's Daughter
 Duma Key
 The Poseidon Adventure
 The Light Of Other Days
-The Indian In The Cupboard
-The Name Of The Wind
 The Ringworld Engineers
 The Unwilling Warlord
 Who Goes There?
@@ -216,7 +209,6 @@ Robots And Empire
 Hrolf Kraki's Saga
 El Filibusterismo
 Necromancer
-Harry Potter And The Deathly Hallows
 The Ophiuchi Hotline
 The Stars My Destination
 Island Of The Blue Dolphins
@@ -251,7 +243,6 @@ Dolores Claiborne
 Black Bird
 Redwall
 Dune
-The Perks Of Being A Wallflower
 Legion
 A Christmas Carol
 The Treasure Of The Sierra Madre
@@ -262,12 +253,10 @@ The Taking
 Murder On The Orient Express
 An Instance Of The Fingerpost
 Spook Country
-Harry Potter And The Philosopher's Stone
 Patriot Games
 Peter Pan In Kensington Gardens
 Vurt
 Idoru
-Diary Of A Wimpy Kid
 What Katy Did
 When Worlds Collide
 The Hunchback Of Notre Dame
@@ -278,7 +267,6 @@ Push
 Replay
 Just Listen
 The Stress Of Her Regard
-A Night In The Lonesome October
 The Enemy
 Strip Tease
 Daughter Of The Forest
@@ -310,10 +298,8 @@ Crusade
 Millennium
 The Idiot
 Love In The Time Of Cholera
-Dark Lord Of Derkholm
 Sepulchre
 A Separate Peace
-All Quiet On The Western Front
 Murder On The Leviathan
 Persuasion
 Cryptid Hunters
@@ -322,7 +308,6 @@ The Lion, The Witch And The Wardrobe
 Going Bovine
 By The Light Of The Moon
 Plain Kate
-The First Men In The Moon
 Luna
 The Rowan
 Riotous Assembly
@@ -341,7 +326,6 @@ Diamonds Are Forever
 Nights At The Circus
 Next
 Shards Of Honor
-Fantastic Beasts And Where To Find Them
 Drawing Blood
 Revelation
 The Black Swan
@@ -349,7 +333,6 @@ Tides Of War
 Castaways Of The Flying Dutchman
 Dirk Gently's Holistic Detective Agency
 Coldheart Canyon
-The Count Of Monte Cristo
 The Underneath
 Doomsday Book
 Five Weeks In A Balloon
@@ -380,7 +363,6 @@ From A Buick 8
 Mr. Monk Goes To The Firehouse
 Teckla
 Indian Killer
-Harry Potter And The Goblet Of Fire
 Far Rainbow
 Invasion
 Little Women
@@ -392,9 +374,7 @@ The Hallowed Hunt
 Cetaganda
 Jacob Have I Loved
 Serpent's Reach
-The Girl Who Circumnavigated Fairyland In A Ship Of Her Own Making
 Brat Farrar
-The Curious Incident Of The Dog In The Night-time
 Team Yankee
 Thr3e
 Cloud Atlas
@@ -420,7 +400,6 @@ It's Kind Of A Funny Story
 Count Zero
 The Giver
 The House At Pooh Corner
-Harry Potter And The Half-blood Prince
 First Contact?
 Shade's Children
 Goodbye, Mr. Chips
@@ -524,7 +503,6 @@ Pirate Latitudes
 Lucifer's Hammer
 Was
 The Sun Also Rises
-Bag Of Bones
 The Prefect
 Dragon War
 The Divide
@@ -534,7 +512,6 @@ The Talisman
 Up In The Air
 Po-on
 Bug Jack Barron
-John Dies At The End
 Living Dead Girl
 The Pursuit Of Love
 Aeneid
@@ -555,7 +532,6 @@ Jin Ping Mei
 The Homeward Bounders
 Baudolino
 Ragtime
-Swallows And Amazons
 Betsy-tacy
 The Little Golden Calf
 The Snow Queen
@@ -611,7 +587,6 @@ The Difference Engine
 Give A Boy A Gun
 Be More Chill
 Wildwood Dancing
-Peter Pan In Scarlet
 Jennie
 Midnight At The Well Of Souls
 Eragon
@@ -638,7 +613,6 @@ Mister B. Gone
 Fire Bringer
 Without Remorse
 A Storm Of Swords
-Harry Potter And The Chamber Of Secrets
 The Postman Always Rings Twice
 My Sister's Keeper
 Gladiator
@@ -654,7 +628,6 @@ Shadow Kiss
 Heretics Of Dune
 Lullaby
 Girl, Interrupted
-Lord Of The Flies
 Reamde
 James And The Giant Peach
 The Thorn Birds
@@ -668,7 +641,6 @@ Brokenclaw
 Identical
 The Color Purple
 To Sail Beyond The Sunset
-The Book Of The Dun Cow
 The Chocolate War
 The Witches
 Angels And Demons
@@ -696,7 +668,6 @@ The Stranger
 Cloudy With A Chance Of Meatballs
 The Yearling
 Way Station
-Moribito: Guardian Of The Spirit
 Redeeming Love
 Beast
 Cat And Mouse
@@ -710,13 +681,11 @@ Warbreaker
 After Doomsday
 House Of Many Ways
 City Of Light
-Alice's Adventures In Wonderland
 The Moth Diaries
 Life Among The Savages
 Northworld
 The Daughter Of Time
 Wild Swans
-Adventures Of Huckleberry Finn
 The Scarlet Letter
 The Hundred And One Dalmatians
 Dandelion Wine
@@ -764,7 +733,6 @@ Horton Hatches The Egg
 American Gods
 New Moon
 Ring For Jeeves
-To Kill A Mockingbird
 The Gospel Of The Flying Spaghetti Monster
 Less Than Zero
 The Night Circus
@@ -781,7 +749,6 @@ A Canticle For Leibowitz
 The Big Four
 Summer Sisters
 Reckless
-Annie On My Mind
 Jude The Obscure
 For Special Services
 Ringworld's Children
@@ -832,7 +799,6 @@ The Bone People
 Then Again, Maybe I Won't
 Breakfast At Tiffany's
 The Shining
-Book Of Esther
 The Black Unicorn
 Fingerprints
 The Great Divorce
@@ -847,13 +813,10 @@ Mission Of Gravity
 Under The Net
 The Red Badge Of Courage
 Dying Of The Light
-Crime And Punishment
 Gulliver's Travels
-The Masque Of The Red Death
 Glinda Of Oz
 The Bourne Ultimatum
 The Stand
-The Guns Of Navarone
 Dragon's Oath
 Tailchaser's Song
 The Eyre Affair
@@ -898,7 +861,6 @@ The Day Of The Jackal
 The Stranger Beside Me
 Forever
 Phule's Company
-Harriet The Spy
 This Rough Magic
 Run
 The Little Grey Men
@@ -913,7 +875,6 @@ The Word For World Is Forest
 Typhoon
 Oliver Twist
 The Prestige
-The Robots Of Dawn
 Child Of God
 Oblomov
 East Of Eden
@@ -955,8 +916,6 @@ The Last Unicorn
 The Remains Of The Day
 The Time Ships
 Rage: A Love Story
-The Diary Of A Young Girl
-Number The Stars
 Ender's Shadow
 Cold
 Creation
@@ -984,10 +943,8 @@ Blood Feud
 Princess Academy
 The French Lieutenant's Woman
 Moll Flanders
-Bridge To Terabithia
 Revelation Space
 L.a. Confidential
-The Legend Of Sleepy Hollow
 Scarlett
 Rough Draft
 The Visitation
@@ -999,7 +956,6 @@ The Little Mermaid
 The Boleyn Inheritance
 Valis
 The Witches Of Eastwick
-House Of Leaves
 Dhalgren
 The Tale Of Peter Rabbit
 Switchers
@@ -1013,7 +969,6 @@ The Way We Live Now
 Snow
 The Screwtape Letters
 The Borrowers
-Life Of Pi
 Time Out Of Joint
 Girls On Film
 This Perfect Day
@@ -1054,7 +1009,6 @@ The Poisonwood Bible
 The World Inside
 Wake
 Disgrace
-Live And Let Die
 Green Angel
 Babylon Babies
 The Mysterious Benedict Society
@@ -1071,7 +1025,6 @@ Expiration Date
 The Productions Of Time
 Against The Day
 The Most Dangerous Game
-The War Of The Worlds
 Mardock Scramble
 I Am Number Four
 Airframe
@@ -1095,7 +1048,6 @@ The Given Day
 Dreamcatcher
 Ranks Of Bronze
 Regenesis
-One Flew Over The Cuckoo's Nest
 Chimera
 The Rime Of The Ancient Mariner
 Parker Pyne Investigates
@@ -1185,18 +1137,15 @@ Strata
 A Deepness In The Sky
 Kiss Of The Spider Woman
 Heidi
-Charlie And The Chocolate Factory
 Destination Unknown
 Hush, Hush
 The Red And The Black
 The Hound Of The Baskervilles
-The Case Of Charles Dexter Ward
 Bring Up The Bodies
 Chosen
 Callahan's Crosstime Saloon
 Tom Brown's Schooldays
 The Ganymede Takeover
-Sense And Sensibility
 Lest Darkness Fall
 I Know Why The Caged Bird Sings
 Lolita
@@ -1204,7 +1153,6 @@ Treasures Of The Snow
 The Night Land
 Mrs. Frisby And The Rats Of Nimh
 The Marvelous Land Of Oz
-The Wonderful Wizard Of Oz
 West Of Eden
 Maniac Magee
 The Proteus Operation
@@ -1263,24 +1211,19 @@ A Civil Action
 A Fire Upon The Deep
 The Fall Of The House Of Usher
 Snow Falling On Cedars
-Requiem For A Dream
 Dear Mr. Henshaw
 Earthfall
-The Moon Is A Harsh Mistress
 Citizen Of The Galaxy
 The Ragwitch
-The Call Of The Wild
 Where The Wild Things Are
 Dorothy And The Wizard In Oz
 Wuthering Heights
 The Butcher Boy
 The Sum Of All Fears
-The Tenant Of Wildfell Hall
 Desperation
 Kira-kira
 Hart's Hope
 Warchild
-A Wrinkle In Time
 Cat Among The Pigeons
 Roadwork
 The Sky People
@@ -1354,7 +1297,6 @@ On The Road
 The Incredible Journey
 Lucky Starr And The Big Sun Of Mercury
 Awakened
-The Hitchhiker's Guide To The Galaxy
 The Mote In God's Eye
 The Girl Who Played With Fire
 The Girl Who Owned A City
@@ -1364,7 +1306,6 @@ The Glass Books Of The Dream Eaters
 Good In Bed
 Old Yeller
 Day Watch
-Wizard And Glass
 The Man Who Laughs
 Distant Star
 Crime
@@ -1423,14 +1364,12 @@ Filth
 The Little White Horse
 The Black Tulip
 Small Steps
-Harry Potter And The Order Of The Phoenix
 Eaters Of The Dead
 Pastwatch: The Redemption Of Christopher Columbus
 Of Human Bondage
 The Supernaturalist
 Simon
 Clear And Present Danger
-The Mists Of Avalon
 The Ugly Duckling
 The Peshawar Lancers
 The White Company
@@ -1457,17 +1396,14 @@ Steel Beach
 It Can't Happen Here
 The Cider House Rules
 East
-The Phantom Of The Opera
 Middlesex
 Warlock
-The Hunt For Red October
 The Icarus Hunt
 Seafire
 Robopocalypse
 Down And Out In The Magic Kingdom
 The Man Who Was Thursday
 Windhaven
-Anne Of Green Gables
 Singularity Sky
 Psycho
 Iron Council
@@ -1482,7 +1418,6 @@ The Silmarillion
 Exit To Eden
 Mr. Monk On The Couch
 The Exorcist
-Pride And Prejudice
 Imaro
 Deep Secret
 Imperium
@@ -1548,7 +1483,6 @@ The Rules Of Attraction
 Mr. Monk In Outer Space
 Neuromancer
 Space Cadet
-The Fault In Our Stars
 The Tale Of Despereaux
 Shadow
 If There Be Thorns
@@ -1569,7 +1503,6 @@ The Hotel New Hampshire
 Special Topics In Calamity Physics
 The Wish List
 The Sword In The Stone
-Tooth And Claw
 Playback
 The Languages Of Pao
 Parasite Eve
@@ -1585,7 +1518,6 @@ Going Postal
 Blind Lake
 The Man With The Iron Heart
 The Fifth Child
-Staying Fat For Sarah Byrnes
 On Stranger Tides
 The Doll
 The People That Time Forgot
@@ -1608,15 +1540,12 @@ Mr. Monk On Patrol
 Shane
 The Girl With The Dragon Tattoo
 Aristoi
-Roll Of Thunder, Hear My Cry
 Anthem
 Charlotte Temple
 Ordinary People
-Conan The Barbarian
 Edenborn
 Barrayar
 The Blind Assassin
-The Wind In The Willows
 A Tangled Web
 Skylark Of Valeron
 The Sea Of Trolls
@@ -1681,13 +1610,11 @@ Green
 Creatures Of Light And Darkness
 Killshot
 Avalon High
-The Catcher In The Rye
 The General
 Tuck Everlasting
 Petals On The Wind
 Brimstone
 Independence Day
-The Adventures Of Pinocchio
 Ready Player One
 The Invisible Man
 There's A Boy In The Girls' Bathroom
@@ -1717,7 +1644,6 @@ The Whipping Boy
 Graceling
 Ninety-three
 Hex
-Castle In The Air
 Watership Down
 Eugene Onegin
 Reliquary
@@ -1734,11 +1660,9 @@ The Thirteenth Tale
 Burmese Days
 Giovanni's Room
 The Last Hurrah
-For Whom The Bell Tolls
 Genesis
 Foucault's Pendulum
 Room
-Peter And The Starcatchers
 Picnic At Hanging Rock
 Thumbelina
 Phantom
@@ -1749,7 +1673,6 @@ Star Island
 The Phantom Tollbooth
 The Bfg
 White Cat
-Harry Potter And The Prisoner Of Azkaban
 Katherine
 Time Enough For Love
 Down A Dark Hall
@@ -1762,7 +1685,6 @@ A Fire In The Sun
 One Day
 The Pillars Of The Earth
 The Alienist
-The Prisoner Of Zenda
 Spider-man: The Darkest Hours
 Cold Mountain
 Zombie
@@ -2252,7 +2174,6 @@ Blood Meridian
 The First Dwarf King
 The Goblin Emperor
 Victoria
-IT
 All the Wrong Questions
 The Tenant of Wildfell Hall
 Snow Crash
@@ -2315,7 +2236,6 @@ Sector General
 A Song of Ice and Fire
 Black Jewels
 Escape to Witch Mountain
-The BFG
 Neuro Mancer
 Revan
 I Capture Thecastle
@@ -2396,7 +2316,6 @@ Book of Genesis
 The Beyonders
 Warhammer Adventures
 Helm
-The Thirty-Nine Steps
 Nintendo Adventure Books
 Safehold
 We Are Legion (We Are Bob)
@@ -2937,7 +2856,6 @@ Afterglow
 Harry Potter and the Half-Blood Prince
 A Portrait of the Artist as a Young Man
 Department19
-The Gone-Away World
 The Powder Mage Trilogy
 The Belgariad
 Takeshi Kovacs
@@ -2969,7 +2887,6 @@ Germinal
 Belisarius Series
 Harry Potter and the Philosopher's Stone
 Inda
-The Dream-Quest of Unknown Kadath
 Nero Wolfe
 The Hitchhiker's Guide to the Galaxy
 Insignia
