@@ -9,7 +9,7 @@ import random
 import itertools
 
 
-CONFIG = "FilmTHREE" # Literature or Film
+CONFIG = "FilmFOUR" # Literature or Film
 RESET = True
 
 BASE_URL = "https://tvtropes.org/pmwiki/pmwiki.php/{}/".format(CONFIG)
@@ -87,8 +87,10 @@ if __name__ == "__main__":
     if RESET:
         clear_progress()
 
-    with open("cleaned_movie_titles.json", 'r') as f:
-        movies = json.load(f)
+    titles = []
+    with open("../titles/scraped_movies_no_overlap.txt", 'r') as f:
+        for line in f:
+            titles.append(line.strip("\n"))
 
     if not os.path.exists(BASE_DIR):
         os.makedirs(BASE_DIR)
@@ -100,50 +102,50 @@ if __name__ == "__main__":
 #             ("Megamind", ["TropesAToL", "TropesMToZ"]),
 #             ("TheAvengers", ["TropesAToD", "TropesEToL", "TropesMToP", "TropesQToZ"])
 #     ]
+#
+#     for domain, pages in tups:
+#         for p in pages:
+#             attempt_scrape(domain, p)
+    with open("FilmTWO/zerotropes_FilmTWO.json", 'r') as f:
+        for line in tqdm(f):
+            # entry = json.loads(line)
+            # t = entry["trope"]
+            t = line.strip("\n")
+            print(t)
+            #
+            # if t in ["Lagaan", "ThreeIdiots"]:
+            #     attempt_scrape("Bollywood", t)
 
-    for domain, pages in tups:
-        for p in pages:
-            attempt_scrape(domain, p)
-    # with open("FilmTWO/zerotropes_FilmTWO.json", 'r') as f:
-    #     for line in tqdm(f):
-    #         # entry = json.loads(line)
-    #         # t = entry["trope"]
-    #         t = line.strip("\n")
-    #         print(t)
-    #
-    #         if t in ["Lagaan", "ThreeIdiots"]:
-    #             attempt_scrape("Bollywood", t)
-    #
-    #         dt = [("Film", t),
-    #               ("WesternAnimation", t), ("Anime", t),
-    #               ("Disney", t), ("Animation", t)]
-    #
-    #         success = False
-    #         for domain, title in dt:
-    #             if attempt_scrape(domain, title) is True:
-    #                 success = True
-    #                 break
-    #
-    #         if not success:
-    #             with open(ZERO_TROPES_FILE, 'a+') as f:
-    #                 f.write(t)
-    #                 f.write("\n")
+            dt = [("Film", t),
+                  ("WesternAnimation", t), ("Anime", t),
+                  ("Disney", t), ("Animation", t)]
 
-    # for t in tqdm(movies.keys()):
-    #     entry = movies[t]
-    #     t_year = "{}{}".format(t, entry["year"])
-    #
-    #     dt = [("Film", t), ("Film", t_year),
-    #           ("WesternAnimation", t), ("Anime", t),
-    #           ("Disney", t), ("Animation", t)]
-    #
-    #     success = False
-    #     for domain, title in dt:
-    #         if attempt_scrape(domain, title) is True:
-    #             success = True
-    #             break
-    #
-    #     if not success:
-    #         with open(ZERO_TROPES_FILE, 'a+') as f:
-    #             f.write(t)
-    #             f.write("\n")
+            success = False
+            for domain, title in dt:
+                if attempt_scrape(domain, title) is True:
+                    success = True
+                    break
+
+            if not success:
+                with open(ZERO_TROPES_FILE, 'a+') as f:
+                    f.write(t)
+                    f.write("\n")
+
+    for t in tqdm(movies.keys()):
+        entry = movies[t]
+        t_year = "{}{}".format(t, entry["year"])
+
+        dt = [("Film", t), ("Film", t_year),
+              ("WesternAnimation", t), ("Anime", t),
+              ("Disney", t), ("Animation", t)]
+
+        success = False
+        for domain, title in dt:
+            if attempt_scrape(domain, title) is True:
+                success = True
+                break
+
+        if not success:
+            with open(ZERO_TROPES_FILE, 'a+') as f:
+                f.write(t)
+                f.write("\n")

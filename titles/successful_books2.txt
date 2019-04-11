@@ -1,3028 +1,4841 @@
-Affinity
-Sentenced To Prism
-Nostromo
-A Room With A View
-Revolutionary Road
-Terminal World
-The Hellbound Heart
-The Broken Sword
-Armor
-Along For The Ride
-The Last Light Of The Sun
-The Two Georges
-Edison's Conquest Of Mars
-Timeline
-Coraline
-Wringer
-Ralph S. Mouse
-The Long Dark Tea-time Of The Soul
-Melmoth The Wanderer
-Darkly Dreaming Dexter
-Hannibal Rising
-Eva Luna
-The Scarlet Pimpernel
-Confessions Of An Ugly Stepsister
-Eclipse
-Treasure Island
-Shiloh
-Cinder
-Gardens Of The Moon
-Dilvish, The Damned
-Spectrum
-The Moon Pool
-Stone Fox
-Vortex
-The Grapes Of Wrath
-The Picture Of Dorian Gray
-One Day In The Life Of Ivan Denisovich
-The Courts Of The Morning
-Rosemary's Baby
-Children Of Dune
-Dracula The Un-dead
-The Secret Life Of Bees
-The Coffin Dancer
-The Absolutely True Diary Of A Part-time Indian
-Cryptonomicon
-Kraken
-Ordeal By Innocence
-The Mist
-White Noise
-Generation Warriors
-Rising Sun
-The Merlin Conspiracy
-The Private Memoirs And Confessions Of A Justified Sinner
-Dragon Rider
-Doctor Zhivago
-Doorways In The Sand
-Pellucidar
-Fahrenheit 451
-Scorpius
-The Drop
-Howards End
-One, Two, Buckle My Shoe
-Uncle Tom's Cabin
-Gathering Blue
-Freaky Friday
-Manifold: Time
-King Dork
-Haroun And The Sea Of Stories
-Fatherland
-To Say Nothing Of The Dog
-Waterland
-Roma Eterna
-Jamaica Inn
-Horns
-City Of Thieves
-The Magic Goes Away
-Out Of The Dark
-The Dogs Of Babel
-The Sweet Hereafter
-Transformers: Exiles
-Anna Karenina
-Gentlemen Prefer Blondes
-Jpod
-The Devil And Daniel Webster
-Cry, The Beloved Country
-Lucky Starr And The Oceans Of Venus
-The Three Bears
-Beloved
-Captains Courageous
-Heart Of Darkness
-Kidnapped
-The Once And Future King
-The Magicians
-Jonathan Livingston Seagull
-Darker Than You Think
-War With The Newts
-George's Marvelous Medicine
-Angela's Ashes
-Fire And Hemlock
-The Red Tent
-Anansi Boys
-Blood Work
-The Butcher's Boy
-The White Darkness
-King David's Spaceship
-The Makioka Sisters
-Hunter's Moon
-Half Moon Investigations
-The Transall Saga
-Modesty Blaise
-Diplomatic Immunity
-Void Moon
-The Game: Penetrating The Secret Society Of Pickup Artists
-They Thirst
-Roadmarks
-Valley Of The Dolls
-American Psycho
-Back Roads
-Skinny Dip
-Not A Penny More, Not A Penny Less
-Bill, The Galactic Hero
-Night Watch
-Beautiful Darkness
-The Truce At Bakura
-Death Masks
-Grendel
-Tau Zero
-Finnegans Wake
-The Great Gatsby
-A Connecticut Yankee In King Arthur's Court
-Wings
-Dragon Bones
-Brave New World
-The Kitchen God's Wife
-The Time Machine
-Freak The Mighty
-Leviathan
-Cosmos
-I Want To Go Home
-The Unicorn Girl
-Colony
-Sphere
-Speak
-The Reivers
-His Family
-The Jungle
-Bloodsucking Fiends
-Vineland
-Tarzan Of The Apes
-The Postman
-The Well Of Stars
-Bluebeard
-Up The Down Staircase
-Forbidden
-The Age Of Innocence
-Symposium
-Forrest Gump
-How I Live Now
-Firestarter
-Yendi
-Warrior Scarlet
-Romance Of The Three Kingdoms
-Felidae
-The Master And Margarita
-Enchanted Glass
-Holes
-Fearless
-Curtain
-Veniss Underground
-Horton Hears A Who!
-The Rainmaker
-Little Dorrit
-The High Crusade
-The Railway Children
-The Sacred Art Of Stealing
-All That Glitters
-Sophie's World
-Song Of Solomon
-Glass
-The Awakening
-Hyperion
-The First Circle
-My Side Of The Mountain
-The Bell Jar
-The Vor Game
-That Hideous Strength
-The Moving Finger
-Galilee
-Dombey And Son
-Little Brother
-War And Peace
-The Shadow Speaker
-The Regulators
-The Metamorphosis Of Prime Intellect
-The Captain's Daughter
-Duma Key
-The Poseidon Adventure
-The Light Of Other Days
-The Indian In The Cupboard
-The Name Of The Wind
-The Ringworld Engineers
-The Unwilling Warlord
-Who Goes There?
-Christine
-Comanche Moon
-Mistress Masham's Repose
-Life In The Fat Lane
-The Cardinal Of The Kremlin
-The Outsiders
-Chalice
-Enchantment
-A Princess Of Mars
-Tales Of A Fourth Grade Nothing
-Mitch And Amy
-Robots And Empire
-Hrolf Kraki's Saga
-El Filibusterismo
-Necromancer
-Harry Potter And The Deathly Hallows
-The Ophiuchi Hotline
-The Stars My Destination
-Island Of The Blue Dolphins
-Deep Six
-Little Fuzzy
-Evil Genius
-The Dogs Of War
-Raptor Red
-The Wizard Of Oz
-Diary Of A Wimpy Kid: The Last Straw
-Matilda
-Fever Dream
-Swan Song
-The Witch Of Blackbird Pond
-Lives Of The Saints
-Debt Of Honor
-The Eyes Of The Dragon
-Glory Road
-Daemon
-Misery
-Knowledge Of Angels
-Otherwise Known As Sheila The Great
-Old Man's War
-Vanity Fair
-Paladin Of Souls
-The Ghost Writer
-The Fox And The Hound
-Deerskin
-Too Many Magicians
-Permutation City
-Dolores Claiborne
-Black Bird
-Redwall
-Dune
-The Perks Of Being A Wallflower
-Legion
-A Christmas Carol
-The Treasure Of The Sierra Madre
-Planet Of The Apes
-The Ogre Downstairs
-Typewriter In The Sky
-The Taking
-Murder On The Orient Express
-An Instance Of The Fingerpost
-Spook Country
-Harry Potter And The Philosopher's Stone
-Patriot Games
-Peter Pan In Kensington Gardens
-Vurt
-Idoru
-Diary Of A Wimpy Kid
-What Katy Did
-When Worlds Collide
-The Hunchback Of Notre Dame
-The Thief Lord
-The Magician's Nephew
-Echo Park
-Push
-Replay
-Just Listen
-The Stress Of Her Regard
-A Night In The Lonesome October
-The Enemy
-Strip Tease
-Daughter Of The Forest
-Hard Times
-Modelland
-Eight Days Of Luke
-A Civil Campaign
-Tiger Eyes
-The Apocalypse Troll
-The True Story Of The Three Little Pigs
-If I Stay
-The Familiar
-Inkheart
-Stardust
-The Emperor's New Clothes
-The Conformist
-Lost Girls
-Stargirl
-Jack Of Shadows
-I Am The Messenger
-Chasm City
-House Of Suns
-The Twits
-Heart Of A Dog
-Sword At Sunset
-The Turn Of The Screw
-Geography Club
-Crusade
-Millennium
-The Idiot
-Love In The Time Of Cholera
-Dark Lord Of Derkholm
-Sepulchre
-A Separate Peace
-All Quiet On The Western Front
-Murder On The Leviathan
-Persuasion
-Cryptid Hunters
-Methuselah's Children
-The Lion, The Witch And The Wardrobe
-Going Bovine
-By The Light Of The Moon
-Plain Kate
-The First Men In The Moon
-Luna
-The Rowan
-Riotous Assembly
-The Poison Belt
-Dragonfly
-Cold Comfort Farm
-The Perfect Storm
-Logan's Run
-High Fidelity
-Embassytown
-State Of Fear
-Cockroach
-Death In Venice
-Dragonheart
-Diamonds Are Forever
-Nights At The Circus
-Next
-Shards Of Honor
-Fantastic Beasts And Where To Find Them
-Drawing Blood
-Revelation
-The Black Swan
-Tides Of War
-Castaways Of The Flying Dutchman
-Dirk Gently's Holistic Detective Agency
-Coldheart Canyon
-The Count Of Monte Cristo
-The Underneath
-Doomsday Book
-Five Weeks In A Balloon
-The Outlaws Of Sherwood
-One Of Ours
-Federation
-Rose Madder
-The Brothers Karamazov
-The Power And The Glory
-A Time To Kill
-Starman Jones
-The Rolling Stones
-Feed
-The Lost Prince
-The Truth About Forever
-A Tree Grows In Brooklyn
-White Teeth
-Native Son
-Win, Lose Or Die
-His Dark Materials
-Here Be Dragons
-The Accidental Time Machine
-The Pigman
-Intervention
-Mr. Monk And The Blue Flu
-Jane Of Lantern Hill
-From A Buick 8
-Mr. Monk Goes To The Firehouse
-Teckla
-Indian Killer
-Harry Potter And The Goblet Of Fire
-Far Rainbow
-Invasion
-Little Women
-Infinity Beach
-Brothers In Arms
-Carnosaur
-The Song Of Roland
-The Hallowed Hunt
-Cetaganda
-Jacob Have I Loved
-Serpent's Reach
-The Girl Who Circumnavigated Fairyland In A Ship Of Her Own Making
-Brat Farrar
-The Curious Incident Of The Dog In The Night-time
-Team Yankee
-Thr3e
-Cloud Atlas
-An Abundance Of Katherines
-Battle Royale
-Twisted
-True Grit
-Fairest
-A Thousand Splendid Suns
-Heck: Where The Bad Kids Go
-Sunrise
-Once
-The Number Of The Beast
-The Prague Cemetery
-Lost Light
-The Poet
-Dreadnought
-The Alchemist
-Double Star
-Beastly
-Mystic River
-It's Kind Of A Funny Story
-Count Zero
-The Giver
-The House At Pooh Corner
-Harry Potter And The Half-blood Prince
-First Contact?
-Shade's Children
-Goodbye, Mr. Chips
-A Swiftly Tilting Planet
-Animal Farm
-Lammas Night
-The Plague
-The Monster Men
-Funeral Games
-Paradise Lost
-The Tale Of Mr. Tod
-The Devil Wears Prada
-Paper Towns
-Porno
-Death Is Forever
-The Lords Of Discipline
-Lisey's Story
-Angel Fire East
-Washington Square
-I Know What You Did Last Summer
-Migraine
-Protector
-Eastern Standard Tribe
-The Neverending Story
-Ella Enchanted
-Red Rabbit
-The Goblin Wood
-Infected
-Midnight
-Lady In Waiting
-The Day Of The Locust
-Flashman
-Shardik
-The Bourne Identity
-Silverwing
-Lock And Key
-Betrayed
-Time And Again
-Whirlwind
-The Good Earth
-Last Man Standing
-Son Of The Mob
-The Man In The High Castle
-The World According To Garp
-Lonesome Dove
-Twilight
-The Last Song
-Neverwhere
-Machine Man
-The Monkey's Paw
-Bimbos Of The Death Sun
-Devil May Care
-Carrion Comfort
-Messenger
-Doctor's Orders
-Dragon Steel
-Amelia Bedelia
-Palimpsest
-Marked
-Bad Dreams
-Z For Zachariah
-The Elegance Of The Hedgehog
-Absolute Power
-Demons
-Carmilla
-Dead Or Alive
-Evolution
-Esio Trot
-Silas Marner
-The Dark Half
-A Tale Of Time City
-Spock Must Die!
-Firefox
-Kiss
-The Scar
-The Hounds Of The Morrigan
-Wilt
-The Manchurian Candidate
-Big Trouble
-Celestial Matters
-Day Of Reckoning
-So Long, And Thanks For All The Fish
-Stand On Zanzibar
-The Gruffalo
-Earth Abides
-Fledgling
-Blood Rites
-The Worm Ouroboros
-Blood Of Elves
-Ecotopia
-Dr. Franklin's Island
-I, Lucifer
-Hexwood
-Journey To The Center Of The Earth
-Pygmy
-The Long Goodbye
-Jurassic Park
-Parable Of The Talents
-The Diamond Girls
-Pirate Latitudes
-Lucifer's Hammer
-Was
-The Sun Also Rises
-Bag Of Bones
-The Prefect
-Dragon War
-The Divide
-Skulduggery Pleasant
-Island Of The Aunts
-The Talisman
-Up In The Air
-Po-on
-Bug Jack Barron
-John Dies At The End
-Living Dead Girl
-The Pursuit Of Love
-Aeneid
-The High Window
-Red Army
-Heir To The Empire
-The Pickwick Papers
-Memories Of Ice
-Storm Thief
-Last Of The Breed
-Pushing Ice
-Ozma Of Oz
-The Big Wave
-The Valley Of Fear
-Shutter Island
-Fade
-Jin Ping Mei
-The Homeward Bounders
-Baudolino
-Ragtime
-Swallows And Amazons
-Betsy-tacy
-The Little Golden Calf
-The Snow Queen
-The Murder Of Roger Ackroyd
-Power Of Three
-The Far Pavilions
-The Tommyknockers
-The Collector
-Darkest Hour
-Dreamsnake
-K-pax
-Thinner
-Infernal Devices
-The Ruins
-Birthright
-The Thirteen Problems
-Dance Of Death
-Man After Man: An Anthropology Of The Future
-The Integral Trees
-Red Harvest
-Quarantine
-Orca
-In The Time Of The Butterflies
-Evil Under The Sun
-I Miss You, I Miss You!
-The Boys From Brazil
-The Nightingale
-Running Out Of Time
-The Program
-Dead Souls
-Mass Effect: Revelation
-Hero
-The Caves Of Steel
-At Swim, Two Boys
-Thirsty
-Rinkitink In Oz
-Bend Sinister
-Sylvie And Bruno
-Passage
-The Go-between
-First Blood
-Cloudstreet
-The Long Walk
-The Three Musketeers
-Summerland
-Smiley's People
-Sleeping Freshmen Never Lie
-Will Grayson, Will Grayson
-The Eye Of Argon
-Interview With The Vampire
-Venus In Furs
-The Difference Engine
-Give A Boy A Gun
-Be More Chill
-Wildwood Dancing
-Peter Pan In Scarlet
-Jennie
-Midnight At The Well Of Souls
-Eragon
-The Gathering
-Islands In The Net
-Earth Unaware
-The Bell At Sealey Head
-The Da Vinci Code
-A Study In Scarlet
-Heir Apparent
-Go Ask Alice
-The Pearl
-On The Run
-The Carpet People
-The Farthest Shore
-Footfall
-The House On The Borderland
-Babel-17
-The Ear, The Eye, And The Arm
-The Red Necklace
-Blindness
-Courtship Rite
-Mister B. Gone
-Fire Bringer
-Without Remorse
-A Storm Of Swords
-Harry Potter And The Chamber Of Secrets
-The Postman Always Rings Twice
-My Sister's Keeper
-Gladiator
-Tales Of Pirx The Pilot
-The Restaurant At The End Of The Universe
-The Monk
-Right Ho, Jeeves
-Elantris
-Between Planets
-Go Tell It On The Mountain
-Black Blade
-Shadow Kiss
-Heretics Of Dune
-Lullaby
-Girl, Interrupted
-Lord Of The Flies
-Reamde
-James And The Giant Peach
-The Thorn Birds
-Memnoch The Devil
-I Am The Cheese
-The Sleeper Awakes
-A Farewell To Arms
-The Mysterious Affair At Styles
-Emil And The Detectives
-Brokenclaw
-Identical
-The Color Purple
-To Sail Beyond The Sunset
-The Book Of The Dun Cow
-The Chocolate War
-The Witches
-Angels And Demons
-Wintergirls
-The Reader
-Cujo
-The Fantastic Flying Journey
-Prey
-Ringworld
-Hideaway
-The Doll People
-Robinson Crusoe
-Childhood's End
-Dream Of The Red Chamber
-Prince Caspian
-Hatchet
-The Code Of The Woosters
-The Mad King
-Executive Orders
-The Thirty-nine Steps
-The Closers
-The Last Of The Mohicans
-The Historian
-The Stranger
-Cloudy With A Chance Of Meatballs
-The Yearling
-Way Station
-Moribito: Guardian Of The Spirit
-Redeeming Love
-Beast
-Cat And Mouse
-The Twelfth Card
-The Charterhouse Of Parma
-Look To Windward
-The Book Of Sorrows
-The Player Of Games
-The Highwayman
-Warbreaker
-After Doomsday
-House Of Many Ways
-City Of Light
-Alice's Adventures In Wonderland
-The Moth Diaries
-Life Among The Savages
-Northworld
-The Daughter Of Time
-Wild Swans
-Adventures Of Huckleberry Finn
-The Scarlet Letter
-The Hundred And One Dalmatians
-Dandelion Wine
-Dead Beat
-Nevada
-Notes On A Scandal
-Across The Nightingale Floor
-Farnham's Freehold
-Mr. Blandings Builds His Dream House
-My Sweet Audrina
-The Princess Diaries
-Utopia
-Alice Adams
-Definitely Maybe
-Ysabel
-Brokedown Palace
-Far-seer
-Starring Sally J. Freedman As Herself
-The Danish Girl
-The True Meaning Of Smekday
-The Road
-The Wild Boy
-Choke
-Uprising
-Nation
-Fevre Dream
-Jane Eyre
-The Hero And The Crown
-Ruled Britannia
-Artemis Fowl
-Deep River
-The Queen's Fool
-The Bad Seed
-Midnight Robber
-Sir Gawain And The Green Knight
-The Well Of Loneliness
-A Case Of Exploding Mangoes
-The Dark Side Of The Sun
-A Taste Of Honey
-Johnny Got His Gun
-Ghoul
-Voyage Of The Basset
-The Brothers Lionheart
-Horton Hatches The Egg
-American Gods
-New Moon
-Ring For Jeeves
-To Kill A Mockingbird
-The Gospel Of The Flying Spaghetti Monster
-Less Than Zero
-The Night Circus
-Mildred Pierce
-Dance Dance Dance
-The Third Policeman
-The Paladin
-Gateway
-Never Let Me Go
-Mirror, Mirror
-The Reversal
-Schild's Ladder
-A Canticle For Leibowitz
-The Big Four
-Summer Sisters
-Reckless
-Annie On My Mind
-Jude The Obscure
-For Special Services
-Ringworld's Children
-Trustee From The Toolroom
-Voyage
-Swamplandia!
-The Castle In The Attic
-The It Girl
-Burned
-Invisible Man
-Emergence
-The Island
-Bad Monkeys
-Coma
-Raptor
-The Princess And The Goblin
-Ramayana
-Robur The Conqueror
-King Solomon's Mines
-First King Of Shannara
-The Day Of The Triffids
-The Trial
-Tam Lin
-Lucky Jim
-Matter
-Mortal Engines
-The Wounded Sky
-The Road To Wellville
-David Copperfield
-Superfudge
-In The Courts Of The Crimson Kings
-The Fallen
-Blood Lines
-The Dragon And The George
-Balzac And The Little Chinese Seamstress
-Tempted
-Deliverance
-Jumper
-Against A Dark Background
-Rage
-World War Z
-The Light Princess
-The Polar Express
-Stranger In A Strange Land
-Pippi Longstocking
-Ethan Of Athos
-The Bone People
-Then Again, Maybe I Won't
-Breakfast At Tiffany's
-The Shining
-Book Of Esther
-The Black Unicorn
-Fingerprints
-The Great Divorce
-Vampire Academy
-Abhorsen
-Monster
-Peter Pan
-The Message
-As I Lay Dying
-Ice Station
-Mission Of Gravity
-Under The Net
-The Red Badge Of Courage
-Dying Of The Light
-Crime And Punishment
-Gulliver's Travels
-The Masque Of The Red Death
-Glinda Of Oz
-The Bourne Ultimatum
-The Stand
-The Guns Of Navarone
-Dragon's Oath
-Tailchaser's Song
-The Eyre Affair
-Blindsight
-The Tale Of Genji
-Outcast
-Rainbows End
-Epic
-The Graveyard Book
-The Beach
-Dragoncharm
-The Secret Garden
-Sunshine
-A Kiss Before Dying
-Zahrah The Windseeker
-Lord Of Light
-The Firm
-Cuckoo's Egg
-Beatles
-Necroscope
-A Clockwork Orange
-The Sorrows Of Young Werther
-The Great God Pan
-Spinneret
-The Haunting Of Alaizabel Cray
-The Shipping News
-Pet Sematary
-Kafka On The Shore
-The Glove Of Darth Vader
-Iggie's House
-The Saint Of Dragons
-Master And Commander
-Where The Red Fern Grows
-Darkness At Noon
-Dragonsbane
-Idlewild
-A Midsummer Tempest
-Over Sea, Under Stone
-The Quantum Thief
-A Prayer For Owen Meany
-The Day Of The Jackal
-The Stranger Beside Me
-Forever
-Phule's Company
-Harriet The Spy
-This Rough Magic
-Run
-The Little Grey Men
-The Westing Game
-Henderson The Rain King
-The Keepers Of The House
-Ghostwritten
-Expecting Someone Taller
-Eternity Road
-Captain Corelli's Mandolin
-The Word For World Is Forest
-Typhoon
-Oliver Twist
-The Prestige
-The Robots Of Dawn
-Child Of God
-Oblomov
-East Of Eden
-Along Came A Spider
-The Wind-up Bird Chronicle
-The Mill On The Floss
-The Emigrants
-Fear And Loathing In Las Vegas
-The Island Of Sheep
-The Strain
-Cell
-Athyra
-The Voyages Of Doctor Dolittle
-Hunter
-The Night Gardener
-Hunter Of Worlds
-The Immortals
-The Old Man And The Sea
-A Wind In The Door
-My Uncle Oswald
-The God Of Small Things
-Varjak Paw
-The Little Engine That Could
-The Man With The Golden Gun
-Five Children And It
-The Sea-wolf
-Lady Susan
-Momo
-The Ice Limit
-House Rules
-The Sound And The Fury
-A World Out Of Time
-The Forest Of Hands And Teeth
-The Forgotten Beasts Of Eld
-Alamut
-The Savage Detectives
-Sing You Home
-The Last Unicorn
-The Remains Of The Day
-The Time Ships
-Rage: A Love Story
-The Diary Of A Young Girl
-Number The Stars
-Ender's Shadow
-Cold
-Creation
-The Game
-Greenmantle
-The Dain Curse
-The Hours
-Runt
-Relic
-The Scarecrow
-The Stones Are Hatching
-Hannibal
-The Trumpet Of The Swan
-The Howling
-Impossible
-Fall From Grace
-The Scarecrow Of Oz
-The Hobbit
-Practical Demonkeeping
-Galax-arena
-Here's To You, Rachel Robinson
-I Am Not A Serial Killer
-The Velveteen Rabbit
-Blood Feud
-Princess Academy
-The French Lieutenant's Woman
-Moll Flanders
-Bridge To Terabithia
-Revelation Space
-L.a. Confidential
-The Legend Of Sleepy Hollow
-Scarlett
-Rough Draft
-The Visitation
-Things Fall Apart
-Blackout
-The Egypt Game
-Dead Space: Martyr
-The Little Mermaid
-The Boleyn Inheritance
-Valis
-The Witches Of Eastwick
-House Of Leaves
-Dhalgren
-The Tale Of Peter Rabbit
-Switchers
-Foundation
-Beggars In Spain
-Dirge
-The Goose Girl
-Fallen Dragon
-The Secret
-The Way We Live Now
-Snow
-The Screwtape Letters
-The Borrowers
-Life Of Pi
-Time Out Of Joint
-Girls On Film
-This Perfect Day
-The Russia House
-The Bad Place
-The Quiet American
-The Years Of Rice And Salt
-Daisy Miller
-Flight
-Behind The Attic Wall
-Cyteen
-Sounder
-The Eight
-The Girl Next Door
-Island Of The Sequined Love Nun
-The Fury
-The Help
-Camelot 30k
-The Host
-Tangerine
-The Edge
-Pnin
-Mass Effect: Ascension
-White Fang
-Andersonville
-Lunar Park
-Six Suspects
-Curious George
-Pollyanna
-Fingersmith
-Frankenstein
-Cemetery Dance
-Ash
-The Narrows
-Chitty Chitty Bang Bang
-Podkayne Of Mars
-The Poisonwood Bible
-The World Inside
-Wake
-Disgrace
-Live And Let Die
-Green Angel
-Babylon Babies
-The Mysterious Benedict Society
-The Book Of Lies
-A Tale Of Two Cities
-Black Sun
-Where Angels Fear To Tread
-Our Mutual Friend
-Women In Love
-The Chocolate Touch
-Daddy-long-legs
-The Shadow Of The Wind
-Expiration Date
-The Productions Of Time
-Against The Day
-The Most Dangerous Game
-The War Of The Worlds
-Mardock Scramble
-I Am Number Four
-Airframe
-Ash: A Secret History
-The Loved One
-The Illustrated Mum
-Contact
-Tigana
-A Darkness More Than Night
-Phantastes
-Seventh Son
-Northern Lights
-Conqueror
-The Black Dahlia
-Exodus
-The Documents In The Case
-Demon In My View
-Divine Secrets Of The Ya-ya Sisterhood
-The Magus
-The Given Day
-Dreamcatcher
-Ranks Of Bronze
-Regenesis
-One Flew Over The Cuckoo's Nest
-Chimera
-The Rime Of The Ancient Mariner
-Parker Pyne Investigates
-The Land That Time Forgot
-Just Ella
-The Telling
-Which Witch?
-The Brief Wondrous Life Of Oscar Wao
-Nine Princes In Amber
-I Am Legend
-The Tale Of Jemima Puddle-duck
-Les Liaisons Dangereuses
-A Fine And Private Place
-The Dwarf
-The Man Who Would Be King
-The Canterville Ghost
-Because Of Winn-dixie
-No More Dead Dogs
-The Gripping Hand
-The Secret Agent
-Black Sunday
-Tehanu
-Icebreaker
-The Honourable Schoolboy
-A Family Affair
-Daniel Deronda
-Death Comes As The End
-Joy In The Morning
-The Spy Who Came In From The Cold
-Tropic Of Cancer
-Jhereg
-For All Time
-Nineteen Minutes
-White Night
-Parable Of The Sower
-Heaven
-Non-stop
-Stellaluna
-Children Of God
-The Five People You Meet In Heaven
-Colonel Sun
-The Sword Of Shannara
-The Shakespeare Stealer
-The Three Stigmata Of Palmer Eldritch
-Kiln People
-Christy
-Anno Dracula
-Lucky Starr And The Pirates Of The Asteroids
-Radio Free Albemuth
-The Lost Symbol
-Zero History
-Singularity
-Foundation And Earth
-Atonement
-Cagebird
-Never Dream Of Dying
-Tyrannosaur Canyon
-Towards Zero
-V
-The Two Princesses Of Bamarre
-Mass Effect: Retribution
-Phoenix
-Mr. Monk In Trouble
-The Natural
-Dragon Cauldron
-Mona Lisa Overdrive
-Starship Troopers
-Halting State
-The Great Train Robbery
-Dune Messiah
-The Devil's Arithmetic
-The Lust Lizard Of Melancholy Cove
-The Mirror Crack'd From Side To Side
-Hard-boiled Wonderland And The End Of The World
-Get Shorty
-The Man Who Folded Himself
-Flipped
-Tactics Of Mistake
-A Gift From Earth
-Crash
-The Man Who Fell To Earth
-Naked Lunch
-Solaris
-Abarat
-The Kite Runner
-Strata
-A Deepness In The Sky
-Kiss Of The Spider Woman
-Heidi
-Charlie And The Chocolate Factory
-Destination Unknown
-Hush, Hush
-The Red And The Black
-The Hound Of The Baskervilles
-The Case Of Charles Dexter Ward
-Bring Up The Bodies
-Chosen
-Callahan's Crosstime Saloon
-Tom Brown's Schooldays
-The Ganymede Takeover
-Sense And Sensibility
-Lest Darkness Fall
-I Know Why The Caged Bird Sings
-Lolita
-Treasures Of The Snow
-The Night Land
-Mrs. Frisby And The Rats Of Nimh
-The Marvelous Land Of Oz
-The Wonderful Wizard Of Oz
-West Of Eden
-Maniac Magee
-The Proteus Operation
-Q And A
-The Charwoman's Shadow
-The Adventures Of Tom Sawyer
-Labyrinth
-The Clocks
-Book Of The Dead
-The Lady In The Lake
-The House Of The Spirits
-Blood Music
-The Changing Land
-Carrie
-Rendezvous With Rama
-The Mysterious Island
-King Rat
-The Bonfire Of The Vanities
-The Way To Dusty Death
-The Bear And The Dragon
-The Lost Years Of Merlin
-The Sight
-The Passage
-Double Identity
-Little Lord Fauntleroy
-Howl's Moving Castle
-Tunnel In The Sky
-Lightning
-Cat's Cradle
-Olympos
-The Joy Luck Club
-Lucky Starr And The Moons Of Jupiter
-The Master Key
-Chasing The Dime
-Brown Girl In The Ring
-Postmortem
-Spider Kiss
-Haunted
-Rebecca Of Sunnybrook Farm
-The Sirens Of Titan
-Blaze
-The Maltese Falcon
-She's Come Undone
-My Family And Other Animals
-So You Want To Be A Wizard
-The Redemption Of Althalus
-Storm Front
-One Fine Day In The Middle Of The Night
-The Road To Oz
-The Hunting Of The Snark
-Inferno
-Zodiac
-The Drawing Of The Three
-Bastard Out Of Carolina
-A Civil Action
-A Fire Upon The Deep
-The Fall Of The House Of Usher
-Snow Falling On Cedars
-Requiem For A Dream
-Dear Mr. Henshaw
-Earthfall
-The Moon Is A Harsh Mistress
-Citizen Of The Galaxy
-The Ragwitch
-The Call Of The Wild
-Where The Wild Things Are
-Dorothy And The Wizard In Oz
-Wuthering Heights
-The Butcher Boy
-The Sum Of All Fears
-The Tenant Of Wildfell Hall
-Desperation
-Kira-kira
-Hart's Hope
-Warchild
-A Wrinkle In Time
-Cat Among The Pigeons
-Roadwork
-The Sky People
-Lorna Doone
-Dracula
-Digital Fortress
-Lemonade Mouth
-The Chosen
-Metro 2033
-Infinite Jest
-Crescendo
-Mansfield Park
-Sovereign
-Tunnels
-The Vicomte De Bragelonne
-The Mysteries Of Udolpho
-Ratman's Notebooks
-Black House
-Planet Of Exile
-Hawksong
-The Metamorphosis
-Glasshouse
-The Space Vampires
-The Beast Master
-The Katurran Odyssey
-The Name Of The Rose
-Survivors
-The Winter Queen
-Wasp
-A Little Princess
-Damnation Alley
-Aliens Ate My Homework
-Fitzpatrick's War
-From Here To Eternity
-The Running Man
-The Star Fraction
-The Satan Bug
-The Man With The Red Tattoo
-Paradox In Oz
-The Killing Star
-The Echo
-Zoo City
-Flood
-The Sparrow
-Mr. Monk Is Miserable
-You Only Live Twice
-Coyote
-A Wizard Of Earthsea
-Ethan Frome
-So Big
-The Shadow
-Phantoms
-Papillon
-Unseen Academicals
-After Dark
-The Burning Wire
-Quidditch Through The Ages
-Enchantress From The Stars
-Whale Talk
-The Fourth Protocol
-Perelandra
-The Star Beast
-Perdido Street Station
-The World At The End Of Time
-The Little Sister
-Firstborn
-Secrets
-The Door Into Summer
-Stormrider
-On The Road
-The Incredible Journey
-Lucky Starr And The Big Sun Of Mercury
-Awakened
-The Hitchhiker's Guide To The Galaxy
-The Mote In God's Eye
-The Girl Who Played With Fire
-The Girl Who Owned A City
-The Pushcart War
-The Gospel According To Larry
-Flowers For Algernon
-The Glass Books Of The Dream Eaters
-Good In Bed
-Old Yeller
-Day Watch
-Wizard And Glass
-The Man Who Laughs
-Distant Star
-Crime
-Interworld
-Venus
-The Land Of Laughs
-Anathem
-Kim
-Agnes Grey
-On The Beach
-Schismatrix
-Congo
-Friday
-Fablehaven
-The Peace War
-Hell House
-The Dunwich Horror
-Marabou Stork Nightmares
-Suspicion
-The Book Of Atrix Wolfe
-Endymion
-Laura
-The Steerswoman
-Heir Of Sea And Fire
-Memoirs Of An Invisible Man
-Forward The Foundation
-Monster Island
-Nightshade
-The Night Of Wishes
-Generation Dead
-Someone Like You
-Left Behind
-The Guns Of The South
-The Confession
-Witch World
-A Passage To India
-A Dance With Dragons
-Lost Horizon
-The Sandman
-Marrow
-Eon
-Icerigger
-The Gods Of Mars
-The Prophecy Of The Stones
-The Windup Girl
-Red Dragon
-Atlas Shrugged
-Threshold
-Chronicle Of A Death Foretold
-Le Morte D'arthur
-The Autumn Of The Patriarch
-Camouflage
-Sister Alice
-Diaspora
-Filth
-The Little White Horse
-The Black Tulip
-Small Steps
-Harry Potter And The Order Of The Phoenix
-Eaters Of The Dead
-Pastwatch: The Redemption Of Christopher Columbus
-Of Human Bondage
-The Supernaturalist
-Simon
-Clear And Present Danger
-The Mists Of Avalon
-The Ugly Duckling
-The Peshawar Lancers
-The White Company
-Book Of Ruth
-Evernight
-The Cask Of Amontillado
-Cut
-Lady Chatterley's Lover
-The Tinder Box
-Barney's Version
-Of Mice And Men
-Around The World In Eighty Days
-Precious Bane
-A Dog Of Flanders
-Rimrunners
-Hans Brinker, Or The Silver Skates
-Billy Budd
-Dersu Uzala
-The Pelican Brief
-The Outsider
-When Hitler Stole Pink Rabbit
-The Sea Hawk
-Steel Beach
-It Can't Happen Here
-The Cider House Rules
-East
-The Phantom Of The Opera
-Middlesex
-Warlock
-The Hunt For Red October
-The Icarus Hunt
-Seafire
-Robopocalypse
-Down And Out In The Magic Kingdom
-The Man Who Was Thursday
-Windhaven
-Anne Of Green Gables
-Singularity Sky
-Psycho
-Iron Council
-Journey To The River Sea
-The White Tiger
-Out Of The Silent Planet
-And Another Thing...
-Tender Is The Night
-How Green Was My Valley
-Dragon's Egg
-The Silmarillion
-Exit To Eden
-Mr. Monk On The Couch
-The Exorcist
-Pride And Prejudice
-Imaro
-Deep Secret
-Imperium
-Nightworld
-Nova
-Island In The Sea Of Time
-Danny And The Dinosaur
-Variable Star
-Westmark
-Rebecca
-Sahara
-The Golden Globe
-Tristan And Iseult
-Never Send Flowers
-My Name Is Legion
-Everlost
-Effi Briest
-The Time Of The Ghost
-Bleak House
-The Unknown Soldier
-The Lives Of Christopher Chant
-Farewell, My Lovely
-The Virgin Suicides
-Pattern Recognition
-The Season Of The Witch
-I Capture The Castle
-The Boy In The Striped Pyjamas
-Don Quixote
-This Lullaby
-The War Of The Flowers
-The Betrothed
-Kindred Spirits
-Something Wicked This Way Comes
-The Lions Of Al-rassan
-The Excalibur Alternative
-North And South
-And Then There Were None
-To The Stars
-Warday
-Foundation's Edge
-Black Beauty
+Drumline
+Antonia's Line
+Damien: Omen II
+Bandits
+Road House
+Enemy at the Gates
+What's Eating Gilbert Grape
+Father of the Bride
+Agnes of God
+Sophie Scholl: The Final Days
+Kiki's Delivery Service
+Now You See Me
+Scary Movie 3
+The Master
+Madagascar: Escape 2 Africa
+Mickey Blue Eyes
+Seven Years in Tibet
+Torn Curtain
+Mrs. Winterbourne
+Backdraft
+The First Wives Club
+The Godfather: Part II
+Burn After Reading
+Who's Afraid of Virginia Woolf?
+The Cooler
+Failure to Launch
+The White Balloon
+Flirting with Disaster
+Bruce Almighty
+Felon
+Godzilla 2000
+Quills
+Wasabi
+Scream 3
+Not Another Teen Movie
+The Getaway
+Mud
+Cries and Whispers
+Zoolander
+Drive Me Crazy
+Baby Mama
+Show Me Love
+Supergirl
+Premium Rush
+Super Size Me
+The Stupids
 Emma
-The Stepford Wives
-Gai-jin
-Fat Kid Rules The World
-The Mothman Prophecies
-Lord Jim
-Insomnia
-The Midwich Cuckoos
-Charlie And The Great Glass Elevator
-The Green Mile
-The Flame And The Flower
-Boy's Life
-The Curse Of Chalion
-Love In A Cold Climate
-Dearly Devoted Dexter
-Plague Ship
-Mockingbird
-War For The Oaks
-Jaws
-Spin
-The Rules Of Attraction
-Mr. Monk In Outer Space
-Neuromancer
-Space Cadet
-The Fault In Our Stars
-The Tale Of Despereaux
-Shadow
-If There Be Thorns
-The Princess And Curdie
-Emmanuelle
-Fight Club
-Smith Of Wootton Major
-Winter
-An American Tragedy
-Dark Prince
-Blue Moon Rising
-The Forever War
-Memoirs Of A Geisha
-White Shark
-The Body Of Christopher Creed
-The Gone-away World
-The Hotel New Hampshire
-Special Topics In Calamity Physics
-The Wish List
-The Sword In The Stone
-Tooth And Claw
-Playback
-The Languages Of Pao
-Parasite Eve
-Swindle
-Pharaoh
-Needful Things
-Magnus
-Catalyst
-Memory
-Blood Fever
-Red Storm Rising
-Going Postal
-Blind Lake
-The Man With The Iron Heart
-The Fifth Child
-Staying Fat For Sarah Byrnes
-On Stranger Tides
-The Doll
-The People That Time Forgot
-The Europeans
-The Warden
-The Swiss Family Robinson
-Nevermore
-About A Boy
-Biting The Sun
-The Secret Of Platform 13
-The Blue Castle
-Malevil
-The Descent
-The Andromeda Strain
-A Walk To Remember
-Burndive
-The Voyage Of The Space Beagle
-Ivanhoe
-Mr. Monk On Patrol
-Shane
-The Girl With The Dragon Tattoo
-Aristoi
-Roll Of Thunder, Hear My Cry
-Anthem
-Charlotte Temple
-Ordinary People
-Conan The Barbarian
-Edenborn
-Barrayar
-The Blind Assassin
-The Wind In The Willows
-A Tangled Web
-Skylark Of Valeron
-The Sea Of Trolls
-I Will Fear No Evil
-Fiasco
-Damned
-Scoop
-Interstellar Pig
-War Horse
-Catch-22
-A Scanner Darkly
-The Prince
-The Empty Chair
-Doppelganger
-Despair
-The Gods Themselves
-Hidden Empire
-I Had Trouble In Getting To Solla Sollew
-Sixth Column
-Alas, Babylon
-Broken Angels
-The Last Battle
-The Moviegoer
-The Tin Drum
-Windfall
-The Life And Adventures Of Santa Claus
-Delirium
-It
-The Phantom Of Manhattan
-The Naked Sun
-At The Earth's Core
-Dark Places
-Santa Olivia
-Northanger Abbey
-The Casual Vacancy
-Airborn
-The Forest Of Doom
-Zorro
-Guess How Much I Love You
-The Dream-quest Of Unknown Kadath
-Trainspotting
-Fudge-a-mania
-The Fountainhead
-Allegiance
-Blood And Chocolate
-Earthborn
-The Last Of The Really Great Whangdoodles
-The Fall
-The Ugly Little Boy
-The Ballad Of The White Horse
-Midnight Whispers
-The Deerslayer
-First Light
-The Namesake
-The Half-made World
-Finity's End
-The Haunting Of Hill House
-The Pilgrim's Progress
-The Club Dumas
-Room 13
-Green
-Creatures Of Light And Darkness
-Killshot
-Avalon High
-The Catcher In The Rye
-The General
-Tuck Everlasting
-Petals On The Wind
-Brimstone
-Independence Day
-The Adventures Of Pinocchio
-Ready Player One
-The Invisible Man
-There's A Boy In The Girls' Bathroom
-Job: A Comedy Of Justice
-Restoree
-Bone Dance
-Freckles
-The Woman In White
-A Single Man
-Romola
-Summer Of Night
-Thirteen Reasons Why
-Shadow Puppets
-Blood Canticle
-Un Lun Dun
-The Cat Who Walks Through Walls
-The Turner Diaries
-Another
-Changes
-Weaveworld
-A Talent For War
-World Without End
-The Iron Heel
-Lady Audley's Secret
-Feersum Endjinn
-The Whipping Boy
-Graceling
-Ninety-three
-Hex
-Castle In The Air
-Watership Down
-Eugene Onegin
-Reliquary
-Farmer Giles Of Ham
-Twenty Years After
-Pinball, 1973
-Julian
-We Have Always Lived In The Castle
-Frostbite
-Goodnight Moon
-Rule 34
-The Little Prince
-The Thirteenth Tale
-Burmese Days
-Giovanni's Room
-The Last Hurrah
-For Whom The Bell Tolls
-Genesis
-Foucault's Pendulum
-Room
-Peter And The Starcatchers
-Picnic At Hanging Rock
-Thumbelina
-Phantom
-Hunted
-The Black Tattoo
-Deception Point
-Star Island
-The Phantom Tollbooth
-The Bfg
-White Cat
-Harry Potter And The Prisoner Of Azkaban
-Katherine
-Time Enough For Love
-Down A Dark Hall
-Twenty Thousand Leagues Under The Sea
-Oryx And Crake
-Archer's Goon
-Impulse
-Presumed Innocent
-A Fire In The Sun
-One Day
-The Pillars Of The Earth
-The Alienist
-The Prisoner Of Zenda
-Spider-man: The Darkest Hours
-Cold Mountain
-Zombie
-Gil's All Fright Diner
-Ghost Story
-Foreigner
-The Landry News
-Seven Days In May
-Why Not Me?
-Water For Elephants
-The War Of The Roses
-God Emperor Of Dune
-The Wonderful Adventures Of Nils
-Many Waters
-Illegal Aliens
-One For The Morning Glory
-The Sicilian
-Brothers Of Earth
-The Last Book In The Universe
-The Odessa File
-Double Fudge
-We
-The Sunne In Splendour
-The Lies Of Locke Lamora
-Snow Country
-Framed
-The Frog King
-Mr. Popper's Penguins
-Country Of The Blind
-Mcteague
-Ramona
-Sense And Sensibility And Sea Monsters
-The Hero With A Thousand Faces
-The Magic Pudding
-Red Azalea
-Quite Ugly One Morning
-Without Warning
-The Survivor
-Maia
-Notes From Underground
-Laughter In The Dark
-The Pinballs
-The Final Solution
-Hope Was Here
-Time For The Stars
-The Tale Of Benjamin Bunny
-Survivor
-Transition
-Gentlemen Of The Road
-The War Of The End Of The World
-A Pack Of Lies
-The Autobiography Of An Ex-colored Man
-Remnant Population
-For Us, The Living: A Comedy Of Customs
-Groosham Grange
-Shibumi
-Wise Children
-So Yesterday
-Distant Waves
-China Mountain Zhang
-Dead Reckoning
-Microserfs
-Black Light
-Down And Out In Paris And London
-The Dice Man
-Nightjohn
-White
-Olivia
-Stuart Little
-Dark Carnival
-On My Honor
-American Pastoral
-Love You Forever
-Flesh And Blood
-Leaving Poppy
-The Tale Of The Flopsy Bunnies
-Triptych
-Mr. Monk On The Road
-Time's Arrow
-His Master's Voice
-That Was Then, This Is Now
-Confessions Of A Mask
-The Fifty Year Sword
-Bumface
-The Time Wanderers
-All Tomorrow's Parties
-Faerie Tale
-Mr. Monk Is Cleaned Out
-National Velvet
-To The Lighthouse
-Let It Snow
-Mr. Monk Goes To Germany
-The Razor's Edge
-The End Of The Affair
-Smilla's Sense Of Snow
-Winter Kills
-Echoes
-The Mysteries Of Harris Burdick
-The Vampyre
-A Planet Called Treason
-A Case Of Need
-Corduroy
-Lilith
-Loser
-True Talents
-Charlotte Sometimes
-Open Veins Of Latin America
-Crusade In Jeans
-Aftermath
-Space Opera
-Star Of The Sea
-The Crucible Of Time
-City On Fire
-Politics
-The Return Of The Native
-Blue Moon
-Elsewhere
-Freedom
-Trilby
-Encounter With Tiber
-Came Back To Show You I Could Fly
-Franny And Zooey
-The Castle In The Forest
-Reaper
-A Matter Of Profit
-Pubis Angelical
-The Flying Sorcerers
-A World Of Difference
-The Secret River
-This Is All: The Pillow Book Of Cordelia Kenn
-Fall On Your Knees
-Death To The French
-The Mysteries Of Pittsburgh
-Scorpion
-The Tailor Of Gloucester
-The Eye Of The Heron
-The Shockwave Rider
-The Flying Classroom
-Under The Yoke
-Nightfall
-The Dead
-The Boy In The Dress
-Dogsbody
-Godless
-Legacy
-Death Wish
-That Summer
-Archangel
-Deepwater Black
-A Widow For One Year
-Vox
-The Fountains Of Paradise
-Ways To Live Forever
-The Haunting
-Making History
-The Lost Thing
-Virtual Light
-At The Back Of The North Wind
-The Miraculous Journey Of Edward Tulane
-Sputnik Sweetheart
-A Martian Odyssey
-Waldo
-Officer Buckle And Gloria
-Primary Colors
-The Underdogs
-The Astronauts
-Jennifer, Hecate, Macbeth, William Mckinley, And Me, Elizabeth
-Glory Lane
-All The Pretty Horses
-The Ant And The Elephant
-The Beasts Of Clawstone Castle
-Farmer In The Sky
-Seventeen
-Expendable
-The Steadfast Tin Soldier
-Disclosure
-Zuleika Dobson
-The Giving Tree
-Beauty
-Tamsin
-Does My Head Look Big In This?
-The Very Hungry Caterpillar
-Harbour
-The Ghost
-The Lost World
-Dreamland
-The Chamber
-Saint
-The Art Of Racing In The Rain
-Uhura's Song
-Cannery Row
-Rubyfruit Jungle
-Keeping The Moon
-Light A Penny Candle
-Sarny
-Tooth And Nail
-The Library Of Babel
-Son Of A Witch
-Light In August
-Pigs In Heaven
-Titan
-Binary
-The Terminal Man
-A Town Like Alice
-Beasts Of No Nation
-The Ties That Bind
-White Jazz
-Everyman
-Bless The Beasts And Children
-Empire
-The Story Of Doctor Dolittle
-The Stone Angel
-Othello
-Antigone
-The Tempest
-Edward Ii
-The Time Of Your Life
-Brigadoon
-November
-Spring Awakening
-King Lear
-The Marriage Of Figaro
-True West
-Betrayal
-The Cherry Orchard
-Rent
-Blood Brothers
-Once In A Lifetime
-The Glass Menagerie
-Our Town
-The Clouds
-Julius Caesar
-Romeo And Juliet
-The Fantasticks
-The Visit
-The Birthday Party
-All's Well That Ends Well
-The Boys In The Band
-Charley's Aunt
-Finale
-Peer Gynt
-Fences
-Mary, Mary
-The Effect Of Gamma Rays On Man-in-the-moon Marigolds
-Ghosts
-Inheritance
-Waiting For Godot
-Hay Fever
-The Comedy Of Errors
-The Seagull
-Chicago
-Company
-Strange Interlude
-The Golden Apple
-Private Lives
-Show Boat
-Henry Viii
-Oedipus At Colonus
-King John
-Journey's End
-Richard Ii
-An Ideal Husband
-Medea
-Rhinoceros
-The Two Noble Kinsmen
-A Midsummer Night's Dream
-Antony And Cleopatra
-The Piano Lesson
-Speed-the-plow
-Something Rotten
-Woyzeck
-The Merchant Of Venice
-Too Many Cooks
-Passion
-A Streetcar Named Desire
-Blithe Spirit
-Three Sisters
-The Vagina Monologues
-Love's Labour's Lost
-Macbeth
-The Mousetrap
-Equus
-American Buffalo
-The Birds
-The Taming Of The Shrew
-As You Like It
-The Tragical History Of Doctor Faustus
-Nunsense
-Titus Andronicus
-Measure For Measure
-The Devil's Disciple
-Richard Iii
-Cloud Nine
-The Rivals
-Assassins
-Cyrano De Bergerac
-Fool For Love
-Born Yesterday
-Hamlet
-The Krockman
-The Oathsworn
-Around the World in 80 Days
-Brian's Saga
-Dragonlance
-Throne of Glass
-Tortall Universe
-The Perks of Being a Wallflower
-Department 19
-The Disaster Artist
-Star Wars: Red Harvest
-Penryn and the End of Days
-Cormoran Strike Novels
-Wulfrik
-Magic 2.0
+Fresh
+Serial Mom
+Children of the Corn
+The Silence of the Lambs
+Collateral
+Indiana Jones and the Temple of Doom
+Dogtooth
+Cube
+The Big Lebowski
+Death at a Funeral
+Arachnophobia
+The Theory of Everything
+Elektra
+Gigi
+Rushmore
+Mission: Impossible - Ghost Protocol
+Mirror Mirror
+Scary Movie 4
+Hitman: Agent 47
+Sex and the City 2
+Species II
+Soul Food
 The Book Thief
-The Inkworld Trilogy
-The Wheel of Time
-Bridge to Terabithia
-White Oleander
-Asian Saga
-Sherlock Holmes
-Counselors and Kings
-The Black Witch Chronicles
-Relic Master
-Star Trek: New Frontier
-Goosebumps
-Romance of the Three Kingdoms
-Crime and Punishment
-The Silver Chair
-Harry Potter and the Goblet of Fire
-Dragonback
-Sten
-The Three Investigators
-Cthulhu Armageddon
-Wolf Hall
-Steelheart
-Nantucket Trilogy
-The Hunt for Red October
-Phantom's Reckoning
-John Dies at the End
-The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making
-Penny Parker
-Kinetic Adventures
-The Dark Hunters
-TimeRiders
-Velveteen vs.
-Skippy Dies
-The Magic Treehouse
-A Practical Guide To Evil
-Survivor Dogs
-To Say Nothing of the Dog
-Wandering Djinn
-Solomon Kane
-The Robots of Dawn
-Heart of Steel
-Wayside School
-The First Law
-Eludoran
-A Series of Unfortunate Events
-The Moon Is a Harsh Mistress
-Brotherband
-Dollanganger Series
-Live by Night
-Nuklear Age
-Moby-Dick
-Hercule Poirot
-Caliphate
-Spore Wiki Fiction Universe
-A Net of Dawn and Bones
-Azure Rain
-The Heir Chronicles
-False Memory
-Ruler of the Magical Keys
-This Book Is Full of Spiders: Seriously, Dude, Don't Touch It
-Vampire Huntress Legend
-Dark Rendezvous
-Books of Kings
-Alice's Adventures in Wonderland
-The Sookie Stackhouse Mysteries
-Mattimeo
-Mordant's Need
-The Raven Cycle
-Ramona Quimby
-Inheritance Trilogy
-For Whom the Bell Tolls
-The Ruby Red Trilogy
-The Sevenwaters Trilogy
-My Teacher Is an Alien
-Hank the Cowdog
-Gadsby
-Release That Witch
-Project Pascal
-The Stormlight Archive
-Seirei Gensouki: Spirit Chronicles
-Lord of the Flies
-First Sword Chronicles
-Star Wars: Ahsoka
-The Intercontinental Union of Disgusting Characters
-Dark Nest Trilogy
-Mother of Learning
-The Masque of the Red Death
-Skin Game
-Mahabharata
-Arcane Ascension
-Dragon Prince
-The Night's Dawn Trilogy
-Rachel Griffin
-Shades of Magic
-Beyond the Impossible
-The Bedwyn Saga
-The Railway Series
-Jonathan Strange & Mr Norrell
-Breathing Underwater
-Existence
-Cheaper by the Dozen
-Spenser
-Troy Rising
-Micro
-Daughter of Smoke and Bone
-The Power of Five
-Palace of Treason
-The Book of Mormon
-St. Clare's
-Pretty Girls
-The Red Vixen Adventures
-The Last Dove
-In Her Shoes
-Tantei Team KZ Jiken Note
-Warchild Series
-Tails Series
-Dragaera
-Spock's World
-Rook
-Calling All Heroes
-Magnus Chaseandthe Godsof Asgard
-The Witchlands
-Magister Trilogy
-Fate/strange fake
-The Icelandic Sagas
-Awaken The Stars
-Odd Thomas
-Fighting Fantasy
-The Candidates (based on a true country)
-The Grimnoir Chronicles
-Song at Dawn
-Rivers of London
-The Fault in Our Stars
-Merry Gentry
-Macdonald Hall
-Stones of Power
-13 Reasons Why
-Roll of Thunder, Hear My Cry
-The Season to Be Wary
-The Grapes of Wrath
-Words of Radiance
-The Worst Witch
-The United States of Monsters
-Transformers: Exodus
-The Guns of Navarone
-The Machineries of Empire
-Eight Cousins
-Alex Cross
-Grizzly Tales for Gruesome Kids
-The Cinder Spires
-Jack Reacher
-Miracle Monday
-Wax and Wayne
-Adventures of Huckleberry Finn
-The Call of Cthulhu
-Ambergris
-Moonraker
-Septimus Heap
-The Vampire Chronicles
-John Carter of Mars
-Dwarves
-The Dark Elf Trilogy
-The Black Company
-Magnus Chase and the Gods of Asgard
-H.I.V.E. Series
-Grimm Tales
-A Little Bush Maid
-Deltora Quest
-The Grisha Trilogy
-Journey to the West
-The Gulag Archipelago
-Blood Meridian
-The First Dwarf King
-The Goblin Emperor
-Victoria
-IT
-All the Wrong Questions
-The Tenant of Wildfell Hall
-Snow Crash
-Doctrine of Labyrinths
-The Heroes of Olympus
-Divergent
-Delirium Series
-Don Camillo
-Lincoln Rhyme
-The Case Files of Yakushiji Ryoko
-The Thrawn Trilogy
-A Pickle for the Knowing Ones
-New Series Adventures
-The Riftwar Cycle
-Gormenghast
-The Zombie Knight
-Career of Evil
-Go Set a Watchman
-Malus Darkblade
-Pact
-Angel Beats!
-The Nexus Series
-The Dreams Of Lonely Stars
-Worldwar
-Weave World
-Dragons
-Mr. Hook's Big Black Box
-Otherland
-Charlie and the Chocolate Factory
-The Cornelius Chronicles
-Warrior Cats: The New Prophecy
-Tasakeru
-American Girls Collection
-Legatum
-Guardians of the Flame
-Ender's Game
-Turn Coat
-Ravenor
-The Dalemark Quartet
-May Bird
-Eighth Doctor Adventures
-Anne of Green Gables
-The Riddle Master Trilogy
-Överenskommelser
-Ward
-Horatio Hornblower
-I, Robot
-The Catastrophe of the Emerald Queen
-The Witch Watch
-The Witcher
-Percy Jackson and the Olympians
-Please Don't Tell My Parents I Blew Up the Moon
-Blood Angels
-Perry Rhodan
-The Bleeder
-Theirs Not to Reason Why
-Gamer Girl (2008)
-The Paper Bag Princess
-Sector General
-A Song of Ice and Fire
-Black Jewels
-Escape to Witch Mountain
-The BFG
-Neuro Mancer
-Revan
-I Capture Thecastle
-Die Urbain Diablo
-The Harem Games
-Dream Park
-The Qur'an
-A Court of Thorns and Roses
-A Tale Of...
-In Death
-The Wind in the Willows
-Second Apocalypse
-Black Dagger Brotherhood
-Nickolai Of The North
-Confessions of a D-List Supervillain
-A Wrinkle in Time
-The Warlord Chronicles
-The Chronicles of Thomas Covenant
-It's a Good Life
-Over the Wine-Dark Sea
-The Kingkiller Chronicle
-Bloody Jack
-Grey Knights
-The Shadow Over Innsmouth
-Horus Heresy
-The Chronicles of Narnia
-Diary of a Wimpy Kid
-The Histories
-The Hagakure
-Winnie-the-Pooh
-Timeline-191
-Nemesis Series
-Castle in the Air
-Going Clear
-Bloodlines
-Dark Lord of Derkholm
-Star Trek: Myriad Universes
-Les Misérables
-Known Space
-Star Trek: Department of Temporal Investigations
-From Russia with Love
-CHERUB Series
-Chalet School
-The Bartimaeus Trilogy
-The Hell of the Nine Realms
-Wings of Fire
-Feathers And Mountain Air
-Super Sales on Super Heroes
-Youth in Sexual Ecstasy
-Mo Dao Zu Shi
-The Demonata
-Fifty Shades of Grey
-The Sisters Grimm
-Dork Diaries
-The Sorcerer's Daughter
-The Darkglass Mountain Trilogy
-The King's Avatar
-Fear Street
-Adolf Hitler: My Part in His Downfall
-In Fury Born
-Tails of Fame
-Wizard and Glass
-Wonder Woman: Warbringer
-The Odyssey
-Tales of the Five Hundred Kingdoms
-Beowulf
-The Heartstrikers
-The Cornersville Trace Mythos
-Teito Monogatari
-The Green Wanderer
-Destroyermen
-The Midnight Meat Train
-Sharp Objects
-I Have No Mouth and I Must Scream
-Book of Judges
-Leven Thumps
-Book of Genesis
-The Beyonders
-Warhammer Adventures
-Helm
-The Thirty-Nine Steps
-Nintendo Adventure Books
-Safehold
-We Are Legion (We Are Bob)
-The Year of Secret Assignments
-Guardians of Ga'Hoole
-Big Little Lies
-Kadu'av
-The Handmaid's Tale
-Rainbow Magic
-Lamb: The Gospel According to Biff, Christ's Childhood Pal
-Hyperion Cantos
-Village Tales
-Goddess Girls
-Rigante
-Monsters In My Mailbox
-His Fair Assassin
-Magic Kingdom of Landover
-Ciaphas Cain
-Betsy the Vampire Queen
-Chrestomanci
-Alex Rider
-Maximum Ride
-How the Grinch Stole Christmas!
-Unwind
-Fairy Tale Novels
-Scaramouche
-Worzel Gummidge
-Warrior Cats: Omen of the Stars
-Keeper Of The Lost Cities
-Book of Esther
-Harry Potter and the Deathly Hallows
-ghostgirl
-Old Kingdom
-Bolo
-Lola Rose
-Axis of Time
-Soul Drinkers
-To Kill a Mockingbird
-Monster Hunter International
-The Way of Kings
-Far Cry
-The Wasp Factory
-Cthulhu Mythos
-Storybros Magically Lewd Sleepover Adventure
-87th Precinct
-The Lovely Bones
-Joker Game
-Batman: Nightwalker
-Dear America
-Dear Dumb Diary
-Red Rising
-The Book of the Dun Cow
-Lagadin's Legacy
-Liaden Universe
-Bridget Jones
-Gemma Doyle
-Arabian Nights
-Space Marine Battles
-Malazan Book of the Fallen
-Help Not Wanted
-Chronicle of the Unhewn Throne
-Lunar Chronicles
-Book of the New Sun
-Roverandom
-The Prisoner of Zenda
-The Dogs
-Red Sparrow
-Gone Girl
-Immortals After Dark
-Maoyuu Maou Yuusha
-The Princess Series
-The Adventures of Pinocchio
-Hardy Boys
-Geek Love
-Legacy of the Aldenata
-Zer0es
-Secret Histories
-THIRDS Series
-Overlord2012
-The Bourne Series
-The Spiderwick Chronicles
-The Callista Trilogy
-Timothy Goes to School
-A Land Fit for Heroes
-Five Nights at Freddy's: The Silver Eyes
-Aubrey-Maturin
-The Children of Húrin
-The Moomins
-Eleanor & Park
-Terra Ignota
-The Wise Man's Fear
-Lethal White
-Outlander
-The Obernewtyn Chronicles
-Faeries of Dreamdark
-Outbound Flight
-The Star Kingdom
-Bravelands
-Rolitania
-Lovbird
-Subete ga F ni Naru
-Milly, Molly
-Dirk Pitt Adventures
-The Black Coats
-Acts of the Apostles
-Scary Stories to Tell in the Dark
-The Elenium
-Titus Crow
-Peeps
-The Vampire Diaries
-Night World
-Elcenia
-Cold Days
-Circleverse
-Mistborn: The Original Trilogy
-Viridian Saga
-The Lynburn Legacy
-Wing Commander
-Brother Cadfael
-The Impairment
-Moribito: Guardian of the Spirit
-The Magids
-Gaunt's Ghosts
-Sword of Truth
-Out of the Dark
-The Gate to Women's Country
-The Glass Castle
-The Stupidest Angel: A Heartwarming Tale of Christmas Terror
-Dragonriders of Pern
-The Land of Stories
-The Tale of Five
-The Voyage of the Dawn Treader
-Salem's Lot
-Grave Peril
-Doctor Dog
-American Subversive
-Brimstone Angels
-Earth's Children
-The Cuckoo's Calling
-Staying Fat for Sarah Byrnes
-The Selection
-Farsala Trilogy
-The Bands of Mourning
-Little Darlings
-The Lightning Struck Heart
-Shatterpoint
-Shannara
-Saga of Soul
-Summer Knight
-Tales from Jabba's Palace
-Chronicles of Chaos
-A More Personal Union
-The Saxon Stories
-Imperial Fists
-Johannes Cabal
-Trixie Belden
-Black Fleet Crisis
-Cilva
-Excession
-Dragon Keeper Chronicles
-Madgie, what did you do?
-Ex-Heroes
-House of Leaves
-Death Troopers
-House of the Scorpion
-Doctor Sleep
-Charlie Parker Series
-War of the Spider Queen
-Dinotopia
-The Lotus War
-Nagabumi
-The Last Dogs
-The Android's Dream
-The Cool Kids Chronicles
-Dragonfly: The Next Guardian
-The Unicorn Chronicles
-The Age of Misrule
-The Horse and His Boy
-Aesop's Fables
-Jeeves and Wooster
-Number the Stars
-Michael Vey
-Iron Warriors
-The Big One
-Midnighters
-Warrior Cats: The Original Series
-Hand of Thrawn
-Seeker Bears
-Guardians Of Gahoole
-The Return of the Condor Heroes
-Live and Let Die
-Warrior Cats: Power of Three
-Myth Adventures
-Books of Samuel
-Deepgate Codex
-Lensman
-Succession
-Star Wars: Bloodline
-The First Men in the Moon
-Earthsea
-Griffin Ranger
-Alouette's Song
-The Secrets of the Immortal Nicholas Flamel
-Out of Position
-Nemesis Saga
-Death Star
-The Forsaken Children
-Tooth and Claw
-Miss Peregrine's Home for Peculiar Children
-The Seven Realms Series
-Calenture
-Great Expectations
-Cal Leandros
-Le Morte Darthur
-The Darksword Trilogy
-Warrior Cats: Dawn of the Clans
-The Death Gate Cycle
-The Icemark Chronicles
-All Quiet on the Western Front
-The Diviners (2012)
-The Supervillainy Saga
-Alex Verus
-The Hunger Games
-Swallows and Amazons
-The Caster Chronicles
-Eisenhorn
-Children of the Red King
-New Jedi Order
-The Quest for Karla
-Sword of Shadows
-WondLa
-Wild Cards
-Mediochre Q Seth Series
-Worm
-Word Bearers
-Gotrek & Felix
-Kris Longknife
-The Black Magician Trilogy
-Fate/Apocrypha
-The Reckoners Trilogy
-Masks of Aygrima
-The Wardstone Chronicles
-Pretty Little Liars
-Soon I Will Be Invincible
-The 39 Clues
-Trylle Trilogy
-Pride and Prejudice
-Matched
-Nightmares & Dreamscapes
-Gates of Fire
-The Cosmere
-Kull
-ALiCE
-The Legendary Moonlight Sculptor
-Tails of the Bounty Hunter
-Discworld
-Harriet the Spy
-The Fionavar Tapestry
-The Count of Monte Cristo
-The School for Good and Evil
-The Devil Dances Trilogy
-Mercy Thompson
-Lucky Starr
-The Maze Runner
-Sammy Keyes
-Don't Call Me Ishmael!
-The Sharing Knife
-Escape from Furnace
-The Pendragon Adventure
-Keys to the Kingdom
-Greywalker
-Honor Harrington
-Twig
-The Dinosaur Lords
-Darth Plagueis
-A Giant Sucking Sound
-Let Me Off at the Top!
-Mirror World
-Seraphina
-The ColSec Trilogy
-Everworld
-Paladin of Shadows
-Small Favor
-Stephanie Plum
-Agent G
-Skyward
-The War of the Worlds
-Land of Oz
-The Chronicles of Prydain
-Nightside
-Dorothy Must Die
-The City of Never
-Journey to Chaos
-Trigger Mortis
-Harry Potter and the Chamber of Secrets
-Dinosaurs: The Most Complete, Up-to-Date Encyclopedia for Dinosaur Lovers of All Ages
-Stuck
-Never Where
-Lords of the Sith
-Luke Skywalker and the Shadows of Mindor
-Grand Central Arena
-Alice, Girl from the Future
-The Underland Chronicles
-Tales from Dimwood Forest
-Those That Wake
-Lady Of Gems
-Everybody Loves Large Chests
-The Phantom of the Opera
-Ulysses
-Kushiel's Legacy
-Star Trek: Klingon Empire
-James Bond
-The Second Gate
-Realm of the Elderlings
-The City Without Memory
-Karel En De Kindermoordenaar
-The Berenstain Bears
-The Shunned House
-The Long Ships
-The Night Angel Trilogy
-The Laundry Files
-Halvgudene
-Lone Wolf
-Douluo Dalu
-Why We Broke Up
-The Trials of Apollo
-Greenwater
-Star Trek Novel Verse
-The Great Brain
-The Camp Half-Blood Series
-Requiem for a Dream
-The Four Gospels
-Suggsverse
-The Mists of Avalon
-Onihei Hankachou
-Burgess Bedtime Stories
-The Saga of the Noble Dead
-Zero Sight
-The Never Mythos
-Chronicles of Elantra
-Dragon Jousters
-Legacy of the Dragokin
-Mary Poppins
-Someone Else's War
-Bunnicula
+Blind Date
+Nashville
+Batman Begins
+The Spanish Prisoner
+Who's Harry Crumb?
+Moonlight
+Cape Fear
+Chicago
+Lost in America
 Life of Pi
-The Icewind Dale Trilogy
-The Claidi Journals
-Nevermore (2010)
-Memory, Sorrow and Thorn
-The Kalevala
-Little House on the Prairie
-Six of Crows
-Mog
-Berättelse om herr Roos
-Mr. Men
-Lost Souls
-Shadows of the Apt
-The Lumatere Chronicles
-Codex Alera
-Red Room
-The Heather Wells Mysteries
-How to Survive a Zombie Apocalypse
-Sandokan
-Tairen Soul
-Super Filete
-Receiver of Many
-The Legend of the Condor Heroes
-Avalon: Web of Magic
-Sweet Valley High
-Deverry
-Dragon Series
-The Kane Chronicles
-The Wonderful Wizard of Oz
-Coiling Dragon
-Drenai
-Casino Royale
-Kate Daniels
-The Alloy of Law
-Aztec
-Brennus
-1632
-Ro Te O
-Incarnations of Immortality
-Have Space Suit – Will Travel
-The Star of the Guardians
-Phenomena
-Newsflesh
-Book of Exodus
-Adventure Hunters
-The Silkworm
-Space Wolf
-Gone
-Lucifer's Star
-October Daye
-The Dark Tower
-Annie on My Mind
-First Salik War
-The Jungle Book
-One Flew Over the Cuckoo's Nest
-Childe Cycle
-Conan the Barbarian
-The Call of the Wild
-Dangerous Visions
-Franklin
-Eloise
-Dogs of the Drowned City
-Dora Wilk Series
-Heralds of Valdemar
-Demon's Due
-The Elder Scrolls In-Universe Books
-Lord Peter Wimsey
-Sitio Do Picapau Amarelo
-Beyond the Western Sea
-Night Lords
-Soul-Singer of Tyrnos
-Chronicles Of Osota
-Oathbringer
-Empire of the Ants
-Rihannsu
-Peter Pan in Scarlet
-The Sisterhood of the Traveling Pants
-Noli Me Tangere
-Kings of the Wyld
-The Guardians of Childhood
-The Mortal Instruments
-Mistborn
-War and Peace
-The Diary of a Young Girl
-The Kingdom Keepers
-World Of Warcraft Illidan
-Imperial Radch
-Young Wizards
-Deptford Mice
-Father Brown
-Matthew Swift
-Please Don't Tell My Parents I'm a Supervillain
-Paddy Clarke Ha Ha Ha
-The Martian
-Secret City
-The Edge Chronicles
-Quo Vadis
-Dead West
-Under the Dome
-Splitterwelten
-Nicholas Nickleby
-Trapped on Draconica
-The Saga of Darren Shan
-Flowers in the Attic
-Heroics
-Captain Underpants
-The Weathergens
-Wicked Lovely
-Proven Guilty
-Please Don't Tell My Parents I've Got Henchmen
-All For The Game
-Bienvenidos A Hopewell
-The Falling Kingdoms Series
-Salamanders
-Labyrinths of Echo
-The Heroic Legend of Arslan
-Confessions of Georgia Nicolson
-A Brother's Price
-The Fifth Wave
-The Saints
-The Wildflowers
-Lost Boys of the Cascades
-Red Queen
-Black Tide Rising
-Domina
-The Chronicles of Ancient Darkness
-Chronicles of the Kencyrath
-Technic History
-Ranger's Apprentice
-Rainbow
-The Runelords
-Chronicles Of Nick
-The Many Lives Of Stephen Leeds
-Corpies
-Reds
-Gypsies
-The Giver Quartet
-Magnet Girl Wireless
-The Naughtiest Girl
-Gravity's Rainbow
-Aeon Legion: Labyrinth
-The Dark Profit Saga
-Prophet's House
-The Melissa Allen Trilogy
-Doctor Who New Adventures
-Ren Zha Fan Pai Zi Jiu Xi Tong
-The Curious Incident of the Dog in the Night-time
-None Too Holy
-Super Powereds
-Journey
-Sufficiently Advanced Magic
-The Warded Man
-Rose of the Prophet
-What Zombies Fear
-Rowan of Rin
-Fool Moon
-Tolkien's Legendarium
-Legend of Galactic Heroes
-Geronimo Stilton
-The Strange Case of Dr. Jekyll and Mr. Hyde
-Peter and the Starcatchers
-The Wolfhound
-The Summoner Trilogy
-The Sleepover Club
-The Indian in the Cupboard
-The Chroniclesofthe Imaginarium Geographica
-The Catcher in the Rye
-The Great Library
-Angels & Demons
-Scrambled Egg
-Good Omens
-The Queen's Thief
-Den of Shadows
-Edgar & Ellen
-Twisted Cogs
-Priests of Mars
-Fate of the Jedi
-Walk Two Moons
-Vorkosigan Saga
-The Lion, the Witch, and the Wardrobe
-A Dog's Purpose
-Remnants
-The Spirit Thief
-The Thousand Autumns of Jacob de Zoet
-The Expanse
-Joyland
-Tales of MU
-The Princess Bride
-Fudge
-Papa no Iukoto o Kikinasai!
-Berserker
-Afterglow
+Romeo Is Bleeding
+All Dogs Go to Heaven
+Jesus Camp
+Kalifornia
+Happy-Go-Lucky
+Bad Lieutenant
+Chef
+The Stunt Man
+Big Hero 6
+Transformers: Revenge of the Fallen
+The Adventures of Tintin
+Buried
+Little Big Man
+The World's End
+What Happens in Vegas...
+Wayne's World
+The Miracle Worker
+Easy A
+Dudley Do-Right
+Wind River
+Jeepers Creepers 2
+The Wedding Planner
+Alive
+John Tucker Must Die
+Olympus Has Fallen
+Harry Potter and the Deathly Hallows: Part 2
+Cool Runnings
+Tron
+The Mosquito Coast
+Mystery Science Theater 3000: The Movie
+Date Night
+Bad Education
+Lost in Space
+Three to Tango
+Cop Out
+Hotel Transylvania
+Glory
+Just My Luck
+Jarhead
+Beethoven
+The Seventh Seal
+Mona Lisa Smile
+Raising Arizona
+Mansfield Park
+Missing in Action
+Dead Man on Campus
+Cabaret
+How Green Was My Valley
+The Umbrellas of Cherbourg
+The Edukators
+Grave of the Fireflies
+House of 1000 Corpses
+Sex, Lies, and Videotape
+Young Guns II
+Little Women
+Pink Flamingos
+Hard-Boiled
+Evan Almighty
+Ruby Sparks
+Capitalism: A Love Story
+Johnny Dangerously
+Puppet Master
+Armageddon
+White Men Can't Jump
+Dinosaur
+Fright Night
+Jungle2Jungle
+Inside Llewyn Davis
+Joe Versus the Volcano
+Road Trip
+Serendipity
+The Whole Nine Yards
+Wimbledon
+Z
+Amores Perros
+So I Married an Axe Murderer
+The Big Sick
+The Transporter
+Searching for Sugar Man
+From Here to Eternity
+The Wolfman
+The Thirteenth Floor
+Kramer vs. Kramer
+Selma
+Smokin' Aces
+State and Main
+Indian Summer
+There Will Be Blood
+Ghost World
+Stuck on You
+Get Hard
+Saboteur
+Two Mules for Sister Sara
+Be Cool
+Dancer in the Dark
+The Flamingo Kid
+Truly, Madly, Deeply
+Geri's Game
+Superman IV: The Quest for Peace
+Bachelor Party
+Beautiful Girls
+Trick 'r Treat
+Auntie Mame
+Life Is Beautiful
+Mr. Mom
+The Final Conflict
+Drop Dead Gorgeous
+Species
+Mortal Kombat: Annihilation
+Play It Again, Sam
+The Island of Dr. Moreau
+Dracula
+The Hidden Fortress
+Once Upon a Time in America
+The Joy Luck Club
+How to Lose a Guy in 10 Days
+Lake Placid
+Mouse Hunt
+Dr. Dolittle
+The Shape of Water
+Sausage Party
+The Dukes of Hazzard
+Timeline
+I, Robot
+Heavenly Creatures
+The Omen
+To Rome with Love
+WALL-E
+The Beautician and the Beast
+Good Morning, Vietnam
+The Killing Fields
+Highlander III: The Sorcerer
+Fatal Attraction
+Zodiac
+The Adventures of Ford Fairlane
+The Apartment
+Sleeping Beauty
+City of Ember
+Pandorum
+The Killing
+Trust
+Fight Club
+Parenthood
+The Shootist
+Memento
+Monty Python and the Holy Grail
+The Last Samurai
+Benji
+Ratatouille
+I Spy
+The Nutty Professor
+Harvey
+Back to School
+Escape from the Planet of the Apes
+Godzilla
+Bedknobs and Broomsticks
+The Player
+Citizenfour
+Cube 2: Hypercube
+Blue Velvet
+Tuck Everlasting
+The Talented Mr. Ripley
+Color of Night
+Rocky V
+Shaolin Soccer
+The Good Dinosaur
+The Mighty Ducks
+The Lego Batman Movie
+The Secret in Their Eyes
+Cocktail
+Moulin Rouge
+All Dogs Go to Heaven 2
+The Rules of the Game
+American Movie
+The Fugitive
+Twin Peaks: Fire Walk with Me
+The 7th Voyage of Sinbad
+The Rum Diary
+Batman Forever
+The Big Easy
+Caligula
+Purple Rain
+Hannah and Her Sisters
+Dallas Buyers Club
+Step Up
+Holes
+Supercop
+Unstoppable
+Tin Men
+Last Action Hero
+Idle Hands
+Midnight in the Garden of Good and Evil
+Tsotsi
+The Wages of Fear
+Prince of Persia: The Sands of Time
+The Mexican
+The Bank Job
+The Brave One
+To Have and Have Not
+Kill Bill: Vol. 2
+Romancing the Stone
+The Great Mouse Detective
+Epic Movie
+Temple Grandin
+Brainstorm
+Shaft
+My Best Friend's Wedding
+A Very Long Engagement
+Holiday Inn
+Now You See Me 2
+Party Girl
+House Arrest
+Code 46
+Mercury Rising
+Swimfan
+Faster Pussycat! Kill! Kill!
+To Wong Foo, Thanks for Everything! Julie Newmar
+L.A. Story
+The Taking of Pelham One Two Three
+Hannibal Rising
+Butch Cassidy and the Sundance Kid
+My Left Foot
+Gravity
+Barbarella
+The Road
+Shallow Grave
+X-Men: Apocalypse
+Clash of the Titans
+McHale's Navy
+The Gate
+Wall Street
+Toy Soldiers
+Austin Powers: International Man of Mystery
+Final Destination 3
+City of God
+Watership Down
+Cypher
+Live Free or Die Hard
+Music of the Heart
+The Curious Case of Benjamin Button
+Norbit
+Mary Reilly
+Fatal Instinct
+Divergent
+Fist of Legend
+Where Eagles Dare
+The Crucible
+Rollerball
+Arrival
+Richard III
+Pale Rider
+Deep Rising
+Live and Let Die
+Copycat
+Ferngully: The Last Rainforest
+Mysterious Skin
+Alien
+Better Off Dead...
+The Limey
+Home Alone 3
+The Muppet Movie
+Rachel Getting Married
+Notes on a Scandal
+Hollywood Homicide
+The Hunger Games
+Red Riding Hood
+Hope and Glory
+Herbie: Fully Loaded
+Ferris Bueller's Day Off
+The Texas Chainsaw Massacre
+Nothing to Lose
+The Firm
+The Philadelphia Story
+Super Mario Bros.
+Virtuosity
+The Secret Life of Walter Mitty
+Black Knight
+The Legend of Tarzan
+The Guest
+Swordfish
+Child's Play
+Deepwater Horizon
+The Original Kings of Comedy
+The Cell
+It's Complicated
+Barton Fink
+Mulholland Drive
+The Longest Day
+The Intern
+Guys and Dolls
+When We Were Kings
+Cocoon: The Return
+The Pledge
+High Plains Drifter
+Frank
+Frequently Asked Questions About Time Travel
+Bee Movie
+The Ghost Writer
+Season of the Witch
+Beverly Hills Cop III
+Exam
+The Jacket
+Fallen
+Minions
+Kicking and Screaming
+West Side Story
+Hunt for the Wilderpeople
+Striptease
+We're No Angels
+Stuart Little
+Billy Madison
+Seabiscuit
+The Fan
+Sabrina
+Almost Heroes
+Captain Fantastic
+Spanking the Monkey
+Doc Hollywood
+Sphere
+The Sum of All Fears
+Girl with a Pearl Earring
+The Last Emperor
+Minority Report
+The Last King of Scotland
+The Program
+Freddy's Dead: The Final Nightmare
+Constantine
+Halloween 4: The Return of Michael Myers
+Star Trek
+Frost/Nixon
+The Salton Sea
+Dog Soldiers
+Just Friends
+Invasion of the Body Snatchers
+What's Up, Doc?
+Trainwreck
+Battlefield Earth
+Down Periscope
+THX 1138
+The Lookout
+Red Dragon
+James and the Giant Peach
+Star Wars: Episode II - Attack of the Clones
+The Pillow Book
+Public Enemies
+Hercules
+Jungle Fever
+Thinner
+Bad Santa
+The Money Pit
+Let Me In
+Eraserhead
+Mary and Max
+Porky's
+The Distinguished Gentleman
+The Exorcist
+Double Team
+The Wind That Shakes the Barley
+Splendor in the Grass
+Little Odessa
+Slumdog Millionaire
+The Adventures of Priscilla, Queen of the Desert
+Fun with Dick and Jane
+True Lies
+Rise of the Planet of the Apes
+Paranormal Activity 3
+The Body Snatcher
+Alien: Resurrection
+The Princess and the Frog
+Anastasia
+Toy Story
+Wings of Desire
+Killing Zoe
+Fletch
+The Wrong Man
+It Follows
+Hugo
+Man of the Year
+The Da Vinci Code
+Aladdin and the King of Thieves
+The Conjuring
+Bad Teacher
+Star Trek Beyond
+What Dreams May Come
+Get Carter
+Fahrenheit 451
+The Fault in Our Stars
+Brooklyn
+The Merchant of Venice
+Maid in Manhattan
+Spellbound
+Play Misty for Me
+Battle: Los Angeles
+Horse Feathers
+The Mechanic
+Teaching Mrs. Tingle
+Incendies
+Star Trek: The Motion Picture
+The Insider
+Rambo: First Blood Part II
+Green Zone
+The Taking of Pelham 1 2 3
+Waiting...
+The Sting
+A Single Man
+Alvin and the Chipmunks
+Little Man Tate
+Hellraiser III: Hell on Earth
+Brokeback Mountain
+Throw Momma from the Train
+A Knight's Tale
+Vegas Vacation
+Suspicion
+Philomena
+Training Day
+Crocodile Dundee in Los Angeles
+A Prophet
+Impostor
+Duets
+The Passion of the Christ
+Marked for Death
+Kelly's Heroes
+The Man in the Iron Mask
+See No Evil, Hear No Evil
+Yojimbo
+The Adventures of Buckaroo Banzai Across the 8th Dimension
+Newsies
+The Seven Year Itch
+Cat Ballou
+Diamonds Are Forever
+Hocus Pocus
+Battle Royale
+The Hunt
+The Life of David Gale
+Miracle on 34th Street
+Rear Window
+Take the Money and Run
+A Clockwork Orange
+Dreamscape
+Navy Seals
+South Park: Bigger, Longer and Uncut
+Deuce Bigalow: European Gigolo
+Antichrist
+Amazing Grace
+High School High
+Over the Hedge
+Persuasion
+Smokey and the Bandit
+Body Snatchers
+The Madness of King George
+The Running Man
+Sex and the City
+Psycho
+Bananas
+The Pink Panther Strikes Again
+Ghost Ship
+Airheads
+The Quick and the Dead
+The Adjustment Bureau
+High School Musical 3: Senior Year
+Freedom Writers
+Your Name.
+Fly Away Home
+All That Jazz
+Requiem for a Dream
+Pump Up the Volume
+The Four Feathers
+The Road to Wellville
+The Ten Commandments
+Colors
+Real Steel
+In the Line of Fire
+Boyz N the Hood
+Role Models
+The Girl Next Door
+House on Haunted Hill
+The Abyss
+Valkyrie
+Fair Game
+The Patriot
+Steve Jobs
+Avatar
+Star Trek: Nemesis
+A River Runs Through It
+Independence Day: Resurgence
+Get Out
+After the Sunset
+The Strangers
+Girl, Interrupted
+Nerve
+...And Justice for All
+Together
+Jean de Florette
+Jason and the Argonauts
+End of Days
+Dude, Where's My Car?
+Airport
+Henry V
+Speed
+Man on a Ledge
+Speed 2: Cruise Control
+Cold Mountain
+Whatever Works
+Nick and Norah's Infinite Playlist
+Getting Even with Dad
+Celebrity
+Shark Tale
+Passengers
+The Odd Couple
+Sling Blade
+Creature Comforts
+You, Me and Dupree
+Jude
+Cabin Boy
+Rocky III
+The Man from Snowy River
+No Escape
+Rogue One: A Star Wars Story
+Barry Lyndon
+Machete
+A Night at the Roxbury
+Lost in La Mancha
+Sliding Doors
+Birdman of Alcatraz
+Tokyo Godfathers
+Rounders
+The Alamo
+Sudden Death
+Jennifer's Body
+J. Edgar
+Turbo
+Lethal Weapon 2
+Waterworld
+I Heart Huckabees
+The Substitute
+Three Billboards Outside Ebbing, Missouri
+Zero Effect
+A Walk on the Moon
+School Ties
+Stripes
+Daddy Day Care
+The Darjeeling Limited
+A Goofy Movie
+A Education
+Boogie Nights
+Grosse Pointe Blank
+The Visit
+The Accused
+Open Season
+Kull the Conqueror
+The Messenger: The Story of Joan of Arc
+G.I. Joe: The Rise of Cobra
+Overboard
+Idiocracy
+Mindhunters
+The Human Centipede
+The Adventures of Baron Munchausen
+Safety Not Guaranteed
+Frequency
+Hellbound: Hellraiser II
+O Brother, Where Art Thou?
+Click
+Lost in Translation
+Ronin
+Lord of the Flies
+Uncle Buck
+Houseguest
+Steamboy
+Cool Hand Luke
+Mannequin
+Harry Brown
+The Sweet Hereafter
+The Treasure of the Sierra Madre
+Village of the Damned
+The Black Stallion
+Tenacious D in The Pick of Destiny
+Cloudy with a Chance of Meatballs 2
+Brotherhood of the Wolf
+Lightning Jack
+Cat People
+Ikiru
+The Outsiders
+Jules and Jim
+Black Snake Moan
+Hanna
+Monsters, Inc.
+The Guardian
+Transformers
+Doctor Dolittle
+Halloween II
+The Prince of Egypt
+The 39 Steps
+Tom Jones
+Doomsday
+Red Heat
+Michael Collins
+Shallow Hal
+Vampire in Brooklyn
+Tears of the Sun
+Free Willy
+All About My Mother
+The Dark Knight
+Ted 2
+Cinderella
+Cold Comfort Farm
+Bio-Dome
+Flashdance
+Dazed and Confused
+The Candidate
+Brief Encounter
+Them!
+Snow White and the Seven Dwarfs
+Tigerland
+Victor/Victoria
+Living Out Loud
+The Lady Vanishes
+Envy
+Ransom
+American Splendor
+Pecker
+True Romance
+Matchstick Men
+Lost Highway
+The Remains of the Day
+Cashback
+The Searchers
+Fools Rush In
+Inglourious Basterds
+Porco Rosso
+Hacksaw Ridge
+Men of Honor
+Hoosiers
+The Gingerbread Man
+Night of the Living Dead
+Phantoms
+Sophie's Choice
+The Last Picture Show
+The Interview
+Bride of Chucky
+The Recruit
+My Super Ex-Girlfriend
+Out of the Past
+Rat Race
+Hot Shots!
+Piper
+Resident Evil: Retribution
+The Red Violin
+The Mask
+Hero
+The Spectacular Now
+Ernest Goes to Camp
+The Holiday
+Flipper
+Blow-Up
+Pretty in Pink
+The Fisher King
+Who's That Girl?
+Half Baked
+Innerspace
+Universal Soldier: The Return
+Kiss of the Spider Woman
+Lolita
+I Am Legend
+Kick-Ass 2
+Aeon Flux
+Run Silent Run Deep
+Father Goose
+The Cotton Club
+The Castle
+Cocaine Cowboys
+The Big Heat
+Kazaam
+Pleasantville
+Human Traffic
+Frida
+Poetic Justice
+Gentlemen Prefer Blondes
+American Gangster
+The Devil's Backbone
+Side Effects
+Police Academy
+Octopussy
+Indiana Jones and the Kingdom of the Crystal Skull
+Harley Davidson and the Marlboro Man
+Millions
+Wolf Creek
+Wristcutters: A Love Story
+Scooby-Doo
+Field of Dreams
+No Way Out
+And Then There Were None
+Naked Lunch
+Quick Change
+American Ninja
+F/X
+A Good Day to Die Hard
+Scarface
+Incredibles 2
+The Love Guru
+The One
+The Purge: Anarchy
+Wild Strawberries
+Judgment at Nuremberg
+The Third Man
+The Class
+Runaway
+Taken
+The Departed
+Drugstore Cowboy
+Grease 2
+Breaker Morant
+Jack Reacher
+Anomalisa
+The Secret of Roan Inish
+The Apple Dumpling Gang
+Revenge of the Pink Panther
+Enough
+A Fistful of Dollars
+The Witches
+The Pelican Brief
+The Town
+Operation Petticoat
+Jurassic Park III
+Beyond the Mat
+Four Rooms
+Fierce Creatures
+Son in Law
+Dunston Checks In
+Patch Adams
+Swimming Pool
+The Return of the Pink Panther
+The Golden Child
+Hostel
+The Bad News Bears
+Evolution
+Ponyo
+Day for Night
+Dead Alive
+Alice Through the Looking Glass
+The Last Starfighter
+Flightplan
+Never Say Never Again
+Moonlight Mile
+The Rage: Carrie 2
+American Ultra
+Observe and Report
+Let's Be Cops
+The Brothers Grimm
+The Trouble with Harry
+Call Me by Your Name
+Major League
+Natural Born Killers
+A Little Princess
+Mission: Impossible - Rogue Nation
+Spider-Man 3
+Street Fighter
+Darkness Falls
+The Discreet Charm of the Bourgeoisie
+I, Tonya
+Charlie's Angels
+The Ice Storm
+Phone Booth
+The Thomas Crown Affair
+Top Hat
+The Last Temptation of Christ
+Hidden Figures
+Rush Hour
+Maleficent
+White Christmas
+Kubo and the Two Strings
+Gods and Monsters
+Gentleman's Agreement
+Anchorman 2: The Legend Continues
+Bean
+Corky Romano
+The Assassination of Richard Nixon
+Lethal Weapon 3
+Dirty Work
+Kung Fu Panda 2
+Say Anything...
+For Love or Money
+The Proposition
+The Many Adventures of Winnie the Pooh
+Miss Congeniality
+Black Panther
+Clear and Present Danger
+Dawn of the Planet of the Apes
+The Heat
+Thor: The Dark World
+Young Adult
+Hot Rod
+Starship Troopers
+Exotica
+In America
+He's Just Not That Into You
+Keeping Mum
+The Lady Eve
+Homeward Bound II: Lost in San Francisco
+Crouching Tiger, Hidden Dragon
+Sky Captain and the World of Tomorrow
+Ginger Snaps
+The Assassination of Jesse James by the Coward Robert Ford
+Sullivan's Travels
+Four Weddings and a Funeral
+The Sound of Music
+The Full Monty
+All the King's Men
+Exorcist: The Beginning
+Scott Pilgrim vs. the World
+Sherlock Holmes
+Little Miss Sunshine
+Pan's Labyrinth
+Iron Monkey
+Assassin's Creed
+The Book of Eli
+Saving Private Ryan
+Just Cause
+The Skin I Live In
+Gulliver's Travels
+Babel
+Intouchables
+The Hangover Part III
+The Beach
+Die Hard
+Kagemusha
+Ocean's Eleven
+Bringing Up Baby
+Rashomon
+The Day the Earth Stood Still
+Lord of Illusions
+The Hunger
+Pixels
+Cinderella Man
+Contraband
+The Conversation
+Son of the Mask
+Transporter 3
+The Woodsman
+BASEketball
+Beasts of the Southern Wild
+Three Men and a Baby
+AVP: Alien vs. Predator
+A Christmas Story
+American Made
+Prometheus
+The Flintstones
+Bound
+Tower Heist
+The Green Hornet
+Zero Dark Thirty
+Iron Man 3
+Freddy Got Fingered
+Youth in Revolt
+March of the Penguins
+Powder
+To Die For
+Crank
+But I'm a Cheerleader
+The Secret Life of Pets
+Pi
+The Next Three Days
+The Internship
+Raging Bull
+Across the Universe
+Always
+A Soldier's Story
+The Four Musketeers
+Skyfall
+October Sky
+Crazy, Stupid, Love.
+Howards End
+Winter's Bone
+The Curse of the Jade Scorpion
+Hard Candy
+Solaris
+The Amazing Panda Adventure
+Big Bully
+Bad Moms
+Back to the Future Part II
+Out of Africa
+Thor
+Identity
+The Woman in Black
+The Happening
+All About Eve
+Malice
+Bowling for Columbine
+The King of Kong
+Jakob the Liar
+John Wick
+The Waterboy
+The Black Hole
+Coffee and Cigarettes
+Shrek Forever After
+The Lion in Winter
+E.T. the Extra-Terrestrial
+Young Frankenstein
+The Tree of Life
+Basic
+Letters to Juliet
+Original Sin
+The Perez Family
+The Cat from Outer Space
+Terms of Endearment
+Saw II
+Notting Hill
+Brokedown Palace
+The Best Years of Our Lives
+The Saint
+On Golden Pond
+Forces of Nature
+Nell
+Playing by Heart
+The Dinner Game
+The Jewel of the Nile
+The Fountain
+Brother Bear
+Adam's Apples
+Horror of Dracula
+Flubber
+Great Balls of Fire!
+Congo
+Ghostbusters II
+A Nightmare on Elm Street
+War Dogs
+Saving Mr. Banks
+Dersu Uzala
+I Am Number Four
+The Piano Teacher
+Up in the Air
+Detroit Rock City
+Die Hard: With a Vengeance
+Mrs. Doubtfire
+Lucky Number Slevin
+Isle of Dogs
+Spartan
+Captain Phillips
+War
+Disturbia
+Must Love Dogs
+Alpha Dog
+eXistenZ
+Zack and Miri Make a Porno
+The Lego Movie
+Altered States
+That Darn Cat!
+Exodus: Gods and Kings
+Double Jeopardy
+Never Let Me Go
+Ghosts of Mississippi
+The Awful Truth
+Chicken Little
+Baby Driver
+The Verdict
+Valerian and the City of a Thousand Planets
+Harold and Kumar Go to White Castle
+Reality Bites
+The Brady Bunch Movie
+To Live and Die in L.A.
+Chopper
+American Sniper
+The Invasion
+Jumpin' Jack Flash
+The Celebration
+Cobra
+The Commitments
+The Monster
+Year One
+Cop Land
+The Tigger Movie
+Willard
+Hearts of Darkness: A Filmmakers Apocalypse
+Santa Claus: The Movie
+Dances with Wolves
+The Illusionist
+Small Time Crooks
+Conspiracy Theory
+The Raid: Redemption
+The Legend of Zorro
+Highlander II: The Quickening
+Taken 3
+Casino
+Thirteen Ghosts
+Wreck-It Ralph
+Out of Sight
+Heaven Can Wait
+Wrath of the Titans
+Marie Antoinette
+Charlie Wilson's War
+Heartbreakers
+Young Sherlock Holmes
+FairyTale: A True Story
+Tremors
+Romeo Must Die
+Appleseed
+Hellraiser: Bloodline
+A Walk to Remember
+Lilies of the Field
+Despicable Me 2
+A American in Paris
+The Great Dictator
+A Night to Remember
+Badlands
+Big Trouble
+The Phantom of the Opera
+Almost Famous
+Adventureland
+Dawn of the Dead
+Kiss Kiss Bang Bang
+The Land Before Time
+San Andreas
+The Serpent and the Rainbow
+Hancock
+Along Came Polly
+Phantasm
+The Parent Trap
+Pee-wee's Big Adventure
+The Exterminating Angel
+Human Nature
+The Expendables 2
+The Rocky Horror Picture Show
+The Big Hit
+School of Rock
+The Lord of the Rings
+Lost Horizon
+The Core
+Outland
+Jungle Book
+All the President's Men
+Mumford
+Laws of Attraction
+Selena
+Wild Hogs
 Harry Potter and the Half-Blood Prince
-A Portrait of the Artist as a Young Man
-Department19
-The Gone-Away World
-The Powder Mage Trilogy
-The Belgariad
-Takeshi Kovacs
-Anita Blake
-Beautiful Bones: Sakurako's Investigation
-A Night in the Lonesome October
-The Firebringer Trilogy
-Please Don't Tell My Parents I Have a Nemesis
-The Girl in 6E
-Lords of the Underworld
-Iron Gold
-Agent Pendergast
-The Acts of Caine
-Mary Russell
-Tinker
-2666
-The Eyes Of My Princess
-Noob
-The Skinjacker Trilogy
+Analyze This
+Love Story
+The War of the Roses
+Jurassic Park
+Austin Powers: The Spy Who Shagged Me
+Porky's Revenge
+Friday
+Orphan
+Mighty Joe Young
+Arizona Dream
+The Grey
+Shall We Dance
+Charlie's Angels: Full Throttle
+Friends with Benefits
+The Road to El Dorado
+The Wood
+Deconstructing Harry
+Rob Roy
+How the Grinch Stole Christmas!
+Spirited Away
+The End of the Affair
+From Dusk Till Dawn
+That Thing You Do!
+The Way of the Gun
+The Emperor's New Groove
+Donnie Brasco
+Bottle Rocket
+The Fabulous Baker Boys
+Ben-hur
+Fandango
+Only You
+Barefoot in the Park
+Knight and Day
+The English Patient
+The Cabinet of Dr. Caligari
+My Stepmother Is an Alien
+K-19: The Widowmaker
+Oz the Great and Powerful
+The Informant!
+Unbreakable
+Twilight
+The Change-Up
+Air America
+The Spiderwick Chronicles
+Murder by Numbers
+Insomnia
+Forbidden Planet
+The Babysitter
+Django Unchained
+Welcome to the Dollhouse
+House
+Waking Life
+Straw Dogs
+The 6th Day
+Lady Bird
+The Spanish Apartment
+Big Trouble in Little China
+Straight Outta Compton
+What's Your Number?
+Honey, I Blew Up the Kid
+TMNT
+Napoleon Dynamite
+Dead Presidents
+All of Me
+X2: X-Men United
+City Slickers II: The Legend of Curly's Gold
+Easy Rider
+Elizabeth: The Golden Age
+Yi Yi
+Kingsman: The Golden Circle
+Poltergeist III
+Five Easy Pieces
+Inland Empire
+Run Lola Run
+Blade: Trinity
+The Conjuring 2
+A Mighty Wind
+The Big Green
+Wild Wild West
+Days of Wine and Roses
+The Horse Whisperer
+Eight Men Out
+Muppet Treasure Island
+When Harry Met Sally...
+Unforgiven
+Anaconda
+Blue Valentine
+American Pie Presents The Naked Mile
+Bicentennial Man
+Planet of the Apes
+The Blues Brothers
+The Color Purple
+Tom and Huck
+The Battle of Algiers
+Solo
+Beetlejuice
+Religulous
+R.I.P.D.
+My Dog Skip
+Harry Potter and the Goblet of Fire
+Sicario
+Chicken Run
+Mulan
+Son of Rambow
+Pocahontas
+His Girl Friday
+Dark Water
+Clueless
+Halloween 5: The Revenge of Michael Myers
+Kung Pow: Enter the Fist
+Children of the Corn IV: The Gathering
+The Bridges of Madison County
+Grizzly Man
+Planet 51
+Saved!
+Bend It Like Beckham
+Adaptation
+Cars 2
+Office Space
+The House Bunny
+Amelie
+The Matrix
+Wicker Park
+Fallen Angels
+The Expendables
+The Postman Always Rings Twice
+Runaway Train
+Fantastic Voyage
+Vanilla Sky
+Breathless
+Radio
+Hudson Hawk
+Run All Night
+Mother
+RoboCop
+Cloudy with a Chance of Meatballs
+Walking Tall
+Carrington
+Split
+Legends of the Fall
+Johnny English Reborn
+Dredd
+Robots
+Spotlight
+Just Like Heaven
+Saw V
+Sisters
+Bubba Ho-tep
+Jurassic World
+Summer Wars
+Silent Running
+About Schmidt
+City Lights
+Without a Paddle
+The Fast and the Furious: Tokyo Drift
+Dracula 2000
+Giant
+A League of Their Own
+Romeo and Juliet
+Upstream Color
+Noah
+A Nightmare on Elm Street 5: The Dream Child
+Syriana
+Adam's Rib
+Meet Me in St. Louis
+The Babadook
+The Big Sleep
+One Night at McCool's
+Looper
+Orgazmo
+Monkey Shines
+The Descendants
+A Bridge Too Far
+Mad Max: Fury Road
+Carlito's Way
+Jaws 2
+The Animatrix
+Full Metal Jacket
+Catch Me If You Can
+Dan in Real Life
+Air Bud
+Educating Rita
+Menace II Society
+Exit Through the Gift Shop
+Ordinary People
+The Royal Tenenbaums
+Apocalypse Now
+Darkest Hour
+Jerry Maguire
+The Hustler
+North
+Drive
+Andrei Rublev
+Equilibrium
+Single White Female
+Glitter
+Pirates of the Caribbean: The Curse of the Black Pearl
+Annie Hall
+Stealth
+The Princess Bride
+Fanny and Alexander
+Scanners
+The Score
+She's Gotta Have It
+The Next Karate Kid
+About Time
+Stay
+Children of Men
+Nights of Cabiria
+Kangaroo Jack
+The General
+Bad Boys II
+Guess Who's Coming to Dinner
+Tucker: The Man and His Dream
 Harry Potter and the Prisoner of Azkaban
-Kindling Ashes
-The Case of Charles Dexter Ward
-Maurice
-The Rithmatist
-Zetsubou Robo
-The Ultra Violets
-Night
-Germinal
-Belisarius Series
-Harry Potter and the Philosopher's Stone
-Inda
-The Dream-Quest of Unknown Kadath
-Nero Wolfe
+Where the Heart Is
+The Emerald Forest
+Scenes From a Marriage
+Virus
+Buffy the Vampire Slayer
+Meet the Feebles
+Die Another Day
+Gigli
+Source Code
+Affliction
+The Final Destination
+To Be or Not to Be
+The Return
+The Pagemaster
+Grumpy Old Men
+Mildred Pierce
+American Reunion
+Europa Report
+The Music Man
+Outbreak
+Cliffhanger
+The Blue Lagoon
+Analyze That
+Watchmen
+Kiss of Death
+Taxi
+Fear
+Rush Hour 2
+Snow White and the Huntsman
+Runaway Bride
+Triangle
+For the Birds
+The Paper Chase
+The Rainmaker
+Old Yeller
+Von Ryan's Express
+Pretty Woman
+The Crow
+Picnic
+Dead Man
+The Big Red One
+Misery
+Terminator 3: Rise of the Machines
+The Last Seduction
+Kung Fu Panda
+Sixteen Candles
+Go
+Babylon A.D.
+Norma Rae
+War for the Planet of the Apes
+Flight of the Navigator
+Thirteen
+Mad Max Beyond Thunderdome
+Blue Streak
+Small Soldiers
+The Shop Around the Corner
+The Last Boy Scout
+Kinsey
+Lockout
+Voyage to the Bottom of the Sea
+All Quiet on the Western Front
+The Whole Ten Yards
+Elysium
+Darby O'Gill and the Little People
+Josie and the Pussycats
+The Ninth Gate
+Terminal Velocity
+The Crying Game
+The Lion King II: Simba's Pride
+Atlantic City
+Once Upon a Time in Mexico
+The Croods
+Eat Drink Man Woman
+RocknRolla
+The Final Countdown
+Caddyshack II
+A Inconvenient Truth
+Cellular
+Brick
+American Pie Presents: Band Camp
+How to Marry a Millionaire
+Beasts of No Nation
+The Collector
+Toy Story 2
+Three Men and a Little Lady
+Blindness
+Walk the Line
+House of Wax
+The Rocketeer
+Flags of Our Fathers
+Reindeer Games
+Stranger Than Paradise
+Candyman
+Adventures in Babysitting
+Surviving the Game
+Being There
+Cube Zero
+Spider-Man
+Canadian Bacon
+The Dreamers
+The Doors
+The Skeleton Key
+Topsy-Turvy
+God Bless America
+Above the Law
+Divine Secrets of the Ya-Ya Sisterhood
+Piranha
+Seven Beauties
+Payback
+Dog Day Afternoon
+Barb Wire
+Don't Tell Mom the Babysitter's Dead
+The Presidio
+K-PAX
+The Color of Money
+Police Academy 5: Assignment: Miami Beach
+Tank Girl
+K-9
+The Punisher
+Murder by Death
+Ran
+Audition
+For a Few Dollars More
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+Day Watch
+Metropolis
+The Terminal
+Boys on the Side
+Seven Psychopaths
+Hedwig and the Angry Inch
+It Could Happen to You
+Coming to America
+The King's Speech
+Junior
+The Arrival
+Matewan
+The Notebook
+¡Three Amigos!
+The Missing
+Cruel Intentions
+Drag Me to Hell
+Casablanca
+She's the Man
+Wes Craven's New Nightmare
+The Magnificent Ambersons
+The Rugrats Movie
+The Crush
+Night at the Museum
+My Fellow Americans
+Team America: World Police
+The Gods Must Be Crazy
+The Quiet Man
+Sanjuro
+Grandma's Boy
+Black Mass
+America's Sweethearts
+Batman
+Phenomenon
+Duplicity
+Goldfinger
+The Rescuers Down Under
+Secretary
+Volcano
+Interstellar
+Manhattan
+Funny People
+W.
+Shakespeare in Love
+A Kid in King Arthur's Court
+Bedtime Stories
+Escape Plan
+Kingsman: The Secret Service
+Signs
+Brewster's Millions
+The Godfather
+Run Fatboy Run
+Fast Times at Ridgemont High
+Grumpier Old Men
+Contagion
+One Hour Photo
+The Journey of Natty Gann
+Paul
+In the Mood For Love
+Jeremiah Johnson
+Witness for the Prosecution
+Jacob's Ladder
+The Double
+Twelve O'Clock High
+Amy
+Ex Machina
+Riding in Cars with Boys
+Before Sunrise
+Radio Days
+Silent Hill
+Leviathan
+High Fidelity
+A Serious Man
+The Eagle Has Landed
+Pontypool
+Bright
+Marathon Man
+Dragon: The Bruce Lee Story
+Paper Moon
+The 40-Year-Old Virgin
+The Piano
+Porky's II: The Next Day
+St. Vincent
+You Don't Mess with the Zohan
+Rebel Without a Cause
+The Quiet American
+My Big Fat Greek Wedding
+It's a Mad, Mad, Mad, Mad World
+Star Trek: First Contact
+Burnt by the Sun
+Swamp Thing
+High Tension
+Ella Enchanted
+Happy Gilmore
+The City of Lost Children
+Crimes and Misdemeanors
+Heartbreak Ridge
+Alex and Emma
+Sleepers
+The Guns of Navarone
+The Purple Rose of Cairo
+The Lost Weekend
+Varsity Blues
+Broadcast News
+Prisoners
+Earth Girls Are Easy
+My Favorite Year
+The Reader
+Kin-Dza-Dza!
+Edge of Tomorrow
+Carrie
+I Saw the Devil
+The Boxtrolls
+The Razor's Edge
+House Party
+The Palm Beach Story
+Paddington
+The Accidental Tourist
+The Computer Wore Tennis Shoes
+Midnight Express
+Yentl
+The Kentucky Fried Movie
+Fanboys
+Why Him?
+The Sure Thing
+Blade II
+Twister
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze
+The NeverEnding Story II: The Next Chapter
+Dead Man Walking
+While You Were Sleeping
+Dragnet
+Ghost Rider: Spirit of Vengeance
+Family Plot
+The War
+Memories of Murder
+A Star Is Born
+Repo Man
+Swingers
+Sleepy Hollow
+The Hangover
+Poltergeist II: The Other Side
+Legend of the Guardians: The Owls of Ga'Hoole
+Hellboy II: The Golden Army
+A American Werewolf in Paris
+Bubble Boy
+Lifeforce
+Free Willy 3: The Rescue
+Beverly Hills Ninja
+Silver Streak
+Scary Movie 2
+Happy Feet
+Resident Evil: Extinction
+Plan 9 from Outer Space
+The Wizard of Oz
+La La Land
+Superstar
+The Bucket List
+The Sea Inside
+The Cabin in the Woods
+Highlander
+Hackers
+Be Kind Rewind
+The Sixth Sense
+Titanic
+Bulletproof Monk
+The Ugly Truth
+Revolutionary Road
+Following
+Reign of Fire
+The Andromeda Strain
+Bad Boys
+It Takes Two
+Mask
+The World Is Not Enough
+Land of the Dead
+Cannibal Holocaust
+The League of Extraordinary Gentlemen
+One Flew Over the Cuckoo's Nest
+Pirates of the Caribbean: On Stranger Tides
+Novocaine
+Ice Age: Dawn of the Dinosaurs
+The Karate Kid, Part II
+Black Christmas
+Old Boy
+Zathura
+Down with Love
+Freddy vs. Jason
+The Proposal
+Changing Lanes
+Bolt
+Short Cuts
+Sahara
+Cell 211
+The SpongeBob SquarePants Movie
+The Animal
+Liar Liar
+Finding Forrester
+Gettysburg
+Videodrome
+The Pursuit of Happyness
+The Chronicles of Riddick
+Seven Brides for Seven Brothers
+Killer Elite
+Ocean's Thirteen
+Fantastic Four
+Disclosure
+True Grit
+Foreign Correspondent
+World War Z
+The Englishman Who Went Up a Hill But Came Down a Mountain
+The Quest
+Pacific Heights
+Death Wish
+Warm Bodies
+Before the Devil Knows You're Dead
+Balls of Fury
+Moonraker
+Exit Wounds
+Romper Stomper
+No Strings Attached
+The Master of Disguise
+The Little Rascals
+Gung Ho
+Ninja Assassin
+Devil
+Soldier
+Blade Runner 2049
+Into the Woods
+The Lives of Others
+Broken Flowers
+Eight Crazy Nights
+Teenage Mutant Ninja Turtles III
+Confessions of a Teenage Drama Queen
+The Last Detail
+Orange County
+The King and I
+Homeward Bound: The Incredible Journey
+The Man Who Fell to Earth
+Funny Games
+Delicatessen
+Men in Black
+xXx: State of the Union
+A American Werewolf in London
+Treasure Planet
+My Neighbor Totoro
+Dragonheart
+Hannibal
+The Shawshank Redemption
+The Family Man
+Madagascar 3: Europe's Most Wanted
+The Last Waltz
+Freeway
+Warlock
+Re-Animator
+JFK
+Triumph of the Will
+Best in Show
+Twelve Monkeys
+The Adventures of Ichabod and Mr. Toad
+Any Which Way You Can
+Jin Roh: The Wolf Brigade
+Au revoir les enfants
+Ong-Bak: The Thai Warrior
+The Night of the Hunter
+Spectre
+Smokey and the Bandit II
+Coraline
+The Secret of NIMH
+Dirty Rotten Scoundrels
+Made
+Modern Times
+The Art of War
+Heart and Souls
+Aliens
+On the Beach
+Ted
+District 9
+Keeping the Faith
+Cujo
+Lord of War
+Hoodwinked!
+Mary Poppins
+Aladdin
+Before Midnight
+Quantum of Solace
+Showtime
+Control
+Splice
+The Ipcress File
+Akeelah and the Bee
+U Turn
+Taken 2
+The Matrix Reloaded
+You Can't Take It with You
+Nightcrawler
+The Karate Kid
+Warcraft
+Possession
+The Painted Veil
+Away We Go
+Lust, Caution
+Forgetting Sarah Marshall
+Captain Ron
+The Mark of Zorro
+A Simple Plan
+Secondhand Lions
+Heavyweights
+Super
+The Thin Red Line
+Stop Making Sense
+Miami Vice
+Sinister
+Eraser
+Secret Window
+Stand and Deliver
+King Arthur
+Ravenous
+The Muppet Christmas Carol
+Spawn
+The Bishop's Wife
+The Simpsons Movie
 The Hitchhiker's Guide to the Galaxy
-Insignia
-Forever Gate
-Space Pirate Captain MacTaggart
-The Babysitters Club
-Demon Squad
-The Name of the Wind
-Miss Prince
-1408
-Before I Fall
-Albert Campion
-A Wizard in Rhyme
-The Infernal Devices
-Fantastic Beasts and Where to Find Them
-Red Mars Trilogy
-Darth Bane
-The Last Angel
-Gentleman Bastard
-Bag of Bones
-The Millennium Trilogy
-Sense and Sensibility
-Un Fortunate Me
-S.
-Dark Angels
-Inheritance Cycle
-House of Stairs
-The Iliad
-Darkest Powers
-Pharmakembru
-The Legend of Sleepy Hollow
+Hide and Seek
+Patriot Games
+Chronicle
+Made in America
+Wonder Boys
+Ninotchka
+The Prince of Tides
+Biloxi Blues
+The Island
+Hostel: Part II
+Lara Croft: Tomb Raider
+In the Heat of the Night
+Talk to Her
+Changeling
+The Little Shop of Horrors
+Predators
+Sin Nombre
+She's Out of My League
+The Bank Dick
+This Means War
+Taxi Driver
+Wrongfully Accused
+The Adventures of Milo and Otis
+On Her Majesty's Secret Service
+The Asphalt Jungle
+The Virgin Spring
+The Rite
+East of Eden
+Turbulence
+Dreamcatcher
+Firewall
+Cemetery Man
+Evita
+Paris Is Burning
+Another Earth
+Texas Chainsaw Massacre: The Next Generation
+Licence to Kill
+The Three Musketeers
+Tangled
+The Enforcer
+Heathers
+Desperado
+The Mothman Prophecies
+Nothing in Common
+Seven Samurai
+Contact
+Rocky II
+Earthquake
+Scent of a Woman
+Shadowlands
+Star Trek V: The Final Frontier
+A Christmas Carol
+Paprika
+The Devil's Advocate
+The Imaginarium of Doctor Parnassus
+Honey, I Shrunk the Kids
+Eight Legged Freaks
+The Truman Show
+Dick
+The Dark Knight Rises
+Turbo: A Power Rangers Movie
+The Adventures of Pinocchio
+Bad Lieutenant: Port of Call New Orleans
+Herbie Rides Again
+Freaks
+Paths of Glory
+The Cannonball Run
+The Client
+The Shadow
+It's the Great Pumpkin, Charlie Brown
+Meteor
+The Caine Mutiny
+The Party
+A Raisin in the Sun
+Thunderbolt and Lightfoot
+Michael Clayton
+The Scarlet Letter
+Can't Buy Me Love
+A History of Violence
+Return to Me
+Singin' in the Rain
+The Postman
+Jane Eyre
+The Great Escape
+The Associate
+The DUFF
+Eyes Without a Face
+Out of Time
+Lawrence of Arabia
+Birthday Girl
+Once Upon a Time in the West
+Eye For An Eye
+In the Loop
+Hairspray
+The Bone Collector
+PCU
+Tales from the Hood
+V for Vendetta
+Chinatown
+Grindhouse
+Casper
+Shine
+The Right Stuff
+Insidious
+EDtv
+The White Ribbon
+City of Angels
+Quest for Camelot
+Primary Colors
+D.O.A.
+Only God Forgives
+Network
+Nebraska
+Bloody Sunday
+Antitrust
+Journey to the Center of the Earth
+Hall Pass
+C.R.A.Z.Y.
+The Golden Voyage of Sinbad
+Miss Peregrine's Home for Peculiar Children
+Cat's Eye
+Capote
+Time Bandits
+Swing Kids
+Bitter Moon
+You're Next
+Magic Mike
+Tokyo Story
+Cool World
+Shoot 'Em Up
+Chitty Chitty Bang Bang
+Walk Hard: The Dewey Cox Story
+The Beastmaster
+Exit to Eden
+WarGames
+Frankenstein
+Zootopia
+Stalag 17
+Looney Tunes: Back in Action
+Mary Shelley's Frankenstein
+Project X
+Monsters University
+Johnny English
+Cloud Atlas
+Waltz with Bashir
+The Hound of the Baskervilles
+The Innocents
+Back to the Future
+Demolition Man
+Warrior
+The Love Bug
+Extreme Measures
+The Black Cauldron
+Ghost Dog: The Way of the Samurai
+Green Card
+Submarine
+The Bear
+Bullets Over Broadway
+We Need to Talk About Kevin
+Losing Isaiah
+Casino Royale
+Waiting for Guffman
+Get Smart
+Clockers
+Sleuth
+Session 9
+The Rock
+Marnie
+Mr. Magoo
+Dead Calm
+The Secret of Kells
+Inkheart
+The Bourne Legacy
+John Carter
+Coyote Ugly
+Days of Heaven
+Non-Stop
+Breaking Away
+Going My Way
+Black Swan
+The Falcon and the Snowman
+The Counterfeiters
+Flight
+High School Musical 2
+Mission to Mars
+Hitch
+Mystic River
+Serpico
+Limitless
+The Fifth Element
+Saw III
+The Ides of March
+Mr. Bean's Holiday
+Little Fockers
+Fido
+Shrek 2
+Transporter 2
+The Little Mermaid
+Presumed Innocent
+Paranormal Activity
+Harry Potter and the Deathly Hallows: Part 1
+Sherlock Holmes: A Game of Shadows
+Kick-Ass
+Ray
+Monsoon Wedding
+The Haunted Mansion
+Mean Girls
+The Devil's Own
+The Karate Kid, Part III
+The Lavender Hill Mob
+The Good Shepherd
+A.I. Artificial Intelligence
+Husbands and Wives
+Accepted
+Arthur
+Coma
+Cry Freedom
+Mighty Morphin Power Rangers: The Movie
+The Garden of the Finzi-Continis
+The Crow: City of Angels
+Memoirs of a Geisha
+Magnum Force
+The Jackal
+X-Men: First Class
+The Shining
+Angus
+Some Kind of Wonderful
+Moon
+Spice World
+King Solomon's Mines
+Eve's Bayou
+The Birds, the Bees and the Italians
+Star Wars: Episode I - The Phantom Menace
+Police Academy 4: Citizens on Patrol
+Sympathy for Mr. Vengeance
+The Wave
+Ghostbusters
+The Guard
+Remember Me
+High and Low
+Breakdown
+Starman
+Lords of Dogtown
+Before Sunset
+Blues Brothers 2000
+RoboCop 3
+North by Northwest
+Dragonslayer
+Running Scared
+The Exorcist III
+Don Juan DeMarco
+Closer
+Do the Right Thing
+Priest
+The Fast and the Furious
+A Nightmare on Elm Street 4: The Dream Master
+Police Academy 2: Their First Assignment
+Night at the Museum: Secret of the Tomb
+Tombstone
+The Sorcerer's Apprentice
+Raiders of the Lost Ark
+Basic Instinct
+Gosford Park
+Event Horizon
+Persona
+Le Good bye
+Coneheads
+Wanted
+Headhunters
+The Long Kiss Goodnight
+Bugsy
+Stir Crazy
+Little Shop of Horrors
+Steel
+Queen of the Damned
+Dinner for Schmucks
+Big
+Foxcatcher
+Private Benjamin
+Courage Under Fire
+The Hitcher
+Red River
+Final Destination 2
+A Good Year
+The Blue Angel
+Shrek the Third
+Silverado
+Surf's Up
+Speed Racer
+New York Stories
+Rent
+The Lone Ranger
+Spy Kids 3-D: Game Over
+Kundun
+The Monster Squad
+Rock Star
+Crooklyn
+Blazing Saddles
+The Tenant
+Ali
+The Unbearable Lightness of Being
+Garden State
+Mommie Dearest
+Repo Men
+The Phantom
+Wild
+Fargo
+Mad Love
+Tootsie
+Smoke Signals
+Crank: High Voltage
+Fever Pitch
+Music and Lyrics
+Bloodsport
+The Way, Way Back
+Driven
+Avengers: Age of Ultron
+The Pink Panther
+Captain America: The Winter Soldier
+Sister Act 2: Back in the Habit
+Shane
+Bambi
+Midnight Cowboy
+Bride Wars
+Rush Hour 3
+A Face in the Crowd
+Kingdom of Heaven
+Four Lions
+Heavy Metal
+Metro
+Vertigo
+Conan the Barbarian
+Pride
+Jumanji
+Arsenic and Old Lace
+Lars and the Real Girl
+Excalibur
+Under the Skin
+Yes Man
+The Man from U.N.C.L.E.
+Dumbo
+Morning Glory
+Blow
+Sneakers
+Bridge To Terabithia
+First Blood
+Halloween: Resurrection
+Song of the Sea
+The Year of Living Dangerously
+Urban Legends: Final Cut
+Salt
+Mission: Impossible II
+Spanglish
+Carnival of Souls
+Neighbors
+Fish Tank
+The Hours
+Max Payne
+The Browning Version
+Kiss the Girls
+Joy Ride
+Hoop Dreams
+Bicycle Thieves
+The Wild Bunch
+The Adventures of Rocky and Bullwinkle
+Seeking a Friend for the End of the World
+Frantic
+The General's Daughter
+Young Einstein
+Condorman
+The Kings of Summer
+Peggy Sue Got Married
+Gone Girl
+Scream
+The Lincoln Lawyer
+Wet Hot American Summer
+The Conformist
+Alexander
+RocketMan
+Iron Man 2
+The Mummy: Tomb of the Dragon Emperor
+First Knight
+Schindler's List
+Cinema Paradiso
+Trading Places
+The Tin Drum
+Star Trek: Generations
+Scoop
+Rambo
+The African Queen
+Hostage
+Any Given Sunday
+Poltergeist
+Underworld: Rise of the Lycans
+The Thing from Another World
+Breaking the Waves
+Casualties of War
+Lantana
+Transformers: Dark of the Moon
+The Ladies Man
+Hot Fuzz
+The Cure
+Cradle 2 the Grave
+The World According to Garp
+The Sandlot
+A Civil Action
+In the Company of Men
+The Jerk
+Star Trek III: The Search for Spock
+Rango
+Cast Away
+Hollow Man
+Date Movie
+The Revenant
+Dirty Dancing
+The Importance of Being Earnest
+Soapdish
+The Boondock Saints II: All Saints Day
+The Ring Two
+Win a Date with Tad Hamilton!
+Cross of Iron
+Push
+Pirates of the Caribbean: Dead Man's Chest
+Beloved
+Bamboozled
+The Hills Have Eyes
+The Devil's Rejects
+Bell, Book and Candle
+Amour
+L.A. Confidential
+Paulie
+Living in Oblivion
+The Mask of Zorro
+Irreversible
+Just Married
+Dark Shadows
+Traitor
+Glengarry Glen Ross
+Time After Time
+Get Over It
+Candyman: Farewell to the Flesh
+House II: The Second Story
+Iron Man
+Shanghai Knights
+Air Force One
+Duck Soup
+Dogville
+Underground
+Death Race 2000
+Enemy Mine
+Tampopo
+Insidious: Chapter 2
+Dead Poets Society
+The Fog
+X-Men Origins: Wolverine
+Departures
+Fantastic Mr. Fox
+Kung Fu Hustle
+Beverly Hills Cop II
+The Mirror Has Two Faces
+White Oleander
+Ichi the Killer
+House of Flying Daggers
+Buffalo '66
+Ultraviolet
+Unleashed
+The Great Outdoors
+Pillow Talk
+Annie
+Velvet Goldmine
+We Are Marshall
+The New Guy
+Presto
+Dumb and Dumberer: When Harry Met Lloyd
+Jack Reacher: Never Go Back
+Urban Legend
+Tales from the Darkside: The Movie
+The Book of Life
+Ant-Man
+Antwone Fisher
+Gaslight
+Snow Falling on Cedars
+Book of Shadows: Blair Witch 2
+Take Shelter
+Frances
+Sorority Boys
+My Fair Lady
+Finding Dory
+The Double Life of Veronique
+A Quiet Place
+Extract
+Duel
+Groundhog Day
+Cocoon
+Curse of the Golden Flower
+Timecop
+Knocked Up
+Mr. Nobody
+Murder on the Orient Express
+Center Stage
+Nosferatu the Vampyre
+The A-Team
+Hotel Rwanda
+Moonstruck
+Hard Target
+Attack of the Killer Tomatoes!
+The Black Dahlia
+The Other Woman
+Red Dawn
+Batman v Superman: Dawn of Justice
+RoboCop 2
+Deadpool 2
+I'm Not There
+Popeye
+Charlie and the Chocolate Factory
+The Diary of Anne Frank
+Intolerable Cruelty
+Jersey Girl
+A Day at the Races
+Room
+The Band Wagon
+The Break-Up
+Hiroshima Mon Amour
+Talladega Nights: The Ballad of Ricky Bobby
+The Vanishing
+Bronson
+The Act of Killing
+Legally Blonde
+Ice Age 4: Continental Drift
+Dr. Jekyll and Mr. Hyde
+Maverick
+The Great Muppet Caper
+Stepmom
+Jaws: The Revenge
+Repulsion
+The Visitor
+The Birdcage
+Peter's Friends
+My Sister's Keeper
+Men in Black II
+A Bronx Tale
+Fear and Loathing in Las Vegas
+Toy Story 3
+Hail, Caesar!
+The Ruling Class
+Paper Towns
+They Shoot Horses, Don't They?
+That Obscure Object of Desire
+Logan
+The Spy Who Loved Me
+The Incredibly True Adventure of Two Girls in Love
+Ghosts of Mars
+Shattered Glass
+The Ref
+National Lampoon's Vacation
+Four Brothers
+Finding Neverland
+Tender Mercies
+Gallipoli
+The House of Yes
+What We Do in the Shadows
+*batteries not included
+X-Men
+The Musketeer
+Muppets From Space
+Valentine's Day
+Brother
+Cutthroat Island
+Leap Year
+The Cable Guy
+Oliver Twist
+White Heat
+Ice Age
+The Troll Hunter
+My Favorite Martian
+The Goonies
+Fame
+Reversal of Fortune
+Carnage
+The Lovely Bones
+Halloween: The Curse of Michael Myers
 The Baby-Sitters Club
-How Much for Just the Planet?
-The Baroque Cycle
-The Jenkinsverse
-Temeraire
-Firefight
-The Tomorrow Series
-Sienkiewicz Trilogy
-Green-Sky Trilogy
-The Legend of Sun Knight
-Wicked
-Star Darlings
-The Epic of Gilgamesh
-Lorien Legacies
-The Wayfarer Redemption
-Private
-Wars of Light and Shadow
-Flowers for Algernon
-A World of Laughter, a World of Tears
+Tin Cup
+The Ghost and the Darkness
+Child's Play 3
+My Life as a Dog
+How to Train Your Dragon
+The Last Kiss
+The Long Goodbye
+Some Like It Hot
+The Number 23
+Behind Enemy Lines
+The Cove
+Win Win
+Stargate
+Conan the Destroyer
+The Absent-Minded Professor
+The Siege
+The Hand That Rocks the Cradle
+The Mummy Returns
+ParaNorman
+Night of the Comet
+Friday the 13th Part VI: Jason Lives
+Herbie Goes to Monte Carlo
+A Fish Called Wanda
+Soylent Green
+Dead Again
+Man of the House
+Babe
+Song of the South
+The Kite Runner
+The Orphanage
+Message in a Bottle
+Bird on a Wire
+Psycho II
+Alien: Covenant
+Masters of the Universe
+After Life
+This Is 40
+The Sentinel
+Platoon
+The Hunger Games: Mockingjay - Part 1
+Loser
+Back to the Future Part III
+Beerfest
+Mallrats
+American Psycho
+P.S. I Love You
+The Aristocrats
+The Hitman's Bodyguard
+Kung Fu Panda 3
+Cecil B. DeMented
+London Has Fallen
+The Return of the Living Dead
+The Toy
+Mission: Impossible III
+Supernova
+Everything Must Go
+Smoke
+For Your Eyes Only
+High School Musical
+Meet John Doe
+Abraham Lincoln: Vampire Hunter
+Black Book
+Arlington Road
+Frailty
+Places in the Heart
+RV
+About a Boy
+Buffalo Soldiers
+Summer Rental
+Primal Fear
+Dante's Peak
+The Ghost and Mrs. Muir
+Wrong Turn
+The Wolf of Wall Street
+The Endless Summer
+Gladiator
+Can't Hardly Wait
+Pulp Fiction
+Citizen Kane
+Goodfellas
+Barcelona
+My Cousin Vinny
+To Kill a Mockingbird
+Silver Linings Playbook
+Bulworth
+Mr. Smith Goes to Washington
+Meet the Robinsons
+Monster
+Sunshine Cleaning
+Epic
+Married to the Mob
+A Streetcar Named Desire
+State of Play
+Weekend at Bernie's II
+Lawnmower Man 2: Beyond Cyberspace
+The Man Who Knew Too Much
+Pay It Forward
+Woman in the Dunes
+The Lost World: Jurassic Park
+Toys
+Brave
+Body Heat
+Apt Pupil
+Scream 4
+The Princess Diaries
+Time Lapse
+Stir of Echoes
+Wonderland
+Matilda
+Logan Lucky
+Wild at Heart
+Lean on Me
+Bedazzled
+Laura
+SLC Punk!
+Frankenweenie
+Apollo 13
+Monkey Business
+Psycho III
+Beauty and the Beast
+MirrorMask
+The Living Daylights
+Atonement
+The Fox and the Hound
+The Object of My Affection
+Curly Sue
+Harry Potter and the Chamber of Secrets
+Princess Mononoke
+Blast from the Past
+Once Were Warriors
+Iron Eagle
+Jiro Dreams of Sushi
+Wild Things
+Clockstoppers
+Eyes Wide Shut
+Nobody's Fool
+Infernal Affairs
+Europa Europa
+Dead Snow
+Water for Elephants
+Scrooged
+The Tourist
+Blow Out
+Spring Breakers
+Spy
+The Incredibles
+The Life Aquatic with Steve Zissou
+Indiana Jones and the Last Crusade
+Nighthawks
+Fried Green Tomatoes
+Transformers: Age of Extinction
+Stagecoach
+Waitress
+The Maltese Falcon
+Filth
+Nacho Libre
+Blue Is the Warmest Color
+Pirates of the Caribbean: At World's End
+Open Range
+Cry-Baby
+Hook
+Dope
+Love Actually
+Midnight Run
+Tangled Ever After
+The Great Beauty
+Death Race
+Very Bad Things
+A Beautiful Mind
+Needful Things
+In the Mouth of Madness
+The Boys from Brazil
+The Hunger Games: Catching Fire
+Cloverfield
+Mamma Mia!
+Blood Diamond
+Legend
+White House Down
+Pumpkinhead
+Rosencrantz and Guildenstern Are Dead
+Murder at 1600
+Harriet the Spy
+Whiplash
+Raise the Red Lantern
+Dracula: Dead and Loving It
+Singles
+The Brave Little Toaster
+The Man with the Golden Gun
+If....
+Star Trek II: The Wrath of Khan
+[REC]
+Frenzy
+My Blue Heaven
+Southpaw
+Hell or High Water
+The Last Airbender
+The Rapture
+Snatch
+Underworld
+Kong: Skull Island
+Skyline
+Get Him to the Greek
+Daddy's Home
+Employee of the Month
+The Craft
+Bowfinger
+Chocolat
+The Handmaiden
+Mystery Men
+Private Parts
+History of the World: Part I
+Vantage Point
+The Man in the Moon
+The Grapes of Wrath
+Everything Is Illuminated
+I Love You, Man
+Tequila Sunrise
+All the Pretty Horses
+Don't Breathe
+Boys Don't Cry
+Creepshow
+Aguirre: The Wrath of God
+Marty
+August Rush
+The Graduate
+From Russia with Love
+The Poseidon Adventure
+Once
+Margin Call
+Krull
+Animal Crackers
+Animal Kingdom
+In Bruges
+Phantom of the Opera
+Maximum Overdrive
+Sweet and Lowdown
+Volunteers
+Along Came a Spider
+Captain Corelli's Mandolin
+Lawless
+Punch-Drunk Love
+Snake Eyes
+Driving Miss Daisy
+Thank You for Smoking
+The Hateful Eight
+Nightwatch
+Barbershop
+Red 2
+Passenger 57
+Better Than Chocolate
+Amazon Women on the Moon
+The Box
+Oh, God!
+Melinda and Melinda
+A Perfect Murder
+Everyone Says I Love You
+Koyaanisqatsi
+Bad Taste
+Whip It
+The Triplets of Belleville
+The Good Son
+Capturing the Friedmans
+Resident Evil
+The Maze Runner
+Bats
+Love and Basketball
+Of Mice and Men
+Attack the Block
+Babes in Toyland
+The Impossible
+American Pie
+Juno
+Monty Python's Life of Brian
+Horton Hears a Who!
+Sin City: A Dame to Kill For
+The Idiots
+Step Brothers
+Perfect Blue
+How to Make an American Quilt
+The Kingdom
+M
+Super 8
+What Lies Beneath
+Hope Floats
+Lifeboat
+Ghost in the Shell
+Ace Ventura: When Nature Calls
+Vicky Cristina Barcelona
+Rififi
+The NeverEnding Story
+Green Lantern
+Titus
+Ninja Scroll
+Sudden Impact
+The Danish Girl
+Stuart Little 2
+Killers
+U-571
+Herbie Goes Bananas
+Upside Down
+In the Name of the Father
+Renaissance Man
+The Italian Job
+The Thing
+The Hunger Games: Mockingjay - Part 2
+Elizabeth
+Sully
+X-Men: The Last Stand
+The Natural
+The Scorpion King
+Clue
+Jimmy Neutron: Boy Genius
+The Opposite of Sex
+Timecrimes
+Unbroken
+Drop Dead Fred
+Dead Men Don't Wear Plaid
+Gilda
+Hot Tub Time Machine
+Two Weeks Notice
+Death to Smoochy
+Annihilation
+Dirty Pretty Things
+Being John Malkovich
+Blown Away
+Dangerous Liaisons
+King of the Hill
+Sister Act
+The Blob
+Higher Learning
+Coach Carter
+The Twilight Samurai
+Next
+The Artist
+The Net
+Paint Your Wagon
+Down by Law
+Sleeper
+Doctor Strange
+National Treasure
+Swimming with Sharks
+The Grudge
+High Noon
+Still Alice
+The People vs. Larry Flynt
+The Fighter
+The Witch
+Oklahoma!
+Romy and Michele's High School Reunion
+Little Big League
+Billy Elliot
+The Exorcism of Emily Rose
+The Santa Clause
+Jumper
+The Martian
+Volver
+Klute
+Lucas
+Penelope
+Mortal Kombat
+Darkman
+Reign Over Me
+One Crazy Summer
+The Last Unicorn
+Mimic
+Erin Brockovich
+Tropic Thunder
+Resident Evil: Afterlife
+The Last Castle
+The Wind Rises
+Paul Blart: Mall Cop
+Troop Beverly Hills
+Don't Say a Word
+Extremely Loud and Incredibly Close
+The Hobbit: The Desolation of Smaug
+FearDotCom
+What Women Want
+Sleeping with the Enemy
+Enter the Dragon
+Independence Day
+Scary Movie
+Shrek
+The Mummy
+Face/Off
+Moscow on the Hudson
+King Arthur: Legend of the Sword
+Rio Bravo
+Final Fantasy VII: Advent Children
+Snowden
+House of Games
+Slaughterhouse-Five
+The Good Girl
+Malcolm X
+Child's Play 2
+Enchanted
+In the Realm of the Senses
+Need for Speed
+The Passion of Joan of Arc
+Commando
+Exorcist II: The Heretic
+The Boy Who Could Fly
+Big Night
+Dunkirk
+Willow
+Wishmaster
+Hamlet
+Never Been Kissed
+Ocean's Twelve
+The Aviator
+The Wolverine
+Babette's Feast
+Catwoman
+Bully
+Desperate Measures
+Amarcord
+Transformers: The Movie
+Once Upon a Time in China
+Pirate Radio
+The Court Jester
+Hoodlum
+Police Academy 6: City Under Siege
+Nurse Betty
+Twins
+We Were Soldiers
+Jumanji: Welcome to the Jungle
+The Other Sister
+Contempt
+Deadpool
+Saving Silverman
+G.I. Joe: Retaliation
+The Watcher
+Great Expectations
+Enter the Void
+The Best Offer
+The Mission
+Coco
+The Omega Man
+The Secret World of Arrietty
+Conquest of the Planet of the Apes
+The Hunchback of Notre Dame
+Children of the Damned
+Practical Magic
+Ju-on: The Grudge
+Cronos
+Local Hero
+Gifted
+The Day After Tomorrow
+Little Children
+Throne of Blood
+Joe's Apartment
+White Man's Burden
+Lara Croft Tomb Raider: The Cradle of Life
+The Signal
+Stardust
+Anna and the King
+Friday the 13th Part V: A New Beginning
+Richie Rich
+Monster's Ball
+The Virgin Suicides
+The Towering Inferno
+Tora! Tora! Tora!
+Reds
+Locke
+Amadeus
+Prom Night
+Mixed Nuts
+Heat
+Transcendence
+A Cinderella Story
+Star Trek Into Darkness
+I Now Pronounce You Chuck and Larry
+Knowing
+Wolf
+The Dark Half
+The Fate of the Furious
+The Jungle Book
+The Big Short
+Deep Impact
+George of the Jungle
+The Longest Yard
+A Shot in the Dark
+Rocky Balboa
+The Other Boleyn Girl
+Stardust Memories
+Kindergarten Cop
+You've Got Mail
+Peeping Tom
+Miss Pettigrew Lives for a Day
+Gattaca
+Blue Ruin
+Superhero Movie
+Grown Ups
+Weekend at Bernie's
+Rocky IV
+Police Academy 3: Back in Training
+Crazy Heart
+Windtalkers
+Premonition
+Little Nicky
+The Last Witch Hunter
+The Red Shoes
+Everest
+Unfaithful
+Dodgeball: A True Underdog Story
+Persepolis
+Get Shorty
+Road to Perdition
+Saw
+Harakiri
+Mulholland Falls
+It Happened One Night
+Friday the 13th
+The Dead Zone
+Highlander: Endgame
+Jack Ryan: Shadow Recruit
+Rumble in the Bronx
+Pacific Rim
+Tinker Tailor Soldier Spy
+Footloose
+Whale Rider
+Galaxy Quest
+American Graffiti
+Focus
+Guardians of the Galaxy
+Glory Road
+The Big Chill
+Gangster Squad
+The Great Race
+Gone Baby Gone
+EuroTrip
+Fool's Gold
+Sex Drive
+Jackie Brown
+Pearl Harbor
+Wedding Crashers
+Rudy
+The Interpreter
+The American President
+The Blind Side
+The Fall
+The Shipping News
+The Man Who Shot Liberty Valance
+The Barbarian Invasions
+Daredevil
+War of the Worlds
+Nixon
+A American Tail: Fievel Goes West
+Jawbreaker
+Spider-Man 2
+Quiz Show
+Elf
+Munich
+Funny Face
+The Road Warrior
+The Boondock Saints
+What a Girl Wants
+Woodstock
+Kids in the Hall: Brain Candy
+Spider
+Cheaper by the Dozen
+Confessions of a Shopaholic
+Come and See
+The Descent
+Hellboy
+Chappie
+Animal House
+A Hard Day's Night
+Mr. Popper's Penguins
+The Equalizer
+Rosemary's Baby
+Abbott and Costello Meet Frankenstein
+Mad Max
+The Other Guys
+Yellow Submarine
+Red Planet
+Coherence
+Valentine
+Cleopatra
+Fiddler on the Roof
+Johnny Mnemonic
+The Golden Compass
+Frances Ha
+Mr. Holland's Opus
+Sucker Punch
+She-Devil
+The Best Man
+The Bad Seed
+Midnight Special
+Addams Family Values
+Safe House
+The Basketball Diaries
+Revenge of the Nerds
+A Prairie Home Companion
+Under Siege
+Ed Wood
+A Officer and a Gentleman
+Doctor Zhivago
+The Green Mile
+It
+The Sword in the Stone
+Screamers
+Steel Magnolias
+Ringu
+The Amazing Spider-Man 2
+S.W.A.T.
+Fahrenheit 9/11
+Mighty Aphrodite
+Bull Durham
+Who Framed Roger Rabbit?
+First Strike
+Big Fat Liar
+Boyhood
+Gorky Park
+Chain Reaction
+Addicted to Love
+North Country
+Like Water for Chocolate
+The Last of the Mohicans
+Pirates of Silicon Valley
+The Hunted
+Anacondas: The Hunt for the Blood Orchid
+The Holy Mountain
+Crimson Tide
+The International
+Christine
+Black Rain
+Puss in Boots
+Central Intelligence
+Kickboxer
+X-Men: Days of Future Past
+Only Lovers Left Alive
+The Untouchables
+Miller's Crossing
+Eat Pray Love
+Underworld: Awakening
+Final Destination 5
+King Ralph
+The Mirror
+Quarantine
+Traffic
+The Frighteners
+Ballistic: Ecks vs. Sever
+Brazil
+Splash
+Dennis the Menace
+The Place Beyond the Pines
+Monsters vs. Aliens
+Drunken Master
+Corpse Bride
+Blades of Glory
+The Day of the Jackal
+Sweet Smell of Success
+Maximum Risk
+The Godfather: Part III
+Mrs. Miniver
+The 'burbs
+Bridge of Spies
+Broadway Danny Rose
+Avalon
+Million Dollar Baby
+The Usual Suspects
+Van Helsing
+Bob Roberts
+The Crimson Rivers
+The French Connection
+Who Killed the Electric Car?
+Inside Out
+Baby's Day Out
+Baby... Secret of the Lost Legend
+Gremlins 2: The New Batch
+Barfly
+American Beauty
+Swiss Army Man
+The Wedding Banquet
+Hearts in Atlantis
+Femme Fatale
+King Kong
+Captain America: The First Avenger
+Rocky
+Dr. No
+Spy Hard
+Star Trek IV: The Voyage Home
+Nine Months
+Indecent Proposal
+Red Eye
+Blue Crush
+The Bourne Identity
+The Hurt Locker
+Suicide Squad
+Safe
+Osmosis Jones
+Strictly Ballroom
+Due Date
+Atomic Blonde
+Death Proof
+Grand Canyon
+A Separation
+Jingle All the Way
+Something's Gotta Give
+Meatballs
+Picnic at Hanging Rock
+Crazy/Beautiful
+Critters
+Con Air
+Hang 'Em High
+The Forbidden Kingdom
+The Goodbye Girl
+The Trip to Bountiful
+Ghost Rider
+Tommy
+The Killers
+Predator 2
+Atlantis: The Lost Empire
+Hot Shots! Part Deux
+The Return of Martin Guerre
+Primer
+The Bodyguard
+Home Alone 2: Lost in New York
+Panic Room
+Set It Off
+Sirens
+Undercover Brother
+Percy Jackson: Sea of Monsters
+The Constant Gardener
+Letters from Iwo Jima
+Howl's Moving Castle
+Babe: Pig in the City
+From Hell
+The 400 Blows
+Alligator
+Alphaville
+Poseidon
+The Last House on the Left
+Mutiny on the Bounty
+Anchorman: The Legend of Ron Burgundy
+Rebecca
+Iron Sky
+Biutiful
+Waiting to Exhale
+Miracle
+Mon Oncle
+I Love You Phillip Morris
+The Aristocats
+Fail-Safe
+Vera Drake
+Zelig
+Spy Kids
+The Hudsucker Proxy
+Peter Pan
+Robin Hood
+Hart's War
+The Incredible Shrinking Man
+The Killer
+The Stepford Wives
+War Horse
+Real Genius
+Mama
+Ali G Indahouse
+Lone Survivor
+Ender's Game
+Philadelphia
+Papillon
+The Freshman
+We Bought a Zoo
+Inspector Gadget
+Mr. Brooks
+The Buddy Holly Story
+Ghosts of Girlfriends Past
+The Breakfast Club
+The Incredible Hulk
+Pet Sematary
+The Addams Family
+Trainspotting
+Harry Potter and the Sorcerer's Stone
+The Name of the Rose
+Stalker
+The Warriors
+Rambo III
+The Perfect Storm
+The Ring
+The Fly II
+The Rookie
+Lincoln
+Mongol
+Man on Fire
+Bernie
+United 93
+Nothing But Trouble
+Chasing Amy
+Micmacs
+Antz
+Charlotte's Web
+Bringing Down the House
+Encino Man
+The Best Exotic Marigold Hotel
+A Few Good Men
+I Love Trouble
+Mr. Saturday Night
+Wait Until Dark
+Day of the Dead
+Crocodile Dundee
+Good Will Hunting
+Before the Rain
+Alone in the Dark
+Stigmata
+Farewell My Concubine
+Michael
+The Thin Man
+Chungking Express
+Near Dark
+The Man with Two Brains
+Trumbo
+The Paper
+Hard Rain
+Pineapple Express
+Slap Shot
+Until the End of the World
+On the Town
+The Brothers Bloom
+Fire Down Below
+Catfish
+Leaving Las Vegas
+Layer Cake
+Paycheck
+A Place in the Sun
+Death Note
+Tarzan
+Domino
+Man Bites Dog
+The Nightmare Before Christmas
+Showgirls
+The River Wild
+Surrogates
+Killing Them Softly
+Angel Heart
+No Man's Land
+Mean Streets
+The Specialist
+Angels in the Outfield
+Absolute Power
+Jade
+There's Something About Mary
+The Changeling
+Freejack
+Necessary Roughness
+Trance
+Assassins
+Spaceballs
+Clerks II
+Outlander
+The Iron Giant
+Riddick
+Sabotage
+The Beverly Hillbillies
+Short Circuit
+The Squid and the Whale
+The Sisterhood of the Traveling Pants
+Joe Dirt
+Alien Nation
+The Bling Ring
+Big Top Pee-Wee
+Quest for Fire
+Hollywood Ending
+Lethal Weapon
+Home Alone
+Total Recall
+The Village
+A Very Brady Sequel
+A Room with a View
+Double Indemnity
+Steamboat Willie
+Cabin Fever
+Jabberwocky
+The Drop
+Muriel's Wedding
+Diner
+Rope
+The Replacements
+Whisper of the Heart
+Identity Thief
+The Nice Guys
+Apocalypto
+The Motorcycle Diaries
+The Polar Express
+Spartacus
+Mr. Magorium's Wonder Emporium
+The Texas Chainsaw Massacre: The Beginning
+Manhunter
+Red Sonja
+Up
+The Fly
+Deliverance
+Melancholia
+My Girl
+Burlesque
+Meet Joe Black
+Hitman
+Mermaids
+How to Steal a Million
+The Three Caballeros
+The Duchess
+Anatomy of a Murder
+Election
+Jeepers Creepers
+Harold and Maude
+Sliver
+Her
+Wuthering Heights
+Dick Tracy
+The Believer
 Harry Potter and the Order of the Phoenix
-Enchanted Forest Chronicles
-World of the Five Gods
-The Bible
-The Roman Mysteries
+Patton
+Ladder 49
+Big Momma's House
+Predestination
+Night Shift
+Enron: The Smartest Guys in the Room
+As Good as It Gets
+The Shaggy Dog
+Key Largo
+Short Circuit 2
+Sleepwalkers
+Space Jam
+Taps
+Close Encounters of the Third Kind
+A Life Less Ordinary
+Tell No One
+Bridget Jones: The Edge of Reason
+The Prophecy
+The Kids Are All Right
+Bless the Child
+Die Hard 2
+Chaplin
+Dead Ringers
+Unthinkable
+Martyrs
+The Santa Clause 2
+King Kong vs. Godzilla
+Rising Sun
+This Is Spinal Tap
+Hidalgo
+Despicable Me
+Dirty Harry
+Cookie's Fortune
+Dolores Claiborne
+Funny Girl
+Tideland
+Wild Tales
+Spirit: Stallion of the Cimarron
+Blackfish
+Murder, My Sweet
+G.I. Jane
+House of Sand and Fog
+South Pacific
+Entrapment
+Cannonball Run II
+Yours, Mine and Ours
+UHF
+A Man and a Woman
+Beavis and Butt-Head Do America
+Me Before You
+Calvary
+Manhattan Murder Mystery
+Feast
+Moneyball
+Mr. Deeds
+The Peacemaker
+Nick of Time
+Night at the Museum: Battle of the Smithsonian
+The Skulls
+Halloween III: Season of the Witch
+The Girl with the Dragon Tattoo
+A Charlie Brown Christmas
+Brothers
+Terminator Genisys
+Alaska
+The Losers
+The Elephant Man
+Angel Eyes
+Death and the Maiden
+Lucy
+The Dish
+Invictus
+Summer of Sam
+This Film Is Not Yet Rated
+The X-Files: I Want to Believe
+Big Fish
+The Indian in the Cupboard
+Mission: Impossible
+The Adventures of Robin Hood
+Paperman
+Bewitched
+Bullitt
+Teen Wolf
+Saw VI
+Disturbing Behavior
+Bridesmaids
+Shutter Island
+The Flintstones in Viva Rock Vegas
+Series 7: The Contenders
+The Way Back
+Mystic Pizza
+The Tailor of Panama
+Slither
+Action Jackson
+Dreamgirls
+Wonder Woman
+Paris, Texas
+Narc
+The Tuxedo
+Jack
+Jason X
+Titan A.E.
+The Edge
+Gandhi
+Defending Your Life
+The Sweetest Thing
+Roger Dodger
+Mississippi Burning
+Seven Pounds
+Brassed Off
+Robin Hood: Men in Tights
+Escape from L.A.
+Boiler Room
+Law Abiding Citizen
+Ip Man 2
+Planet Terror
+The Wicker Man
+The Negotiator
+Oliver!
+The Time Traveler's Wife
+End of Watch
+Grand Hotel
+Love and Other Drugs
+Working Girl
+Cyrano de Bergerac
+Runaway Jury
+Hotel Transylvania 2
+Enemy
+Batman Returns
+Mean Creek
+Blood Simple
+Flushed Away
+How High
+Dave
+The Doom Generation
+Sweeney Todd: The Demon Barber of Fleet Street
+Celtic Pride
+Horrible Bosses
+Wing Commander
+Halloween
+Vincent
+The Hunt for Red October
+Strange Days
+Battleship Potemkin
+Batman: Mask of the Phantasm
+The Celluloid Closet
+Collateral Damage
+Flatliners
+Kiss of the Dragon
+Magic in the Moonlight
+Tommy Boy
+The Cat in the Hat
+Shadow of the Vampire
+Love Affair
+Friday the 13th Part VII: The New Blood
+Outrageous Fortune
+Amityville II: The Possession
+The Muppets Take Manhattan
+Thunderball
+Escape from Alcatraz
+Dumb and Dumber To
+Deathtrap
+The Bounty Hunter
+Three Days of the Condor
+Strangers on a Train
+Gorillas in the Mist
+Orlando
+Black Hawk Down
+Mister Roberts
+Big Eyes
+The Last Supper
+Stand by Me
+Spy Game
+Lion
+The King of Comedy
+I'm Gonna Git You Sucka
+Thirteen Days
+Semi-Pro
+Cyborg
+The Flight of the Phoenix
+The Straight Story
+Vertical Limit
+Monty Python Live at the Hollywood Bowl
+Blade
+Swept Away
+Into the Blue
+Desperately Seeking Susan
+City Slickers
+Milk Money
+Women on the Verge of a Nervous Breakdown
+Elephant
+Pete's Dragon
+Memphis Belle
+Ghost Town
+Last Night
+Dogma
+Loaded Weapon 1
+Superman II
+Master and Commander: The Far Side of the World
+Tomorrowland
+The Three Burials of Melquiades Estrada
+Jaws
+Ruthless People
+Somewhere in Time
+The Majestic
+Top Secret!
+Jupiter Ascending
+The Five-Year Engagement
+The Expendables 3
+Tron: Legacy
+Boxing Helena
+The Founder
+Mars Attacks!
+They Live
+Our Idiot Brother
+Street Kings
+The Great Gatsby
+Meet the Fockers
+The Dictator
+Love and Death
+After Hours
+Ernest Saves Christmas
+Monsters
+Poison Ivy
+Prizzi's Honor
+Doom
+Blank Check
+Terminator 2: Judgment Day
+The Dark Crystal
+Assault on Precinct 13
+National Security
+For Richer or Poorer
+The Machinist
+Fantasia
+Jay and Silent Bob Strike Back
+The Cat Returns
+Days of Thunder
+Three Kings
+Star Wars: Episode III - Revenge of the Sith
+A Tale of Two Sisters
+Anger Management
+The Swan Princess
+American History X
+Enemy of the State
+Inside Man
+The Perks of Being a Wallflower
+Eragon
+Less Than Zero
+The Lion King
+Final Fantasy: The Spirits Within
+M*A*S*H
+Shadow of a Doubt
+Elizabethtown
+Creepshow 2
+St. Elmo's Fire
+Agent Cody Banks
+Escape from New York
+Blood Work
+I Know What You Did Last Summer
+Alice in Wonderland
+Superman III
+Chariots of Fire
+The Thin Blue Line
+Firestarter
+Vacation
+The Cider House Rules
+The Devil Wears Prada
+Last Man Standing
+High Art
+The Host
+Crocodile Dundee II
+A View to a Kill
+Charade
+The Texas Chainsaw Massacre 2
+Jack the Giant Slayer
+And the Band Played On
+Saw IV
+Remember the Titans
+Escape to Witch Mountain
+Zombieland
+Harry and the Hendersons
+The China Syndrome
+Grease
+Shampoo
+The Spirit
+xXx
+Airplane!
+Breach
+Children of Paradise
+Eagle Eye
+Transamerica
+On the Waterfront
+Stop! Or My Mom Will Shoot
+Witness
+Space Cowboys
+Finding Nemo
+American Wedding
+Swiss Family Robinson
+The Lawnmower Man
+Sexy Beast
+East is East
+This Is the End
+The In-Laws
+How to Train Your Dragon 2
+Pitch Black
+Stranger than Fiction
+The Station Agent
+A Dangerous Method
+Last Tango in Paris
+Austin Powers in Goldmember
+Tomorrow Never Dies
+Lone Star
+Beautiful Creatures
+Pinocchio
+Mrs. Dalloway
+Spring, Summer, Fall, Winter... and Spring
+Lethal Weapon 4
+The Wrestler
+Henry: Portrait of a Serial Killer
+A Million Ways to Die in the West
+Battle for the Planet of the Apes
+Far and Away
+The Magnificent Seven
+Self/less
+The Accountant
+The Producers
+Hellraiser
+Stoker
+The Man Who Would Be King
+The Campaign
+The Family Stone
+Sin City
+Six Days Seven Nights
+Scream 2
+Blue Jasmine
+Batman: Under the Red Hood
+Braveheart
+Operation Dumbo Drop
+Double Impact
+After Earth
+Money Talks
+Star Wars: The Last Jedi
+Down to Earth
+Airplane II: The Sequel
+The Girl Who Leapt Through Time
+Backbeat
+Hunger
+Eastern Promises
+Deep Blue Sea
+Fitzcarraldo
+Sense and Sensibility
+The Bounty
+Race to Witch Mountain
+Rio
+Creed
+Anna Karenina
+You Only Live Twice
+A Nightmare on Elm Street 2: Freddy's Revenge
+No Country for Old Men
+Suicide Kings
+Magnolia
+Every Which Way But Loose
+The Hangover Part II
+Into the Wild
+Let the Right One In
+Begin Again
+Justice League
+Gimme Shelter
+The Game
+To Catch a Thief
+King of New York
+Pitch Perfect 2
+Money Train
+Ice Age 2: The Meltdown
+Edward Scissorhands
+The Gold Rush
+Australia
+My Own Private Idaho
+Ace Ventura: Pet Detective
+The Deer Hunter
+I Am Sam
+Captain America: Civil War
+Righteous Kill
+The Grand Budapest Hotel
+Thor: Ragnarok
+The Last Days of Disco
+River's Edge
+Waking Ned Devine
+Sicko
+Frozen
+Open Water
+Pollyanna
+Death Becomes Her
+Girlfight
+Howard the Duck
+Snow Dogs
+Spies Like Us
+Hulk
+Uptown Girls
+Vampires
+Eight Below
+Rain Man
+U.S. Marshals
+The Magdalene Sisters
+Black Cat, White Cat
+Oculus
+Resident Evil: Apocalypse
+Logan's Run
+The Man Who Knew Too Little
+Fletch Lives
+Shame
+The Rules of Attraction
+Caddyshack
+The Bridge on the River Kwai
+Head Over Heels
+Kingpin
+The Imitation Game
+Now and Then
+Strange Brew
+The Professional
+The Science of Sleep
+Snow Day
+Weird Science
+Star Trek: Insurrection
+Don't Look Now
+A Man for All Seasons
+The Dirty Dozen
+Daylight
+The Iron Lady
+Forrest Gump
+Dressed to Kill
+SpaceCamp
+Things to Do in Denver When You're Dead
+The Edge of Seventeen
+The Great White Hype
+Dial M for Murder
+Seven
+The Man from Earth
+The Toxic Avenger
+Jaws 3-D
+Broken Arrow
+Gran Torino
+The Amityville Horror
+The Rescuers
+To Sir with Love
+Kissing Jessica Stein
+What Ever Happened to Baby Jane?
+This Is England
+Raising Helen
+Revolver
+Serenity
+The Judge
+Friday the 13th Part 2
+Major Payne
+From Paris with Love
+The Butterfly Effect
+Risky Business
+Paranormal Activity 2
+Judge Dredd
+Help!
+I Still Know What You Did Last Summer
+Murder in the First
+Saturn 3
+Slacker
+Terminator Salvation
+The Faculty
+Gothika
+April Fool's Day
+Carol
+Nocturnal Animals
+White Chicks
+Monkeybone
+Charlie Bartlett
+May
+My Man Godfrey
+The X-Files: Fight the Future
+Inception
+The Howling
+Top Gun
+Sweet Home Alabama
+Labyrinth
+Saturday Night Fever
+Sideways
+Rules of Engagement
+The Walk
+Striking Distance
+American Hustle
+Rabbit-Proof Fence
+Problem Child
+Ip Man
+The Adventures of Pluto Nash
+Good Luck Chuck
+Evil Dead
+Roxanne
+Blade Runner
+She's All That
+Bastard Out of Carolina
+The Lobster
+Bad Day at Black Rock
+Holy Motors
+The Bourne Supremacy
+Ready Player One
+Baraka
+The Witches of Eastwick
+The Muppets
+Star Trek VI: The Undiscovered Country
+Down and Out in Beverly Hills
+Millennium Actress
+The Last Stand
+The Lost Boys
+Interstate 60
+Madeline
+When In Rome
+The Mist
+Friday Night Lights
+The 13th Warrior
+Beneath the Planet of the Apes
+FLCL
+What About Bob?
+Fantasia 2000
+The Puppet Masters
+Knife in the Water
+The Hobbit: An Unexpected Journey
+Manchester by the Sea
+Big Daddy
+Gangs of New York
+Shortbus
+The Invisible Man
+A Nightmare on Elm Street 3: Dream Warriors
+Real Women Have Curves
+Six Degrees of Separation
+How Stella Got Her Groove Back
+Mirrors
+Junebug
+Nosferatu
+Bring It On
+Picture Perfect
+Donnie Darko
+Inferno
+Man on the Moon
+The Young Victoria
+The Legend of Bagger Vance
+Battleship
+The Hidden
+Gremlins
+A Time to Kill
+Nanny McPhee
+Jesus Christ Superstar
+Dark City
+Return to Oz
+The Purge
+Shaun of the Dead
+Clerks
+Superbad
+Alfie
+The Girl on the Train
+Troy
+The Prestige
+Final Destination
+Daybreakers
+Kind Hearts and Coronets
+The Haunting
+GoldenEye
+Kids
+Vacancy
+Shanghai Noon
+Kung Fury
+Don Jon
+Autumn Sonata
+The Terminator
+Where the Wild Things Are
+Falling Down
+Hud
+Monster-in-Law
+Alice Doesn't Live Here Anymore
+Synecdoche, New York
+The Social Network
+Midnight in Paris
+Under the Tuscan Sun
+The Pacifier
+Casanova
+The Hot Chick
+Empire Records
+The Men Who Stare at Goats
+Beverly Hills Cop
+The Time Machine
+The Invention of Lying
+Jason Bourne
+Rush
+With Honors
+The Women
+Goon
+Cars
+Diva
+The NeverEnding Story III
+A Night at the Opera
+Moana
+Monty Python's The Meaning of Life
+Universal Soldier
+Crash
+Sing Street
+The Gay Divorcee
+The Others
+Doubt
+Saving Grace
+Match Point
+Snowpiercer
+Inherit the Wind
+Rise of the Guardians
+Penguins of Madagascar
+A Trip to the Moon
+Judgment Night
+The Monuments Men
+The Nanny Diaries
+The Hobbit: The Battle of the Five Armies
+Crimson Peak
+Life
+Get the Gringo
+Rookie of the Year
+Unknown
+Dangerous Minds
+The Eye
+Colombiana
+Free Willy 2: The Adventure Home
+Red
+The Replacement Killers
+Lenny
+The Relic
+Searching for Bobby Fischer
+Snakes on a Plane
+Firefox
+Executive Decision
+A Scanner Darkly
+Predator
+The Pianist
+Body of Lies
+Monster House
+The Debt
+Land of the Lost
+Old School
+Lady and the Tramp
+Downfall
+The Rundown
+Inherent Vice
+The Emperor's Club
+Fearless
+Legion
+Coming Home
+Roman Holiday
+Pitch Perfect
+Coal Miner's Daughter
+Reservoir Dogs
+The Vow
+Shooter
+The American
+In Time
+Argo
+Beaches
+Dune
+Devil in a Blue Dress
+Zulu
+Robin Hood: Prince of Thieves
+Sleepless in Seattle
+Kolya
+Calendar Girls
+O
+The Amazing Spider-Man
+What's Love Got to Do with It?
+The Grifters
+Sunshine
+Medicine Man
+Wall Street: Money Never Sleeps
+The Wedding Singer
+Nine to Five
+The Ladykillers
+When a Stranger Calls
+Sinbad: Legend of the Seven Seas
+Walkabout
+Friday the 13th Part VIII: Jason Takes Manhattan
+The Man from Nowhere
+Man of Steel
+Jesus of Montreal
+American Pie 2
+Wayne's World 2
+The Man Who Wasn't There
+Fantastic Four: Rise of the Silver Surfer
+Ghost
+Save the Last Dance
+Gamer
+Hush
+The Age of Adaline
+Green Room
+Indochine
+Igby Goes Down
+Mystery Train
+Silkwood
+Your Highness
+The Switch
+A American Tail
+The Help
+Man on Wire
+The Winslow Boy
+The Astronaut's Wife
+Amistad
+Baby Geniuses
+Superman Returns
+We're the Millers
+Meet the Spartans
+The Giver
+Immortals
+Knockin' on Heaven's Door
+Train to Busan
+Bulletproof
+Sing
+The Blair Witch Project
+Balto
+The Raid 2: Berandal
+The Disaster Artist
+In the Valley of Elah
+Westworld
+Underworld: Evolution
+Notorious
+The Manchurian Candidate
+Look Who's Talking
+A Affair to Remember
+Eternal Sunshine of the Spotless Mind
+Wag the Dog
+Ladyhawke
+Home
+Just Go with It
+Thumbsucker
+Under Siege 2: Dark Territory
+Fury
+The French Lieutenant's Woman
+It's a Wonderful Life
+Six-String Samurai
+A Bug's Life
+Awakenings
+Breakfast at Tiffany's
+Young Guns
+Sgt. Bilko
+Me and Earl and the Dying Girl
+Fifty Shades of Grey
+Precious
+Multiplicity
+Lady in the Water
+The Watch
+Moonrise Kingdom
+John Q
+Teenage Mutant Ninja Turtles
+The Crazies
+French Kiss
+Dracula Untold
+Meet the Parents
+Empire of the Sun
+The Dead Pool
+Erik the Viking
+The Contender
+Fantastic Beasts and Where to Find Them
+The Bourne Ultimatum
+Taking Lives
+Children of a Lesser God
+Duplex
+Defiance
+The Secret Garden
+Maurice
+The Matrix Revolutions
+Akira
+The Forgotten
+The Evil Dead
+Bonnie and Clyde
+The Queen
+Suburbia
+Madagascar
+Pirates of the Caribbean: Dead Men Tell No Tales
+The War of the Worlds
+Milk
+Army of Darkness
+The Outlaw Josey Wales
+Super Troopers
+Born on the Fourth of July
+Touch of Evil
+Definitely, Maybe
+2001: A Space Odyssey
+Starsky and Hutch
+Batman and Robin
+Another 48 Hrs.
+Amos and Andrew
+28 Weeks Later
+10 Things I Hate About You
+Me, Myself and Irene
+The Cook the Thief His Wife and Her Lover
+Pet Sematary II
+Benny and Joon
+3 Ninjas: High Noon On Mega Mountain
+The Lord of the Rings: The Return of the King
+The Circle
+Horrible Bosses 2
+300: Rise of an Empire
+F/X2
+54
+Fathers' Day
+11:14
+Marley and Me
+Batman: The Dark Knight Returns, Part 2
+28 Days
+In and Out
+Pokemon: The First Movie
+Manon of the Spring
+McCabe and Mrs. Miller
+Oblivion
+The Chronicles of Narnia: Prince Caspian
+Lagaan: Once Upon a Time in India
+The Creature from the Black Lagoon
+Gnomeo and Juliet
+National Treasure: Book of Secrets
+Wallace and Gromit: A Close Shave
+Christmas Vacation
+12 Angry Men
+Tucker and Dale vs Evil
+Sunset Blvd.
+The Legend of Drunken Master
+5 Centimeters per Second
+(500) Days of Summer
+Dumb and Dumber
+Black Sheep
+Garfield: The Movie
+Thelma and Louise
+William Shakespeare's Romeo + Juliet
+Turner and Hooch
+8 Women
+Bruno
+1984
+John Wick: Chapter Two
+Legally Blonde 2: Red, White and Blonde
+Elite Squad
+Problem Child 2
+The Benchwarmers
+Mr. and Mrs. Smith
+Family Guy Presents Stewie Griffin: The Untold Story
+AVPR: Aliens vs. Predator - Requiem
+Pokemon 3: The Movie
+Les Miserables
+8MM
+Winnie the Pooh and the Blustery Day
+Cowboy Bebop: The Movie
+Guardians of the Galaxy 2
+1408
+Tremors II: Aftershocks
+The Fog of War: Eleven Lessons from the Life of Robert S. McNamara
+Heaven and Earth
+Hansel and Gretel: Witch Hunters
+2012
+Lilya 4-Ever
+Alien³
+30 Days of Night
+Thesis
+2 Guns
+Dr. Seuss' The Lorax
+21
+Miss Congeniality 2: Armed and Fabulous
+Men in Black III
+Allegiant: Part 1
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
+Stalingrad
+The Fast Runner
+Cowboys and Aliens
+Grand Illusion
+Harold and Kumar Escape from Guantanamo Bay
+8 Mile
+Police Academy: Mission to Moscow
+The Chronicles of Narnia: The Voyage of the Dawn Treader
+My Girl 2
+Queen Margot
+9
+The Way of the Dragon
+50 First Dates
+8 Heads in a Duffel Bag
+50/50
+Air Bud: Golden Receiver
+Untitled Spider-Man Reboot
+102 Dalmatians
+Inglorious Bastards
+Planes, Trains and Automobiles
+Mute Witness
+How to Lose Friends and Alienate People
+Friday the 13th Part IV: The Final Chapter
+Julie and Julia
+And Your Mother Too
+Diabolique
+10 Cloverfield Lane
+13 Hours
+Jet Li's Fearless
+2 Fast 2 Furious
+Flight of the Phoenix
+13 Ghosts
+Wallace and Gromit in 'A Matter of Loaf and Death'
+The World of Apu
+101 Dalmatians
+The Truth About Cats and Dogs
+Fast Five
+Catch-22
+Band of Outsiders
+24 Hour Party People
+Funny Games U.S.
+The Slums of Beverly Hills
+Maze Runner: Scorch Trials
+Wyatt Earp
+22 Jump Street
+D2: The Mighty Ducks
+Femme Nikita, La
+Bloodsport 2
+Beowulf
+Bill and Ted's Bogus Journey
+Fast and Furious 6
+10,000 BC
+Pit and the Pendulum
+Cheech and Chong's Up in Smoke
+The Blind Swordsman: Zatoichi
+Poison Ivy II
+Star Wars: Episode VII - The Force Awakens
+Suspiria
+The Gods Must Be Crazy II
+17 Again
+21 Grams
+Gone in 60 Seconds
+Major League: Back to the Minors
+The Bride of Frankenstein
+Bride and Prejudice
+Tango and Cash
+20,000 Leagues Under the Sea
+Unforgettable
+Bill and Ted's Excellent Adventure
+The Naked Gun: From the Files of Police Squad!
+Force 10 from Navarone
+Star Wars: Episode IV - A New Hope
+The Man with the Movie Camera
+Sky High
+Wallace and Gromit in The Curse of the Were-Rabbit
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+Lee Daniels' The Butler
+Ever After: A Cinderella Story
+The Prince and Me
+40 Days and 40 Nights
+Airport '77
+Dolce Vita, La
+Evil Dead II
+Star Wars: Episode V - The Empire Strikes Back
+3:10 to Yuma
+3 Idiots
+Wolf Children
+Nausicaa of the Valley of the Wind
+Kate and Leopold
+Tristan and Isolde
+Robot and Frank
+Cats and Dogs
+Dear Zachary: A Letter to a Son About His Father
+What the #$*! Do We Know!?
+Superman
+Willy Wonka and the Chocolate Factory
+Good Night, and Good Luck.
+Rugrats in Paris: The Movie
+European Vacation
+30 Minutes or Less
+13 Assassins
+Pokemon the Movie 2000
+The Secret of My Succe$s
+The Borrowers
+Pain and Gain
+10
+Green Street Hooligans
+Wallace and Gromit: The Wrong Trousers
+27 Dresses
+Land Before Time III: The Time of the Great Giving
+Evangelion: 1.0 You Are
+21 Jump Street
+88 Minutes
+Sunrise: A Song of Two Humans
+Secrets and Lies
+Kill Bill: Vol. 1
+Deuce Bigalow: Male Gigolo
+My Bodyguard
+Lilo and Stitch
+Pursuit of Happiness
+Laputa: Castle in the Sky
+2046
+The Jinx: The Life and Deaths of Robert Durst
+The Apostle
+Step Up 2 the Streets
+Lock, Stock and Two Smoking Barrels
+A Grand Day Out with Wallace and Gromit
+47 Ronin
+Some Folks Call It a Sling Blade
+Fast and Furious
+Saw VII 3D - The Final Chapter
+The Return of Jafar
+Nutty Professor II: The Klumps
+16 Blocks
+Spy Kids 2: The Island of Lost Dreams
+We Own the Night
+1941
+City by the Sea
+Three Colors: Red
+3000 Miles to Graceland
+Roger and Me
+Pride and Prejudice
+Hustle and Flow
+Interview with the Vampire: The Vampire Chronicles
+The Princess Diaries 2: Royal Engagement
+Wallace and Gromit: The Best of Aardman Animation
+13 Going on 30
+The Kid
+Point Break
+3-Iron
+The Endless Summer 2
+Furious 7
+25th Hour
+Revenge of the Nerds II: Nerds in Paradise
+District 13
+M. Hulot's Holiday
+200 Cigarettes
+Automata
+Neighbors 2: Sorority Rising
+Sugar and Spice
+Cheaper by the Dozen 2
+Paris, I Love You
+42
+Simone
+Star Wars: Episode VI - Return of the Jedi
+The Chorus
+Fracture
+Much Ado About Nothing
+Scooby-Doo 2: Monsters Unleashed
+Lady Vengeance
+12 Years a Slave
+127 Hours
+Jack Frost
+Radioland Murders
+Lupin III: The Castle Of Cagliostro
+Tales from the Crypt Presents: Bordello of Blood
+Flash Gordon
+Freaky Friday
+The Heartbreak Kid
+Around the World in 80 Days
+Avengers: Infinity War - Part I
+Gone with the Wind
+Megamind
+The Avengers
+All Through the Night
+Soul Surfer
+The Lost Battalion
+Gods of Egypt
+The Descent Part 2
+Chinese Ghost Story
+Starship Troopers 3: Marauder
+McCabe & Mrs. Miller
+Riki-Oh: The Story of Ricky
+Carry On Cabby
+The Russians Are Coming, the Russians Are Coming
+The Florida Project
+Alien Abduction: Incident in Lake County
+Laid to Rest
+Dracula A.D. 1972
+Sukiyaki Western Django
+Tom Yum Goong
+I Know That Voice
+Spider-Man: Far From Home
+Flowers of War
+Support Your Local Sheriff
+Mortal Kombat: The Movie
+Almighty Thor
+Red Cliff
+The Gunman
+Death Note Series
+Dark Star
+A Wrinkle in Time
+Moulin Rouge!
+A Perfect Getaway
+Dragonball Evolution
+The Specials
+Scott Pilgrim vs. The World
+Phantom of the Megaplex
+Greyfriars Bobby
+The Living Wake
+Death Wish 4: The Crackdown
+National Lampoon's Christmas Vacation
+The Birds
+Repo! The Genetic Opera
+Creed II
+Blood Punch
+TRON: Legacy
+Us
+Bad Grandpa
+Sunset Boulevard
+Paddington 2
+Getaway
+Willy Wonka & the Chocolate Factory
+The Death of Stalin
+The Swarm
+The Chronicles of Narnia
+Car Wash
+The Amazing Spider Man 2
+Guardians of the Galaxy Vol. 2
+Madea's Family Reunion
+Mr. Deeds Goes to Town
+ Charlie Wilson's War
+John Q.
+Space Camp
+Red Scorpion
+Evil Dead 2
+Danny the Dog
+Goodbye Lenin
+The Last Dragon
+Kamen Rider × Kamen Rider Drive & Gaim: Movie War Full Throttle
+The Burning
+Starship Invasions
+Attack of the Clones
+Diary of a Wimpy Kid
+The Bourne Series
+Ice Cold in Alex
+Halloweentown
+Cult of Chucky
+Thir13en Ghosts
+Road to ...
+Death Machine
+The Eagle
+Transformers: The Last Knight
+Der Schuh des Manitu
+Still Crazy
+Sharknado 2: The Second One
+Hellfighters
+Southland Tales
+Teenage Mutant Ninja Turtles: Out of the Shadows
+Dagon
+Godzilla, Mothra, King Ghidorah: Giant Monsters All-Out Attack!
+Radio Rebel
+Love, Simon
+The Smurfs
+The Gamers
+Ocean's 8
+Camp
+Bubba Ho Tep
+Mission: Impossible – Fallout
+Black Death
+James Bond
+Spider-Man Trilogy
+Friday the 13th: The Final Chapter
+The Pixar Story
+Farewell, FamiKamen Rider
+SHAZAM!
+Maze Runner: The Scorch Trials
+Hansel & Gretel: Witch Hunters
+The Fury
+The Good, the Bad and the Ugly
+Follow That Camel!
+Don't Turn the Other Cheek!
+DodgeBall: A True Underdog Story
+Just Visiting
+5 Fingers
+CK Dezerterzy
+Se7en
+Mad Max 2: The Road Warrior
+Battle of the Sexes
+Malavita
+Facing the Giants
+Madea Goes to Jail
+Maniac Cop
+Muppets from Space
+Hesher
+Starsky & Hutch
+The Hateful 8
+Jurassic World: Fallen Kingdom
+Son of Frankenstein
+Super Cop
+Cold Prey
+48 Hrs.
+Robot Jox
+Resident Evil: The Final Chapter
+Snitch
+Maniac Cop 2
+Cowboys & Aliens
+Yes-Man
+Phantom of the Paradise
+Texas Chainsaw 3D
+Targets
+Interview with the Vampire
+The BFG
+Descendants
+Carry On
+The Post
+Hatchet
+April Fools' Day
+300
+Universal Soldier: Regeneration
+The Keep
+Eating Raoul
+Rampage
+Magic Island
+Susie Q
+Cecil B. Demented
+Bridge to Terabithia
+Curse of Chucky
+Love at First Bite
+Indiana Jones
+Bill & Ted's Bogus Journey
+Hello Mary Lou: Prom Night II
+Yankee Doodle Dandy
+Motel Hell
+The Adventures of Sharkboy and Lavagirl
+Waterloo
+The Green Berets
+Kill Bill
+Stepsister from Planet Weird
+Dirty Laundry
+Universal Soldier: Day of Reckoning
+Absurd
+Go Go Sentai Boukenger Vs Super Sentai
+First Man
+Ant-Man and the Wasp
+Kids in America
+Novitiate
+Return of the Jedi
+Rambo IV
+Glass
+Mike and Dave Need Wedding Dates
+The Meteor Man
+Scaramouche
+Blow Dry
+Surf Ninjas
+Mr. & Mrs. Smith
+Threads
+Stargate Continuum
+The Elite Squad
+Point Blank
+The Meg
+Snatch.
+Stargate: The Ark of Truth
+Little Giants
+The Smurfs 2
+Heisei Rider Vs Showa Rider Kamen Rider Wars Featuring Super Sentai
+Angry Video Game Nerd: The Movie
+Master and Commander
+Captain EO
+The Life and Death of Colonel Blimp
+Blackbeard's Ghost
+Ben 10: Race Against Time
+The Day After
+Captain America
+Mighty Morphin' Power Rangers: The Movie
+Racing Stripes
+What's Love Got to Do with It
+Hellraiser: Hellworld
+Machete Kills
+Venom
+Dr. Strangelove
+The Hunger Games: Mockingjay
+Troll 2
+Red Tails
+The Story of Robin Hood and His Merrie Men
+Plunkett & Macleane
+Zoom: Academy for Superheroes
+Uncommon Valor
+Captain Blood
+Bill & Ted's Excellent Adventure
+C.S.A.: The Confederate States of America
+Stage Door
+Follow Me, Boys!
+Stay Alive
+Mary Poppins Returns
+The Magic Christian
+Harold & Kumar Escape from Guantanamo Bay
+Head
+Van Wilder
+Leprechaun
+The Delta Force
+The Incident
+Creature from the Black Lagoon
+Our Man Flint
+Battle of Britain
+A Nightmare on Elm Street Part 2: Freddy's Revenge
+The Last Jedi
+In Hell
+A Series of Unfortunate Events
+Daens
+Bill & Ted
+WarCraft
+Snow Cake
+Godzilla vs. Biollante
+Werewolf
+The Librarian
+Shoot 'em Up
+Mulholland Dr.
+Punisher: War Zone
+Big Jake
+Man of La Mancha
+The Grey Zone
+The Mummy's Hand
+The Raven Trilogy
+Mandy
+On the Job
+Bride of the Monster
+Robot
+History of the World Part I
+The Phantom Menace
+Space Mutiny
+Die Hard with a Vengeance
+Pompeii
+The Dark Knight Trilogy
+Men in Black 3
+3 Ninjas
+Frankenstein Meets the Wolf Man
+The Great Mcginty
+Little Alvin and the Mini-Munks
+Ben-Hur
+The Wizard
+Behind the Waterfall
+Harry Potter and the Deathly Hallows
+Mad Max: Beyond Thunderdome
+Julie & Julia
+Mom's Got a Date with a Vampire
+Alita: Battle Angel
+Godzilla: Final Wars
+Admiral
+Hardcore Henry
+Braindead
+The Slipper and the Rose
+A Very Harold & Kumar 3D Christmas
+Alex Cross
+Okja
+Streets of Fire
+Escape from Sobibór
+Godspell
+X-Men Film Series
+Alien vs. Predator
+On Deadly Ground
+Nativity!
+Terminator
+Halloween H20: Twenty Years Later
+Winnetou
+Demon Knight
+Goodbye, Mr. Chips
+Russian Ark
+Superman: The Movie
+Birdemic
+Big Game
+The Midnight Meat Train
+Dead Snow: Red vs. Dead
+The Cloverfield Paradox
+Happy Death Day
+RoboGeisha
+The Legend of Billie Jean
+The Wolf Man
+Ip Man Film Series
+The Room
+Stick It
+Destroy All Monsters
+Florence Foster Jenkins
+Aquaman
+Princess
+Mission: Impossible – Rogue Nation
+Thunderbirds
+How to be a Serial Killer
+No More Baths
+Press Start
+Abduction
+Carry On Jack
+The Raid
+Who Framed Roger Rabbit
+Sinbad and the Eye of the Tiger 
+The Mummy Trilogy
+Star Wars: Ewok Adventures
+9 to 5
+Girl vs. Monster
+Godzilla: King of the Monsters
+Citizen X
+Godzilla Against Mechagodzilla
+El Mariachi
+Valley Girl
+Dèmoni
+Persecuted
+The Greatest Showman
+K19: The Widowmaker
+Mission: Impossible Film Series
+The Wraith
+X Xx Return Of Xander Cage
+Leatherface: The Texas Chainsaw Massacre III
+Don't Lose Your Head
+Rogue One
+Fat Albert
+BlacKkKlansman
+Angels & Demons
+Natutulog Pa Ang Diyos
+Bastard out of Carolina
+OOO, Den-O, All Riders: Let's Go Kamen Riders
+The Three Stooges
+Mega Shark vs. Giant Octopus
+The Great Wall
+Spider-Man: Homecoming
+Alpha
+Zookeeper
+The World's Greatest Athlete
+Invasion of Astro-Monster
+Revenge of the Sith
+Battle of the Bulge
+Kamen Rider 1
+ Halloween II
+Smetto Quando Voglio Masterclass
+The Dark Side of Chocolate
+To Wong Foo, Thanks for Everything, Julie Newmar
+The Wind and the Lion
+Pirates of the Caribbean
+The Empire Strikes Back
+Kamen Rider X Super Sentai Superhero Taisen
+Power Rangers
+North West Frontier
+Ultraman Zero: The Revenge of Belial
+Bon Cop, Bad Cop
+Ride Along
+Pokémon: Detective Pikachu
+RED
+The Wiz
+Ace Ventura
+City Hunter: The Cupid's Perfume
+Wings
+Attack the Gas Station!
+I Wanna Hold Your Hand
+Harry Potter and the Philosopher's Stone
+Hitchcock
+Fantastic Beasts: The Crimes of Grindelwald
+The Final Sacrifice
+Muppets Most Wanted
+Me, Myself & Irene
+Sorority Row
+Don't Look Under the Bed
+North to Alaska
+Crazy Rich Asians
+Puma Man
+Dragonworld
+Starship Troopers 2: Hero of the Federation
+Shin Godzilla
+Act of Valor
+Drillbit Taylor
+Tag
+A Fistful of Dynamite
+Trouble with the Curve
+The Butler
+Maniac Cop 3: Badge of Silence
+Good Time
+A New Hope
+My Boyfriend's Back
+It's a Very Merry Muppet Christmas Movie
+Beyond Re-Animator
+Run, Lola, Run
+Cursed
+Tinker, Tailor, Soldier, Spy
+Bohemian Rhapsody
+Mary of Scotland
+Smetto Quando Voglio
+Death Wish V: The Face of Death
+The Next Generation -Patlabor-
+Harry Potter
+Death Wish 3
+Oz: The Great and Powerful
+The Wall
+Silent Hill: Revelation 3D
+Batman & Robin
+The Man Who Killed Don Quixote
+Godzilla vs. Mechagodzilla
+Harold & Kumar Go to White Castle
+Out for Justice
+The President's Last Bang
+Hard Boiled
+Don Camillo
+No Holds Barred
+Zenon
+Amityville: It's About Time
+2010: The Year We Make Contact
+Army of One
+The Force Awakens
+Hellraiser: Hellseeker
+Belle
+Dolphin Tale
+Les Visiteurs
+The Fortune Cookie
+It Conquered the World
+Sharknado 3: Oh Hell No!
+An American Werewolf in London
+Drive Angry
+Sharknado
+The Heiress
+8mm
+Black Dynamite
+Girls Trip
+The Boat That Rocked
+Godzilla vs. Megaguirus
+The Misfits
+The Ritual
+ThePredator
+Gamera
+The Man Who Saves the World
+A Midnight Clear
+TRON
+An American Werewolf in Paris
+Night of the Demon
+Jason Goes to Hell: The Final Friday
+Let It Shine
+Popstar: Never Stop Never Stopping
+Dead Silence
+Sha Po Lang
+Prehysteria
+Krampus
+Bumblebee
+Suffragette
+Sharktopus
+Miami Connection
+Lo
+Pacific Rim: Uprising
+The Thief of Bagdad
+Bride of Frankenstein
+Crazy Stupid Love
+Wittgenstein
+An American Carol
+Ever After
+The Mutilator
+The VVitch
+"Manos" The Hands of Fate
+The Purge: Election Year
+Belly
+Fire Starter
+Oldboy
+The Big Country
+Christopher Robin
+John Wick: Chapter 2
+Das Boot
+28 Days Later
+Blackhat
+The Luck of the Irish
+The Car
+D-War
+Austin Powers
+Grace of My Heart
+The Giant Claw
+T2 Trainspotting
+Ink
+Sharknado 5: Global Swarming
+Why Did I Get Married
+Les Misérables
+The Wolf Man 2010
+Birdman
+Game of Death
+Ball of Fire
+A Taxi Driver
+Mission: Impossible – Ghost Protocol
+Star Kid
+Fireproof
+The Lord Inquisitor
+Game Night
+The Good, the Bad, the Weird
+Valhalla Rising
+Evil Ed
+Boyz n the Hood
+Lone Wolf McQuade
+Diary of the Dead
+Friday the 13th Part III
+Thelma & Louise
+The Hebrew Hammer
+Eurotrip
+New Jack City
+Lock, Stock & Two Smoking Barrels
+Indie Game: The Movie
+Rock of Ages
+Trick or Treat

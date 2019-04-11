@@ -1,7 +1,7 @@
 import json
 
 
-with open("Awesome_titles.json", 'r') as f:
+with open("Awesome_movie_titles.json", 'r') as f:
     awesome_titles = json.load(f)
 
 with open("Characters_titles.json", 'r') as f:

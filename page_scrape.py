@@ -8,14 +8,13 @@ from tqdm import tqdm
 import random
 
 
-CONFIG = "LiteratureTWO" # Literature or Film
+CONFIG = "FilmFOUR" # Literature or Film
 RESET = True
 
-BASE_URL = "https://tvtropes.org/pmwiki/pmwiki.php/Literature/"
+BASE_URL = "https://tvtropes.org/pmwiki/pmwiki.php/Film/"
 BASE_DIR = os.path.join(os.getcwd(), CONFIG)
 
 ZERO_TROPES_FILE = os.path.join(BASE_DIR, "zerotropes_{}.json".format(CONFIG))
-FEW_TROPES_FILE = os.path.join(BASE_DIR, "fewtropes_{}.json".format(CONFIG))
 TROPES_FILE = os.path.join(BASE_DIR, "tropes_{}.json".format(CONFIG))
 PROGRESS_FILE = os.path.join(BASE_DIR, "{}_progress.txt".format(CONFIG))
 
@@ -68,7 +67,7 @@ def extract_tropes_from_soup(soup) -> Set[str]:
     return retval
 
 def clear_progress():
-    for f in [ZERO_TROPES_FILE, FEW_TROPES_FILE, TROPES_FILE, PROGRESS_FILE]:
+    for f in [ZERO_TROPES_FILE, TROPES_FILE, PROGRESS_FILE]:
         if os.path.exists(f):
             os.remove(f)
 
@@ -78,11 +77,11 @@ if __name__ == "__main__":
     if RESET:
         clear_progress()
 
-    with open("titles/scraped_titles.json", 'r') as f:
+    with open("titles/Awesome_movie_titles2.json", 'r') as f:
         title_dict = json.load(f)
 
     titles = []
-    with open("titles/scraped_no_overlap.txt", 'r') as f:
+    with open("titles/scraped_movies_no_overlap.txt", 'r') as f:
         for line in f:
             titles.append(line.strip("\n"))
 
