@@ -9,10 +9,10 @@ import random
 from page_scrape import load_titles, fetch_page_soup
 
 
-CONFIG = "Main" # Literature or Film
+CONFIG = "Main2" # Literature or Film
 RESET = True
 
-BASE_URL = "https://tvtropes.org/pmwiki/pmwiki.php/{}/".format(CONFIG)
+BASE_URL = "https://tvtropes.org/pmwiki/pmwiki.php/Main/".format(CONFIG)
 BASE_DIR = os.path.join(os.getcwd(), CONFIG)
 
 ERROR_FILE = os.path.join(BASE_DIR, "error_file.txt")
@@ -50,8 +50,11 @@ if __name__ == "__main__":
     if not os.path.exists(BASE_DIR):
         os.makedirs(BASE_DIR)
 
-    titles = load_titles("tropes_titles.txt")
-    titles = ["PaidForFamily"]
+    titles1 = load_titles("tropes_titles.txt")
+    titles2 = load_titles("tropes_titles2.txt")
+
+    titles = set(titles2) - set(titles1)
+    print(len(titles))
     # titles = ['UnkemptBeauty']
 
     for t in tqdm(titles):
