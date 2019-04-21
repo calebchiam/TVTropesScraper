@@ -1,0 +1,4824 @@
+<option>Drumline</option>
+<option>Antonia's Line</option>
+<option>Damien: Omen II</option>
+<option>Bandits</option>
+<option>Road House</option>
+<option>Enemy at the Gates</option>
+<option>What's Eating Gilbert Grape</option>
+<option>Father of the Bride</option>
+<option>Agnes of God</option>
+<option>Sophie Scholl: The Final Days</option>
+<option>Kiki's Delivery Service</option>
+<option>Now You See Me</option>
+<option>Scary Movie 3</option>
+<option>The Master</option>
+<option>Madagascar: Escape 2 Africa</option>
+<option>Mickey Blue Eyes</option>
+<option>Seven Years in Tibet</option>
+<option>Torn Curtain</option>
+<option>Mrs. Winterbourne</option>
+<option>Backdraft</option>
+<option>The First Wives Club</option>
+<option>The Godfather: Part II</option>
+<option>Burn After Reading</option>
+<option>Who's Afraid of Virginia Woolf?</option>
+<option>The Cooler</option>
+<option>Failure to Launch</option>
+<option>The White Balloon</option>
+<option>Flirting with Disaster</option>
+<option>Bruce Almighty</option>
+<option>Felon</option>
+<option>Godzilla 2000</option>
+<option>Quills</option>
+<option>Wasabi</option>
+<option>Scream 3</option>
+<option>Not Another Teen Movie</option>
+<option>The Getaway</option>
+<option>Mud</option>
+<option>Cries and Whispers</option>
+<option>Zoolander</option>
+<option>Drive Me Crazy</option>
+<option>Baby Mama</option>
+<option>Show Me Love</option>
+<option>Supergirl</option>
+<option>Premium Rush</option>
+<option>Super Size Me</option>
+<option>The Stupids</option>
+<option>Emma</option>
+<option>Fresh</option>
+<option>Serial Mom</option>
+<option>Children of the Corn</option>
+<option>The Silence of the Lambs</option>
+<option>Collateral</option>
+<option>Indiana Jones and the Temple of Doom</option>
+<option>Dogtooth</option>
+<option>Cube</option>
+<option>The Big Lebowski</option>
+<option>Death at a Funeral</option>
+<option>Arachnophobia</option>
+<option>The Theory of Everything</option>
+<option>Elektra</option>
+<option>Gigi</option>
+<option>Rushmore</option>
+<option>Mission: Impossible - Ghost Protocol</option>
+<option>Mirror Mirror</option>
+<option>Scary Movie 4</option>
+<option>Hitman: Agent 47</option>
+<option>Sex and the City 2</option>
+<option>Species II</option>
+<option>Soul Food</option>
+<option>The Book Thief</option>
+<option>Blind Date</option>
+<option>Nashville</option>
+<option>Batman Begins</option>
+<option>The Spanish Prisoner</option>
+<option>Who's Harry Crumb?</option>
+<option>Moonlight</option>
+<option>Cape Fear</option>
+<option>Chicago</option>
+<option>Lost in America</option>
+<option>Life of Pi</option>
+<option>Romeo Is Bleeding</option>
+<option>All Dogs Go to Heaven</option>
+<option>Jesus Camp</option>
+<option>Kalifornia</option>
+<option>Happy-Go-Lucky</option>
+<option>Bad Lieutenant</option>
+<option>Chef</option>
+<option>The Stunt Man</option>
+<option>Big Hero 6</option>
+<option>Transformers: Revenge of the Fallen</option>
+<option>The Adventures of Tintin</option>
+<option>Buried</option>
+<option>Little Big Man</option>
+<option>The World's End</option>
+<option>What Happens in Vegas...</option>
+<option>Wayne's World</option>
+<option>The Miracle Worker</option>
+<option>Easy A</option>
+<option>Dudley Do-Right</option>
+<option>Wind River</option>
+<option>Jeepers Creepers 2</option>
+<option>The Wedding Planner</option>
+<option>Alive</option>
+<option>John Tucker Must Die</option>
+<option>Olympus Has Fallen</option>
+<option>Harry Potter and the Deathly Hallows: Part 2</option>
+<option>Cool Runnings</option>
+<option>The Mosquito Coast</option>
+<option>Mystery Science Theater 3000: The Movie</option>
+<option>Date Night</option>
+<option>Bad Education</option>
+<option>Lost in Space</option>
+<option>Three to Tango</option>
+<option>Cop Out</option>
+<option>Hotel Transylvania</option>
+<option>Glory</option>
+<option>Just My Luck</option>
+<option>Jarhead</option>
+<option>Beethoven</option>
+<option>The Seventh Seal</option>
+<option>Mona Lisa Smile</option>
+<option>Raising Arizona</option>
+<option>Mansfield Park</option>
+<option>Missing in Action</option>
+<option>Dead Man on Campus</option>
+<option>Cabaret</option>
+<option>How Green Was My Valley</option>
+<option>The Umbrellas of Cherbourg</option>
+<option>The Edukators</option>
+<option>Grave of the Fireflies</option>
+<option>House of 1000 Corpses</option>
+<option>Sex, Lies, and Videotape</option>
+<option>Young Guns II</option>
+<option>Little Women</option>
+<option>Pink Flamingos</option>
+<option>Hard-Boiled</option>
+<option>Evan Almighty</option>
+<option>Ruby Sparks</option>
+<option>Capitalism: A Love Story</option>
+<option>Johnny Dangerously</option>
+<option>Puppet Master</option>
+<option>Armageddon</option>
+<option>White Men Can't Jump</option>
+<option>Dinosaur</option>
+<option>Fright Night</option>
+<option>Jungle2Jungle</option>
+<option>Inside Llewyn Davis</option>
+<option>Joe Versus the Volcano</option>
+<option>Road Trip</option>
+<option>Serendipity</option>
+<option>The Whole Nine Yards</option>
+<option>Wimbledon</option>
+<option>Z</option>
+<option>Amores Perros</option>
+<option>So I Married an Axe Murderer</option>
+<option>The Big Sick</option>
+<option>The Transporter</option>
+<option>Searching for Sugar Man</option>
+<option>From Here to Eternity</option>
+<option>The Wolfman</option>
+<option>The Thirteenth Floor</option>
+<option>Kramer vs. Kramer</option>
+<option>Selma</option>
+<option>Smokin' Aces</option>
+<option>State and Main</option>
+<option>Indian Summer</option>
+<option>There Will Be Blood</option>
+<option>Ghost World</option>
+<option>Stuck on You</option>
+<option>Get Hard</option>
+<option>Saboteur</option>
+<option>Two Mules for Sister Sara</option>
+<option>Be Cool</option>
+<option>Dancer in the Dark</option>
+<option>The Flamingo Kid</option>
+<option>Truly, Madly, Deeply</option>
+<option>Geri's Game</option>
+<option>Superman IV: The Quest for Peace</option>
+<option>Bachelor Party</option>
+<option>Beautiful Girls</option>
+<option>Trick 'r Treat</option>
+<option>Auntie Mame</option>
+<option>Life Is Beautiful</option>
+<option>Mr. Mom</option>
+<option>The Final Conflict</option>
+<option>Drop Dead Gorgeous</option>
+<option>Species</option>
+<option>Mortal Kombat: Annihilation</option>
+<option>Play It Again, Sam</option>
+<option>The Island of Dr. Moreau</option>
+<option>Dracula</option>
+<option>The Hidden Fortress</option>
+<option>Once Upon a Time in America</option>
+<option>The Joy Luck Club</option>
+<option>How to Lose a Guy in 10 Days</option>
+<option>Lake Placid</option>
+<option>Mouse Hunt</option>
+<option>Dr. Dolittle</option>
+<option>The Shape of Water</option>
+<option>Sausage Party</option>
+<option>The Dukes of Hazzard</option>
+<option>Timeline</option>
+<option>I, Robot</option>
+<option>Heavenly Creatures</option>
+<option>The Omen</option>
+<option>To Rome with Love</option>
+<option>WALL-E</option>
+<option>The Beautician and the Beast</option>
+<option>Good Morning, Vietnam</option>
+<option>The Killing Fields</option>
+<option>Highlander III: The Sorcerer</option>
+<option>Fatal Attraction</option>
+<option>Zodiac</option>
+<option>The Adventures of Ford Fairlane</option>
+<option>The Apartment</option>
+<option>Sleeping Beauty</option>
+<option>City of Ember</option>
+<option>Pandorum</option>
+<option>The Killing</option>
+<option>Trust</option>
+<option>Fight Club</option>
+<option>Parenthood</option>
+<option>The Shootist</option>
+<option>Memento</option>
+<option>Monty Python and the Holy Grail</option>
+<option>The Last Samurai</option>
+<option>Benji</option>
+<option>Ratatouille</option>
+<option>I Spy</option>
+<option>The Nutty Professor</option>
+<option>Harvey</option>
+<option>Back to School</option>
+<option>Escape from the Planet of the Apes</option>
+<option>Godzilla</option>
+<option>Bedknobs and Broomsticks</option>
+<option>The Player</option>
+<option>Citizenfour</option>
+<option>Cube 2: Hypercube</option>
+<option>Blue Velvet</option>
+<option>Tuck Everlasting</option>
+<option>The Talented Mr. Ripley</option>
+<option>Color of Night</option>
+<option>Rocky V</option>
+<option>Shaolin Soccer</option>
+<option>The Good Dinosaur</option>
+<option>The Mighty Ducks</option>
+<option>The Lego Batman Movie</option>
+<option>The Secret in Their Eyes</option>
+<option>Cocktail</option>
+<option>Moulin Rouge</option>
+<option>All Dogs Go to Heaven 2</option>
+<option>The Rules of the Game</option>
+<option>American Movie</option>
+<option>The Fugitive</option>
+<option>Twin Peaks: Fire Walk with Me</option>
+<option>The 7th Voyage of Sinbad</option>
+<option>The Rum Diary</option>
+<option>Batman Forever</option>
+<option>The Big Easy</option>
+<option>Caligula</option>
+<option>Purple Rain</option>
+<option>Hannah and Her Sisters</option>
+<option>Dallas Buyers Club</option>
+<option>Step Up</option>
+<option>Holes</option>
+<option>Supercop</option>
+<option>Unstoppable</option>
+<option>Tin Men</option>
+<option>Last Action Hero</option>
+<option>Idle Hands</option>
+<option>Midnight in the Garden of Good and Evil</option>
+<option>Tsotsi</option>
+<option>The Wages of Fear</option>
+<option>Prince of Persia: The Sands of Time</option>
+<option>The Mexican</option>
+<option>The Bank Job</option>
+<option>The Brave One</option>
+<option>To Have and Have Not</option>
+<option>Kill Bill: Vol. 2</option>
+<option>Romancing the Stone</option>
+<option>The Great Mouse Detective</option>
+<option>Epic Movie</option>
+<option>Temple Grandin</option>
+<option>Brainstorm</option>
+<option>Shaft</option>
+<option>My Best Friend's Wedding</option>
+<option>A Very Long Engagement</option>
+<option>Holiday Inn</option>
+<option>Now You See Me 2</option>
+<option>Party Girl</option>
+<option>House Arrest</option>
+<option>Code 46</option>
+<option>Mercury Rising</option>
+<option>Swimfan</option>
+<option>Faster Pussycat! Kill! Kill!</option>
+<option>To Wong Foo, Thanks for Everything! Julie Newmar</option>
+<option>L.A. Story</option>
+<option>The Taking of Pelham One Two Three</option>
+<option>Hannibal Rising</option>
+<option>Butch Cassidy and the Sundance Kid</option>
+<option>My Left Foot</option>
+<option>Gravity</option>
+<option>Barbarella</option>
+<option>The Road</option>
+<option>Shallow Grave</option>
+<option>X-Men: Apocalypse</option>
+<option>Clash of the Titans</option>
+<option>McHale's Navy</option>
+<option>The Gate</option>
+<option>Wall Street</option>
+<option>Toy Soldiers</option>
+<option>Austin Powers: International Man of Mystery</option>
+<option>Final Destination 3</option>
+<option>City of God</option>
+<option>Watership Down</option>
+<option>Cypher</option>
+<option>Live Free or Die Hard</option>
+<option>Music of the Heart</option>
+<option>The Curious Case of Benjamin Button</option>
+<option>Norbit</option>
+<option>Mary Reilly</option>
+<option>Fatal Instinct</option>
+<option>Divergent</option>
+<option>Fist of Legend</option>
+<option>Where Eagles Dare</option>
+<option>The Crucible</option>
+<option>Rollerball</option>
+<option>Arrival</option>
+<option>Richard III</option>
+<option>Pale Rider</option>
+<option>Deep Rising</option>
+<option>Live and Let Die</option>
+<option>Copycat</option>
+<option>Ferngully: The Last Rainforest</option>
+<option>Mysterious Skin</option>
+<option>Alien</option>
+<option>Better Off Dead...</option>
+<option>The Limey</option>
+<option>Home Alone 3</option>
+<option>The Muppet Movie</option>
+<option>Rachel Getting Married</option>
+<option>Notes on a Scandal</option>
+<option>Hollywood Homicide</option>
+<option>The Hunger Games</option>
+<option>Red Riding Hood</option>
+<option>Hope and Glory</option>
+<option>Herbie: Fully Loaded</option>
+<option>Ferris Bueller's Day Off</option>
+<option>The Texas Chainsaw Massacre</option>
+<option>Nothing to Lose</option>
+<option>The Firm</option>
+<option>The Philadelphia Story</option>
+<option>Super Mario Bros.</option>
+<option>Virtuosity</option>
+<option>The Secret Life of Walter Mitty</option>
+<option>Black Knight</option>
+<option>The Legend of Tarzan</option>
+<option>The Guest</option>
+<option>Swordfish</option>
+<option>Child's Play</option>
+<option>Deepwater Horizon</option>
+<option>The Original Kings of Comedy</option>
+<option>The Cell</option>
+<option>It's Complicated</option>
+<option>Barton Fink</option>
+<option>Mulholland Drive</option>
+<option>The Longest Day</option>
+<option>The Intern</option>
+<option>Guys and Dolls</option>
+<option>When We Were Kings</option>
+<option>Cocoon: The Return</option>
+<option>The Pledge</option>
+<option>High Plains Drifter</option>
+<option>Frank</option>
+<option>Frequently Asked Questions About Time Travel</option>
+<option>Bee Movie</option>
+<option>The Ghost Writer</option>
+<option>Season of the Witch</option>
+<option>Beverly Hills Cop III</option>
+<option>Exam</option>
+<option>The Jacket</option>
+<option>Fallen</option>
+<option>Minions</option>
+<option>Kicking and Screaming</option>
+<option>West Side Story</option>
+<option>Hunt for the Wilderpeople</option>
+<option>Striptease</option>
+<option>We're No Angels</option>
+<option>Stuart Little</option>
+<option>Billy Madison</option>
+<option>Seabiscuit</option>
+<option>The Fan</option>
+<option>Sabrina</option>
+<option>Almost Heroes</option>
+<option>Captain Fantastic</option>
+<option>Spanking the Monkey</option>
+<option>Doc Hollywood</option>
+<option>Sphere</option>
+<option>The Sum of All Fears</option>
+<option>Girl with a Pearl Earring</option>
+<option>The Last Emperor</option>
+<option>Minority Report</option>
+<option>The Last King of Scotland</option>
+<option>The Program</option>
+<option>Freddy's Dead: The Final Nightmare</option>
+<option>Constantine</option>
+<option>Halloween 4: The Return of Michael Myers</option>
+<option>Star Trek</option>
+<option>Frost/Nixon</option>
+<option>The Salton Sea</option>
+<option>Dog Soldiers</option>
+<option>Just Friends</option>
+<option>Invasion of the Body Snatchers</option>
+<option>What's Up, Doc?</option>
+<option>Trainwreck</option>
+<option>Battlefield Earth</option>
+<option>Down Periscope</option>
+<option>THX 1138</option>
+<option>The Lookout</option>
+<option>Red Dragon</option>
+<option>James and the Giant Peach</option>
+<option>Star Wars: Episode II - Attack of the Clones</option>
+<option>The Pillow Book</option>
+<option>Public Enemies</option>
+<option>Hercules</option>
+<option>Jungle Fever</option>
+<option>Thinner</option>
+<option>Bad Santa</option>
+<option>The Money Pit</option>
+<option>Let Me In</option>
+<option>Eraserhead</option>
+<option>Mary and Max</option>
+<option>Porky's</option>
+<option>The Distinguished Gentleman</option>
+<option>The Exorcist</option>
+<option>Double Team</option>
+<option>The Wind That Shakes the Barley</option>
+<option>Splendor in the Grass</option>
+<option>Little Odessa</option>
+<option>Slumdog Millionaire</option>
+<option>The Adventures of Priscilla, Queen of the Desert</option>
+<option>Fun with Dick and Jane</option>
+<option>True Lies</option>
+<option>Rise of the Planet of the Apes</option>
+<option>Paranormal Activity 3</option>
+<option>The Body Snatcher</option>
+<option>Alien: Resurrection</option>
+<option>The Princess and the Frog</option>
+<option>Anastasia</option>
+<option>Toy Story</option>
+<option>Wings of Desire</option>
+<option>Killing Zoe</option>
+<option>Fletch</option>
+<option>The Wrong Man</option>
+<option>It Follows</option>
+<option>Hugo</option>
+<option>Man of the Year</option>
+<option>The Da Vinci Code</option>
+<option>Aladdin and the King of Thieves</option>
+<option>The Conjuring</option>
+<option>Bad Teacher</option>
+<option>Star Trek Beyond</option>
+<option>What Dreams May Come</option>
+<option>Get Carter</option>
+<option>Fahrenheit 451</option>
+<option>The Fault in Our Stars</option>
+<option>Brooklyn</option>
+<option>The Merchant of Venice</option>
+<option>Maid in Manhattan</option>
+<option>Spellbound</option>
+<option>Play Misty for Me</option>
+<option>Battle: Los Angeles</option>
+<option>Horse Feathers</option>
+<option>The Mechanic</option>
+<option>Teaching Mrs. Tingle</option>
+<option>Incendies</option>
+<option>Star Trek: The Motion Picture</option>
+<option>The Insider</option>
+<option>Rambo: First Blood Part II</option>
+<option>Green Zone</option>
+<option>The Taking of Pelham 1 2 3</option>
+<option>Waiting...</option>
+<option>The Sting</option>
+<option>A Single Man</option>
+<option>Alvin and the Chipmunks</option>
+<option>Little Man Tate</option>
+<option>Hellraiser III: Hell on Earth</option>
+<option>Brokeback Mountain</option>
+<option>Throw Momma from the Train</option>
+<option>A Knight's Tale</option>
+<option>Vegas Vacation</option>
+<option>Suspicion</option>
+<option>Philomena</option>
+<option>Training Day</option>
+<option>Crocodile Dundee in Los Angeles</option>
+<option>A Prophet</option>
+<option>Impostor</option>
+<option>Duets</option>
+<option>The Passion of the Christ</option>
+<option>Marked for Death</option>
+<option>Kelly's Heroes</option>
+<option>The Man in the Iron Mask</option>
+<option>See No Evil, Hear No Evil</option>
+<option>Yojimbo</option>
+<option>The Adventures of Buckaroo Banzai Across the 8th Dimension</option>
+<option>Newsies</option>
+<option>The Seven Year Itch</option>
+<option>Cat Ballou</option>
+<option>Diamonds Are Forever</option>
+<option>Hocus Pocus</option>
+<option>Battle Royale</option>
+<option>The Hunt</option>
+<option>The Life of David Gale</option>
+<option>Miracle on 34th Street</option>
+<option>Rear Window</option>
+<option>Take the Money and Run</option>
+<option>A Clockwork Orange</option>
+<option>Dreamscape</option>
+<option>Navy Seals</option>
+<option>South Park: Bigger, Longer and Uncut</option>
+<option>Deuce Bigalow: European Gigolo</option>
+<option>Antichrist</option>
+<option>Amazing Grace</option>
+<option>High School High</option>
+<option>Over the Hedge</option>
+<option>Persuasion</option>
+<option>Smokey and the Bandit</option>
+<option>Body Snatchers</option>
+<option>The Madness of King George</option>
+<option>The Running Man</option>
+<option>Sex and the City</option>
+<option>Psycho</option>
+<option>Bananas</option>
+<option>The Pink Panther Strikes Again</option>
+<option>Ghost Ship</option>
+<option>Airheads</option>
+<option>The Quick and the Dead</option>
+<option>The Adjustment Bureau</option>
+<option>High School Musical 3: Senior Year</option>
+<option>Freedom Writers</option>
+<option>Your Name.</option>
+<option>Fly Away Home</option>
+<option>All That Jazz</option>
+<option>Requiem for a Dream</option>
+<option>Pump Up the Volume</option>
+<option>The Four Feathers</option>
+<option>The Road to Wellville</option>
+<option>The Ten Commandments</option>
+<option>Colors</option>
+<option>Real Steel</option>
+<option>In the Line of Fire</option>
+<option>Role Models</option>
+<option>The Girl Next Door</option>
+<option>House on Haunted Hill</option>
+<option>The Abyss</option>
+<option>Valkyrie</option>
+<option>Fair Game</option>
+<option>The Patriot</option>
+<option>Steve Jobs</option>
+<option>Avatar</option>
+<option>Star Trek: Nemesis</option>
+<option>A River Runs Through It</option>
+<option>Independence Day: Resurgence</option>
+<option>Get Out</option>
+<option>After the Sunset</option>
+<option>The Strangers</option>
+<option>Girl, Interrupted</option>
+<option>Nerve</option>
+<option>...And Justice for All</option>
+<option>Together</option>
+<option>Jean de Florette</option>
+<option>Jason and the Argonauts</option>
+<option>End of Days</option>
+<option>Dude, Where's My Car?</option>
+<option>Airport</option>
+<option>Henry V</option>
+<option>Speed</option>
+<option>Man on a Ledge</option>
+<option>Speed 2: Cruise Control</option>
+<option>Cold Mountain</option>
+<option>Whatever Works</option>
+<option>Nick and Norah's Infinite Playlist</option>
+<option>Getting Even with Dad</option>
+<option>Celebrity</option>
+<option>Shark Tale</option>
+<option>Passengers</option>
+<option>The Odd Couple</option>
+<option>Sling Blade</option>
+<option>Creature Comforts</option>
+<option>You, Me and Dupree</option>
+<option>Jude</option>
+<option>Cabin Boy</option>
+<option>Rocky III</option>
+<option>The Man from Snowy River</option>
+<option>No Escape</option>
+<option>Rogue One: A Star Wars Story</option>
+<option>Barry Lyndon</option>
+<option>Machete</option>
+<option>A Night at the Roxbury</option>
+<option>Lost in La Mancha</option>
+<option>Sliding Doors</option>
+<option>Birdman of Alcatraz</option>
+<option>Tokyo Godfathers</option>
+<option>Rounders</option>
+<option>The Alamo</option>
+<option>Sudden Death</option>
+<option>Jennifer's Body</option>
+<option>J. Edgar</option>
+<option>Turbo</option>
+<option>Lethal Weapon 2</option>
+<option>Waterworld</option>
+<option>I Heart Huckabees</option>
+<option>The Substitute</option>
+<option>Three Billboards Outside Ebbing, Missouri</option>
+<option>Zero Effect</option>
+<option>A Walk on the Moon</option>
+<option>School Ties</option>
+<option>Stripes</option>
+<option>Daddy Day Care</option>
+<option>The Darjeeling Limited</option>
+<option>A Goofy Movie</option>
+<option>A Education</option>
+<option>Boogie Nights</option>
+<option>Grosse Pointe Blank</option>
+<option>The Visit</option>
+<option>The Accused</option>
+<option>Open Season</option>
+<option>Kull the Conqueror</option>
+<option>The Messenger: The Story of Joan of Arc</option>
+<option>G.I. Joe: The Rise of Cobra</option>
+<option>Overboard</option>
+<option>Idiocracy</option>
+<option>Mindhunters</option>
+<option>The Human Centipede</option>
+<option>The Adventures of Baron Munchausen</option>
+<option>Safety Not Guaranteed</option>
+<option>Frequency</option>
+<option>Hellbound: Hellraiser II</option>
+<option>O Brother, Where Art Thou?</option>
+<option>Click</option>
+<option>Lost in Translation</option>
+<option>Ronin</option>
+<option>Lord of the Flies</option>
+<option>Uncle Buck</option>
+<option>Houseguest</option>
+<option>Steamboy</option>
+<option>Cool Hand Luke</option>
+<option>Mannequin</option>
+<option>Harry Brown</option>
+<option>The Sweet Hereafter</option>
+<option>The Treasure of the Sierra Madre</option>
+<option>Village of the Damned</option>
+<option>The Black Stallion</option>
+<option>Tenacious D in The Pick of Destiny</option>
+<option>Cloudy with a Chance of Meatballs 2</option>
+<option>Brotherhood of the Wolf</option>
+<option>Lightning Jack</option>
+<option>Cat People</option>
+<option>Ikiru</option>
+<option>The Outsiders</option>
+<option>Jules and Jim</option>
+<option>Black Snake Moan</option>
+<option>Hanna</option>
+<option>Monsters, Inc.</option>
+<option>The Guardian</option>
+<option>Transformers</option>
+<option>Doctor Dolittle</option>
+<option>Halloween II</option>
+<option>The Prince of Egypt</option>
+<option>The 39 Steps</option>
+<option>Tom Jones</option>
+<option>Doomsday</option>
+<option>Red Heat</option>
+<option>Michael Collins</option>
+<option>Shallow Hal</option>
+<option>Vampire in Brooklyn</option>
+<option>Tears of the Sun</option>
+<option>Free Willy</option>
+<option>All About My Mother</option>
+<option>The Dark Knight</option>
+<option>Ted 2</option>
+<option>Cinderella</option>
+<option>Cold Comfort Farm</option>
+<option>Bio-Dome</option>
+<option>Flashdance</option>
+<option>Dazed and Confused</option>
+<option>The Candidate</option>
+<option>Brief Encounter</option>
+<option>Them!</option>
+<option>Snow White and the Seven Dwarfs</option>
+<option>Tigerland</option>
+<option>Victor/Victoria</option>
+<option>Living Out Loud</option>
+<option>The Lady Vanishes</option>
+<option>Envy</option>
+<option>Ransom</option>
+<option>American Splendor</option>
+<option>Pecker</option>
+<option>True Romance</option>
+<option>Matchstick Men</option>
+<option>Lost Highway</option>
+<option>The Remains of the Day</option>
+<option>Cashback</option>
+<option>The Searchers</option>
+<option>Fools Rush In</option>
+<option>Inglourious Basterds</option>
+<option>Porco Rosso</option>
+<option>Hacksaw Ridge</option>
+<option>Men of Honor</option>
+<option>Hoosiers</option>
+<option>The Gingerbread Man</option>
+<option>Night of the Living Dead</option>
+<option>Phantoms</option>
+<option>Sophie's Choice</option>
+<option>The Last Picture Show</option>
+<option>The Interview</option>
+<option>Bride of Chucky</option>
+<option>The Recruit</option>
+<option>My Super Ex-Girlfriend</option>
+<option>Out of the Past</option>
+<option>Rat Race</option>
+<option>Hot Shots!</option>
+<option>Piper</option>
+<option>Resident Evil: Retribution</option>
+<option>The Red Violin</option>
+<option>The Mask</option>
+<option>Hero</option>
+<option>The Spectacular Now</option>
+<option>Ernest Goes to Camp</option>
+<option>The Holiday</option>
+<option>Flipper</option>
+<option>Blow-Up</option>
+<option>Pretty in Pink</option>
+<option>The Fisher King</option>
+<option>Who's That Girl?</option>
+<option>Half Baked</option>
+<option>Innerspace</option>
+<option>Universal Soldier: The Return</option>
+<option>Kiss of the Spider Woman</option>
+<option>Lolita</option>
+<option>I Am Legend</option>
+<option>Kick-Ass 2</option>
+<option>Aeon Flux</option>
+<option>Run Silent Run Deep</option>
+<option>Father Goose</option>
+<option>The Cotton Club</option>
+<option>The Castle</option>
+<option>Cocaine Cowboys</option>
+<option>The Big Heat</option>
+<option>Kazaam</option>
+<option>Pleasantville</option>
+<option>Human Traffic</option>
+<option>Frida</option>
+<option>Poetic Justice</option>
+<option>Gentlemen Prefer Blondes</option>
+<option>American Gangster</option>
+<option>The Devil's Backbone</option>
+<option>Side Effects</option>
+<option>Police Academy</option>
+<option>Octopussy</option>
+<option>Indiana Jones and the Kingdom of the Crystal Skull</option>
+<option>Harley Davidson and the Marlboro Man</option>
+<option>Millions</option>
+<option>Wolf Creek</option>
+<option>Wristcutters: A Love Story</option>
+<option>Scooby-Doo</option>
+<option>Field of Dreams</option>
+<option>No Way Out</option>
+<option>And Then There Were None</option>
+<option>Naked Lunch</option>
+<option>Quick Change</option>
+<option>American Ninja</option>
+<option>F/X</option>
+<option>A Good Day to Die Hard</option>
+<option>Scarface</option>
+<option>Incredibles 2</option>
+<option>The Love Guru</option>
+<option>The One</option>
+<option>The Purge: Anarchy</option>
+<option>Wild Strawberries</option>
+<option>Judgment at Nuremberg</option>
+<option>The Third Man</option>
+<option>The Class</option>
+<option>Runaway</option>
+<option>Taken</option>
+<option>The Departed</option>
+<option>Drugstore Cowboy</option>
+<option>Grease 2</option>
+<option>Breaker Morant</option>
+<option>Jack Reacher</option>
+<option>Anomalisa</option>
+<option>The Secret of Roan Inish</option>
+<option>The Apple Dumpling Gang</option>
+<option>Revenge of the Pink Panther</option>
+<option>Enough</option>
+<option>A Fistful of Dollars</option>
+<option>The Witches</option>
+<option>The Pelican Brief</option>
+<option>The Town</option>
+<option>Operation Petticoat</option>
+<option>Jurassic Park III</option>
+<option>Beyond the Mat</option>
+<option>Four Rooms</option>
+<option>Fierce Creatures</option>
+<option>Son in Law</option>
+<option>Dunston Checks In</option>
+<option>Patch Adams</option>
+<option>Swimming Pool</option>
+<option>The Return of the Pink Panther</option>
+<option>The Golden Child</option>
+<option>Hostel</option>
+<option>The Bad News Bears</option>
+<option>Evolution</option>
+<option>Ponyo</option>
+<option>Day for Night</option>
+<option>Dead Alive</option>
+<option>Alice Through the Looking Glass</option>
+<option>The Last Starfighter</option>
+<option>Flightplan</option>
+<option>Never Say Never Again</option>
+<option>Moonlight Mile</option>
+<option>The Rage: Carrie 2</option>
+<option>American Ultra</option>
+<option>Observe and Report</option>
+<option>Let's Be Cops</option>
+<option>The Brothers Grimm</option>
+<option>The Trouble with Harry</option>
+<option>Call Me by Your Name</option>
+<option>Major League</option>
+<option>Natural Born Killers</option>
+<option>A Little Princess</option>
+<option>Mission: Impossible - Rogue Nation</option>
+<option>Spider-Man 3</option>
+<option>Street Fighter</option>
+<option>Darkness Falls</option>
+<option>The Discreet Charm of the Bourgeoisie</option>
+<option>I, Tonya</option>
+<option>Charlie's Angels</option>
+<option>The Ice Storm</option>
+<option>Phone Booth</option>
+<option>The Thomas Crown Affair</option>
+<option>Top Hat</option>
+<option>The Last Temptation of Christ</option>
+<option>Hidden Figures</option>
+<option>Rush Hour</option>
+<option>Maleficent</option>
+<option>White Christmas</option>
+<option>Kubo and the Two Strings</option>
+<option>Gods and Monsters</option>
+<option>Gentleman's Agreement</option>
+<option>Anchorman 2: The Legend Continues</option>
+<option>Bean</option>
+<option>Corky Romano</option>
+<option>The Assassination of Richard Nixon</option>
+<option>Lethal Weapon 3</option>
+<option>Dirty Work</option>
+<option>Kung Fu Panda 2</option>
+<option>Say Anything...</option>
+<option>For Love or Money</option>
+<option>The Proposition</option>
+<option>The Many Adventures of Winnie the Pooh</option>
+<option>Miss Congeniality</option>
+<option>Black Panther</option>
+<option>Clear and Present Danger</option>
+<option>Dawn of the Planet of the Apes</option>
+<option>The Heat</option>
+<option>Thor: The Dark World</option>
+<option>Young Adult</option>
+<option>Hot Rod</option>
+<option>Starship Troopers</option>
+<option>Exotica</option>
+<option>In America</option>
+<option>He's Just Not That Into You</option>
+<option>Keeping Mum</option>
+<option>The Lady Eve</option>
+<option>Homeward Bound II: Lost in San Francisco</option>
+<option>Crouching Tiger, Hidden Dragon</option>
+<option>Sky Captain and the World of Tomorrow</option>
+<option>Ginger Snaps</option>
+<option>The Assassination of Jesse James by the Coward Robert Ford</option>
+<option>Sullivan's Travels</option>
+<option>Four Weddings and a Funeral</option>
+<option>The Sound of Music</option>
+<option>The Full Monty</option>
+<option>All the King's Men</option>
+<option>Exorcist: The Beginning</option>
+<option>Scott Pilgrim vs. the World</option>
+<option>Sherlock Holmes</option>
+<option>Little Miss Sunshine</option>
+<option>Pan's Labyrinth</option>
+<option>Iron Monkey</option>
+<option>Assassin's Creed</option>
+<option>The Book of Eli</option>
+<option>Saving Private Ryan</option>
+<option>Just Cause</option>
+<option>The Skin I Live In</option>
+<option>Gulliver's Travels</option>
+<option>Babel</option>
+<option>Intouchables</option>
+<option>The Hangover Part III</option>
+<option>The Beach</option>
+<option>Die Hard</option>
+<option>Kagemusha</option>
+<option>Ocean's Eleven</option>
+<option>Bringing Up Baby</option>
+<option>Rashomon</option>
+<option>The Day the Earth Stood Still</option>
+<option>Lord of Illusions</option>
+<option>The Hunger</option>
+<option>Pixels</option>
+<option>Cinderella Man</option>
+<option>Contraband</option>
+<option>The Conversation</option>
+<option>Son of the Mask</option>
+<option>Transporter 3</option>
+<option>The Woodsman</option>
+<option>BASEketball</option>
+<option>Beasts of the Southern Wild</option>
+<option>Three Men and a Baby</option>
+<option>AVP: Alien vs. Predator</option>
+<option>A Christmas Story</option>
+<option>American Made</option>
+<option>Prometheus</option>
+<option>The Flintstones</option>
+<option>Bound</option>
+<option>Tower Heist</option>
+<option>The Green Hornet</option>
+<option>Zero Dark Thirty</option>
+<option>Iron Man 3</option>
+<option>Freddy Got Fingered</option>
+<option>Youth in Revolt</option>
+<option>March of the Penguins</option>
+<option>Powder</option>
+<option>To Die For</option>
+<option>Crank</option>
+<option>But I'm a Cheerleader</option>
+<option>The Secret Life of Pets</option>
+<option>Pi</option>
+<option>The Next Three Days</option>
+<option>The Internship</option>
+<option>Raging Bull</option>
+<option>Across the Universe</option>
+<option>Always</option>
+<option>A Soldier's Story</option>
+<option>The Four Musketeers</option>
+<option>Skyfall</option>
+<option>October Sky</option>
+<option>Crazy, Stupid, Love.</option>
+<option>Howards End</option>
+<option>Winter's Bone</option>
+<option>The Curse of the Jade Scorpion</option>
+<option>Hard Candy</option>
+<option>Solaris</option>
+<option>The Amazing Panda Adventure</option>
+<option>Big Bully</option>
+<option>Bad Moms</option>
+<option>Back to the Future Part II</option>
+<option>Out of Africa</option>
+<option>Thor</option>
+<option>Identity</option>
+<option>The Woman in Black</option>
+<option>The Happening</option>
+<option>All About Eve</option>
+<option>Malice</option>
+<option>Bowling for Columbine</option>
+<option>The King of Kong</option>
+<option>Jakob the Liar</option>
+<option>John Wick</option>
+<option>The Waterboy</option>
+<option>The Black Hole</option>
+<option>Coffee and Cigarettes</option>
+<option>Shrek Forever After</option>
+<option>The Lion in Winter</option>
+<option>E.T. the Extra-Terrestrial</option>
+<option>Young Frankenstein</option>
+<option>The Tree of Life</option>
+<option>Basic</option>
+<option>Letters to Juliet</option>
+<option>Original Sin</option>
+<option>The Perez Family</option>
+<option>The Cat from Outer Space</option>
+<option>Terms of Endearment</option>
+<option>Saw II</option>
+<option>Notting Hill</option>
+<option>Brokedown Palace</option>
+<option>The Best Years of Our Lives</option>
+<option>The Saint</option>
+<option>On Golden Pond</option>
+<option>Forces of Nature</option>
+<option>Nell</option>
+<option>Playing by Heart</option>
+<option>The Dinner Game</option>
+<option>The Jewel of the Nile</option>
+<option>The Fountain</option>
+<option>Brother Bear</option>
+<option>Adam's Apples</option>
+<option>Horror of Dracula</option>
+<option>Flubber</option>
+<option>Great Balls of Fire!</option>
+<option>Congo</option>
+<option>Ghostbusters II</option>
+<option>A Nightmare on Elm Street</option>
+<option>War Dogs</option>
+<option>Saving Mr. Banks</option>
+<option>Dersu Uzala</option>
+<option>I Am Number Four</option>
+<option>The Piano Teacher</option>
+<option>Up in the Air</option>
+<option>Detroit Rock City</option>
+<option>Die Hard: With a Vengeance</option>
+<option>Mrs. Doubtfire</option>
+<option>Lucky Number Slevin</option>
+<option>Isle of Dogs</option>
+<option>Spartan</option>
+<option>Captain Phillips</option>
+<option>War</option>
+<option>Disturbia</option>
+<option>Must Love Dogs</option>
+<option>Alpha Dog</option>
+<option>eXistenZ</option>
+<option>Zack and Miri Make a Porno</option>
+<option>The Lego Movie</option>
+<option>Altered States</option>
+<option>That Darn Cat!</option>
+<option>Exodus: Gods and Kings</option>
+<option>Double Jeopardy</option>
+<option>Never Let Me Go</option>
+<option>Ghosts of Mississippi</option>
+<option>The Awful Truth</option>
+<option>Chicken Little</option>
+<option>Baby Driver</option>
+<option>The Verdict</option>
+<option>Valerian and the City of a Thousand Planets</option>
+<option>Harold and Kumar Go to White Castle</option>
+<option>Reality Bites</option>
+<option>The Brady Bunch Movie</option>
+<option>To Live and Die in L.A.</option>
+<option>Chopper</option>
+<option>American Sniper</option>
+<option>The Invasion</option>
+<option>Jumpin' Jack Flash</option>
+<option>The Celebration</option>
+<option>Cobra</option>
+<option>The Commitments</option>
+<option>The Monster</option>
+<option>Year One</option>
+<option>Cop Land</option>
+<option>The Tigger Movie</option>
+<option>Willard</option>
+<option>Hearts of Darkness: A Filmmakers Apocalypse</option>
+<option>Santa Claus: The Movie</option>
+<option>Dances with Wolves</option>
+<option>The Illusionist</option>
+<option>Small Time Crooks</option>
+<option>Conspiracy Theory</option>
+<option>The Raid: Redemption</option>
+<option>The Legend of Zorro</option>
+<option>Highlander II: The Quickening</option>
+<option>Taken 3</option>
+<option>Casino</option>
+<option>Thirteen Ghosts</option>
+<option>Wreck-It Ralph</option>
+<option>Out of Sight</option>
+<option>Heaven Can Wait</option>
+<option>Wrath of the Titans</option>
+<option>Marie Antoinette</option>
+<option>Charlie Wilson's War</option>
+<option>Heartbreakers</option>
+<option>Young Sherlock Holmes</option>
+<option>FairyTale: A True Story</option>
+<option>Tremors</option>
+<option>Romeo Must Die</option>
+<option>Appleseed</option>
+<option>Hellraiser: Bloodline</option>
+<option>A Walk to Remember</option>
+<option>Lilies of the Field</option>
+<option>Despicable Me 2</option>
+<option>A American in Paris</option>
+<option>The Great Dictator</option>
+<option>A Night to Remember</option>
+<option>Badlands</option>
+<option>Big Trouble</option>
+<option>The Phantom of the Opera</option>
+<option>Almost Famous</option>
+<option>Adventureland</option>
+<option>Dawn of the Dead</option>
+<option>Kiss Kiss Bang Bang</option>
+<option>The Land Before Time</option>
+<option>San Andreas</option>
+<option>The Serpent and the Rainbow</option>
+<option>Hancock</option>
+<option>Along Came Polly</option>
+<option>Phantasm</option>
+<option>The Parent Trap</option>
+<option>Pee-wee's Big Adventure</option>
+<option>The Exterminating Angel</option>
+<option>Human Nature</option>
+<option>The Expendables 2</option>
+<option>The Rocky Horror Picture Show</option>
+<option>The Big Hit</option>
+<option>School of Rock</option>
+<option>The Lord of the Rings</option>
+<option>Lost Horizon</option>
+<option>The Core</option>
+<option>Outland</option>
+<option>Jungle Book</option>
+<option>All the President's Men</option>
+<option>Mumford</option>
+<option>Laws of Attraction</option>
+<option>Selena</option>
+<option>Wild Hogs</option>
+<option>Harry Potter and the Half-Blood Prince</option>
+<option>Analyze This</option>
+<option>Love Story</option>
+<option>The War of the Roses</option>
+<option>Jurassic Park</option>
+<option>Austin Powers: The Spy Who Shagged Me</option>
+<option>Porky's Revenge</option>
+<option>Friday</option>
+<option>Orphan</option>
+<option>Mighty Joe Young</option>
+<option>Arizona Dream</option>
+<option>The Grey</option>
+<option>Shall We Dance</option>
+<option>Charlie's Angels: Full Throttle</option>
+<option>Friends with Benefits</option>
+<option>The Road to El Dorado</option>
+<option>The Wood</option>
+<option>Deconstructing Harry</option>
+<option>Rob Roy</option>
+<option>How the Grinch Stole Christmas!</option>
+<option>Spirited Away</option>
+<option>The End of the Affair</option>
+<option>From Dusk Till Dawn</option>
+<option>That Thing You Do!</option>
+<option>The Way of the Gun</option>
+<option>The Emperor's New Groove</option>
+<option>Donnie Brasco</option>
+<option>Bottle Rocket</option>
+<option>The Fabulous Baker Boys</option>
+<option>Fandango</option>
+<option>Only You</option>
+<option>Barefoot in the Park</option>
+<option>Knight and Day</option>
+<option>The English Patient</option>
+<option>The Cabinet of Dr. Caligari</option>
+<option>My Stepmother Is an Alien</option>
+<option>K-19: The Widowmaker</option>
+<option>Oz the Great and Powerful</option>
+<option>The Informant!</option>
+<option>Unbreakable</option>
+<option>Twilight</option>
+<option>The Change-Up</option>
+<option>Air America</option>
+<option>The Spiderwick Chronicles</option>
+<option>Murder by Numbers</option>
+<option>Insomnia</option>
+<option>Forbidden Planet</option>
+<option>The Babysitter</option>
+<option>Django Unchained</option>
+<option>Welcome to the Dollhouse</option>
+<option>House</option>
+<option>Waking Life</option>
+<option>Straw Dogs</option>
+<option>The 6th Day</option>
+<option>Lady Bird</option>
+<option>The Spanish Apartment</option>
+<option>Big Trouble in Little China</option>
+<option>Straight Outta Compton</option>
+<option>What's Your Number?</option>
+<option>Honey, I Blew Up the Kid</option>
+<option>TMNT</option>
+<option>Napoleon Dynamite</option>
+<option>Dead Presidents</option>
+<option>All of Me</option>
+<option>X2: X-Men United</option>
+<option>City Slickers II: The Legend of Curly's Gold</option>
+<option>Easy Rider</option>
+<option>Elizabeth: The Golden Age</option>
+<option>Yi Yi</option>
+<option>Kingsman: The Golden Circle</option>
+<option>Poltergeist III</option>
+<option>Five Easy Pieces</option>
+<option>Inland Empire</option>
+<option>Run Lola Run</option>
+<option>Blade: Trinity</option>
+<option>The Conjuring 2</option>
+<option>A Mighty Wind</option>
+<option>The Big Green</option>
+<option>Wild Wild West</option>
+<option>Days of Wine and Roses</option>
+<option>The Horse Whisperer</option>
+<option>Eight Men Out</option>
+<option>Muppet Treasure Island</option>
+<option>When Harry Met Sally...</option>
+<option>Unforgiven</option>
+<option>Anaconda</option>
+<option>Blue Valentine</option>
+<option>American Pie Presents The Naked Mile</option>
+<option>Bicentennial Man</option>
+<option>Planet of the Apes</option>
+<option>The Blues Brothers</option>
+<option>The Color Purple</option>
+<option>Tom and Huck</option>
+<option>The Battle of Algiers</option>
+<option>Solo</option>
+<option>Beetlejuice</option>
+<option>Religulous</option>
+<option>R.I.P.D.</option>
+<option>My Dog Skip</option>
+<option>Harry Potter and the Goblet of Fire</option>
+<option>Sicario</option>
+<option>Chicken Run</option>
+<option>Mulan</option>
+<option>Son of Rambow</option>
+<option>Pocahontas</option>
+<option>His Girl Friday</option>
+<option>Dark Water</option>
+<option>Clueless</option>
+<option>Halloween 5: The Revenge of Michael Myers</option>
+<option>Kung Pow: Enter the Fist</option>
+<option>Children of the Corn IV: The Gathering</option>
+<option>The Bridges of Madison County</option>
+<option>Grizzly Man</option>
+<option>Planet 51</option>
+<option>Saved!</option>
+<option>Bend It Like Beckham</option>
+<option>Adaptation</option>
+<option>Cars 2</option>
+<option>Office Space</option>
+<option>The House Bunny</option>
+<option>Amelie</option>
+<option>The Matrix</option>
+<option>Wicker Park</option>
+<option>Fallen Angels</option>
+<option>The Expendables</option>
+<option>The Postman Always Rings Twice</option>
+<option>Runaway Train</option>
+<option>Fantastic Voyage</option>
+<option>Vanilla Sky</option>
+<option>Breathless</option>
+<option>Radio</option>
+<option>Hudson Hawk</option>
+<option>Run All Night</option>
+<option>Mother</option>
+<option>RoboCop</option>
+<option>Cloudy with a Chance of Meatballs</option>
+<option>Walking Tall</option>
+<option>Carrington</option>
+<option>Split</option>
+<option>Legends of the Fall</option>
+<option>Johnny English Reborn</option>
+<option>Dredd</option>
+<option>Robots</option>
+<option>Spotlight</option>
+<option>Just Like Heaven</option>
+<option>Saw V</option>
+<option>Sisters</option>
+<option>Bubba Ho-tep</option>
+<option>Jurassic World</option>
+<option>Summer Wars</option>
+<option>Silent Running</option>
+<option>About Schmidt</option>
+<option>City Lights</option>
+<option>Without a Paddle</option>
+<option>The Fast and the Furious: Tokyo Drift</option>
+<option>Dracula 2000</option>
+<option>Giant</option>
+<option>A League of Their Own</option>
+<option>Romeo and Juliet</option>
+<option>Upstream Color</option>
+<option>Noah</option>
+<option>A Nightmare on Elm Street 5: The Dream Child</option>
+<option>Syriana</option>
+<option>Adam's Rib</option>
+<option>Meet Me in St. Louis</option>
+<option>The Babadook</option>
+<option>The Big Sleep</option>
+<option>One Night at McCool's</option>
+<option>Looper</option>
+<option>Orgazmo</option>
+<option>Monkey Shines</option>
+<option>The Descendants</option>
+<option>A Bridge Too Far</option>
+<option>Mad Max: Fury Road</option>
+<option>Carlito's Way</option>
+<option>Jaws 2</option>
+<option>The Animatrix</option>
+<option>Full Metal Jacket</option>
+<option>Catch Me If You Can</option>
+<option>Dan in Real Life</option>
+<option>Air Bud</option>
+<option>Educating Rita</option>
+<option>Menace II Society</option>
+<option>Exit Through the Gift Shop</option>
+<option>Ordinary People</option>
+<option>The Royal Tenenbaums</option>
+<option>Apocalypse Now</option>
+<option>Darkest Hour</option>
+<option>Jerry Maguire</option>
+<option>The Hustler</option>
+<option>North</option>
+<option>Drive</option>
+<option>Andrei Rublev</option>
+<option>Equilibrium</option>
+<option>Single White Female</option>
+<option>Glitter</option>
+<option>Pirates of the Caribbean: The Curse of the Black Pearl</option>
+<option>Annie Hall</option>
+<option>Stealth</option>
+<option>The Princess Bride</option>
+<option>Fanny and Alexander</option>
+<option>Scanners</option>
+<option>The Score</option>
+<option>She's Gotta Have It</option>
+<option>The Next Karate Kid</option>
+<option>About Time</option>
+<option>Stay</option>
+<option>Children of Men</option>
+<option>Nights of Cabiria</option>
+<option>Kangaroo Jack</option>
+<option>The General</option>
+<option>Bad Boys II</option>
+<option>Guess Who's Coming to Dinner</option>
+<option>Tucker: The Man and His Dream</option>
+<option>Harry Potter and the Prisoner of Azkaban</option>
+<option>Where the Heart Is</option>
+<option>The Emerald Forest</option>
+<option>Scenes From a Marriage</option>
+<option>Virus</option>
+<option>Buffy the Vampire Slayer</option>
+<option>Meet the Feebles</option>
+<option>Die Another Day</option>
+<option>Gigli</option>
+<option>Source Code</option>
+<option>Affliction</option>
+<option>The Final Destination</option>
+<option>To Be or Not to Be</option>
+<option>The Return</option>
+<option>The Pagemaster</option>
+<option>Grumpy Old Men</option>
+<option>Mildred Pierce</option>
+<option>American Reunion</option>
+<option>Europa Report</option>
+<option>The Music Man</option>
+<option>Outbreak</option>
+<option>Cliffhanger</option>
+<option>The Blue Lagoon</option>
+<option>Analyze That</option>
+<option>Watchmen</option>
+<option>Kiss of Death</option>
+<option>Taxi</option>
+<option>Fear</option>
+<option>Rush Hour 2</option>
+<option>Snow White and the Huntsman</option>
+<option>Runaway Bride</option>
+<option>Triangle</option>
+<option>For the Birds</option>
+<option>The Paper Chase</option>
+<option>The Rainmaker</option>
+<option>Old Yeller</option>
+<option>Von Ryan's Express</option>
+<option>Pretty Woman</option>
+<option>The Crow</option>
+<option>Picnic</option>
+<option>Dead Man</option>
+<option>The Big Red One</option>
+<option>Misery</option>
+<option>Terminator 3: Rise of the Machines</option>
+<option>The Last Seduction</option>
+<option>Kung Fu Panda</option>
+<option>Sixteen Candles</option>
+<option>Go</option>
+<option>Babylon A.D.</option>
+<option>Norma Rae</option>
+<option>War for the Planet of the Apes</option>
+<option>Flight of the Navigator</option>
+<option>Thirteen</option>
+<option>Mad Max Beyond Thunderdome</option>
+<option>Blue Streak</option>
+<option>Small Soldiers</option>
+<option>The Shop Around the Corner</option>
+<option>The Last Boy Scout</option>
+<option>Kinsey</option>
+<option>Lockout</option>
+<option>Voyage to the Bottom of the Sea</option>
+<option>All Quiet on the Western Front</option>
+<option>The Whole Ten Yards</option>
+<option>Elysium</option>
+<option>Darby O'Gill and the Little People</option>
+<option>Josie and the Pussycats</option>
+<option>The Ninth Gate</option>
+<option>Terminal Velocity</option>
+<option>The Crying Game</option>
+<option>The Lion King II: Simba's Pride</option>
+<option>Atlantic City</option>
+<option>Once Upon a Time in Mexico</option>
+<option>The Croods</option>
+<option>Eat Drink Man Woman</option>
+<option>RocknRolla</option>
+<option>The Final Countdown</option>
+<option>Caddyshack II</option>
+<option>A Inconvenient Truth</option>
+<option>Cellular</option>
+<option>Brick</option>
+<option>American Pie Presents: Band Camp</option>
+<option>How to Marry a Millionaire</option>
+<option>Beasts of No Nation</option>
+<option>The Collector</option>
+<option>Toy Story 2</option>
+<option>Three Men and a Little Lady</option>
+<option>Blindness</option>
+<option>Walk the Line</option>
+<option>House of Wax</option>
+<option>The Rocketeer</option>
+<option>Flags of Our Fathers</option>
+<option>Reindeer Games</option>
+<option>Stranger Than Paradise</option>
+<option>Candyman</option>
+<option>Adventures in Babysitting</option>
+<option>Surviving the Game</option>
+<option>Being There</option>
+<option>Cube Zero</option>
+<option>Spider-Man</option>
+<option>Canadian Bacon</option>
+<option>The Dreamers</option>
+<option>The Doors</option>
+<option>The Skeleton Key</option>
+<option>Topsy-Turvy</option>
+<option>God Bless America</option>
+<option>Above the Law</option>
+<option>Divine Secrets of the Ya-Ya Sisterhood</option>
+<option>Piranha</option>
+<option>Seven Beauties</option>
+<option>Payback</option>
+<option>Dog Day Afternoon</option>
+<option>Barb Wire</option>
+<option>Don't Tell Mom the Babysitter's Dead</option>
+<option>The Presidio</option>
+<option>K-PAX</option>
+<option>The Color of Money</option>
+<option>Police Academy 5: Assignment: Miami Beach</option>
+<option>Tank Girl</option>
+<option>K-9</option>
+<option>The Punisher</option>
+<option>Murder by Death</option>
+<option>Ran</option>
+<option>Audition</option>
+<option>For a Few Dollars More</option>
+<option>Don't Be a Menace to South Central While Drinking Your Juice in the Hood</option>
+<option>Day Watch</option>
+<option>Metropolis</option>
+<option>The Terminal</option>
+<option>Boys on the Side</option>
+<option>Seven Psychopaths</option>
+<option>Hedwig and the Angry Inch</option>
+<option>It Could Happen to You</option>
+<option>Coming to America</option>
+<option>The King's Speech</option>
+<option>Junior</option>
+<option>The Arrival</option>
+<option>Matewan</option>
+<option>The Notebook</option>
+<option>¡Three Amigos!</option>
+<option>The Missing</option>
+<option>Cruel Intentions</option>
+<option>Drag Me to Hell</option>
+<option>Casablanca</option>
+<option>She's the Man</option>
+<option>Wes Craven's New Nightmare</option>
+<option>The Magnificent Ambersons</option>
+<option>The Rugrats Movie</option>
+<option>The Crush</option>
+<option>Night at the Museum</option>
+<option>My Fellow Americans</option>
+<option>Team America: World Police</option>
+<option>The Gods Must Be Crazy</option>
+<option>The Quiet Man</option>
+<option>Sanjuro</option>
+<option>Grandma's Boy</option>
+<option>Black Mass</option>
+<option>America's Sweethearts</option>
+<option>Batman</option>
+<option>Phenomenon</option>
+<option>Duplicity</option>
+<option>Goldfinger</option>
+<option>The Rescuers Down Under</option>
+<option>Secretary</option>
+<option>Volcano</option>
+<option>Interstellar</option>
+<option>Manhattan</option>
+<option>Funny People</option>
+<option>W.</option>
+<option>Shakespeare in Love</option>
+<option>A Kid in King Arthur's Court</option>
+<option>Bedtime Stories</option>
+<option>Escape Plan</option>
+<option>Kingsman: The Secret Service</option>
+<option>Signs</option>
+<option>Brewster's Millions</option>
+<option>The Godfather</option>
+<option>Run Fatboy Run</option>
+<option>Fast Times at Ridgemont High</option>
+<option>Grumpier Old Men</option>
+<option>Contagion</option>
+<option>One Hour Photo</option>
+<option>The Journey of Natty Gann</option>
+<option>Paul</option>
+<option>In the Mood For Love</option>
+<option>Jeremiah Johnson</option>
+<option>Witness for the Prosecution</option>
+<option>Jacob's Ladder</option>
+<option>The Double</option>
+<option>Twelve O'Clock High</option>
+<option>Amy</option>
+<option>Ex Machina</option>
+<option>Riding in Cars with Boys</option>
+<option>Before Sunrise</option>
+<option>Radio Days</option>
+<option>Silent Hill</option>
+<option>Leviathan</option>
+<option>High Fidelity</option>
+<option>A Serious Man</option>
+<option>The Eagle Has Landed</option>
+<option>Pontypool</option>
+<option>Bright</option>
+<option>Marathon Man</option>
+<option>Dragon: The Bruce Lee Story</option>
+<option>Paper Moon</option>
+<option>The 40-Year-Old Virgin</option>
+<option>The Piano</option>
+<option>Porky's II: The Next Day</option>
+<option>St. Vincent</option>
+<option>You Don't Mess with the Zohan</option>
+<option>Rebel Without a Cause</option>
+<option>The Quiet American</option>
+<option>My Big Fat Greek Wedding</option>
+<option>It's a Mad, Mad, Mad, Mad World</option>
+<option>Star Trek: First Contact</option>
+<option>Burnt by the Sun</option>
+<option>Swamp Thing</option>
+<option>High Tension</option>
+<option>Ella Enchanted</option>
+<option>Happy Gilmore</option>
+<option>The City of Lost Children</option>
+<option>Crimes and Misdemeanors</option>
+<option>Heartbreak Ridge</option>
+<option>Alex and Emma</option>
+<option>Sleepers</option>
+<option>The Guns of Navarone</option>
+<option>The Purple Rose of Cairo</option>
+<option>The Lost Weekend</option>
+<option>Varsity Blues</option>
+<option>Broadcast News</option>
+<option>Prisoners</option>
+<option>Earth Girls Are Easy</option>
+<option>My Favorite Year</option>
+<option>The Reader</option>
+<option>Kin-Dza-Dza!</option>
+<option>Edge of Tomorrow</option>
+<option>Carrie</option>
+<option>I Saw the Devil</option>
+<option>The Boxtrolls</option>
+<option>The Razor's Edge</option>
+<option>House Party</option>
+<option>The Palm Beach Story</option>
+<option>Paddington</option>
+<option>The Accidental Tourist</option>
+<option>The Computer Wore Tennis Shoes</option>
+<option>Midnight Express</option>
+<option>Yentl</option>
+<option>The Kentucky Fried Movie</option>
+<option>Fanboys</option>
+<option>Why Him?</option>
+<option>The Sure Thing</option>
+<option>Blade II</option>
+<option>Twister</option>
+<option>Teenage Mutant Ninja Turtles II: The Secret of the Ooze</option>
+<option>The NeverEnding Story II: The Next Chapter</option>
+<option>Dead Man Walking</option>
+<option>While You Were Sleeping</option>
+<option>Dragnet</option>
+<option>Ghost Rider: Spirit of Vengeance</option>
+<option>Family Plot</option>
+<option>The War</option>
+<option>Memories of Murder</option>
+<option>A Star Is Born</option>
+<option>Repo Man</option>
+<option>Swingers</option>
+<option>Sleepy Hollow</option>
+<option>The Hangover</option>
+<option>Poltergeist II: The Other Side</option>
+<option>Legend of the Guardians: The Owls of Ga'Hoole</option>
+<option>Hellboy II: The Golden Army</option>
+<option>A American Werewolf in Paris</option>
+<option>Bubble Boy</option>
+<option>Lifeforce</option>
+<option>Free Willy 3: The Rescue</option>
+<option>Beverly Hills Ninja</option>
+<option>Silver Streak</option>
+<option>Scary Movie 2</option>
+<option>Happy Feet</option>
+<option>Resident Evil: Extinction</option>
+<option>Plan 9 from Outer Space</option>
+<option>The Wizard of Oz</option>
+<option>La La Land</option>
+<option>Superstar</option>
+<option>The Bucket List</option>
+<option>The Sea Inside</option>
+<option>The Cabin in the Woods</option>
+<option>Highlander</option>
+<option>Hackers</option>
+<option>Be Kind Rewind</option>
+<option>The Sixth Sense</option>
+<option>Titanic</option>
+<option>Bulletproof Monk</option>
+<option>The Ugly Truth</option>
+<option>Revolutionary Road</option>
+<option>Following</option>
+<option>Reign of Fire</option>
+<option>The Andromeda Strain</option>
+<option>Bad Boys</option>
+<option>It Takes Two</option>
+<option>Mask</option>
+<option>The World Is Not Enough</option>
+<option>Land of the Dead</option>
+<option>Cannibal Holocaust</option>
+<option>The League of Extraordinary Gentlemen</option>
+<option>One Flew Over the Cuckoo's Nest</option>
+<option>Pirates of the Caribbean: On Stranger Tides</option>
+<option>Novocaine</option>
+<option>Ice Age: Dawn of the Dinosaurs</option>
+<option>The Karate Kid, Part II</option>
+<option>Black Christmas</option>
+<option>Old Boy</option>
+<option>Zathura</option>
+<option>Down with Love</option>
+<option>Freddy vs. Jason</option>
+<option>The Proposal</option>
+<option>Changing Lanes</option>
+<option>Bolt</option>
+<option>Short Cuts</option>
+<option>Sahara</option>
+<option>Cell 211</option>
+<option>The SpongeBob SquarePants Movie</option>
+<option>The Animal</option>
+<option>Liar Liar</option>
+<option>Finding Forrester</option>
+<option>Gettysburg</option>
+<option>Videodrome</option>
+<option>The Pursuit of Happyness</option>
+<option>The Chronicles of Riddick</option>
+<option>Seven Brides for Seven Brothers</option>
+<option>Killer Elite</option>
+<option>Ocean's Thirteen</option>
+<option>Fantastic Four</option>
+<option>Disclosure</option>
+<option>True Grit</option>
+<option>Foreign Correspondent</option>
+<option>World War Z</option>
+<option>The Englishman Who Went Up a Hill But Came Down a Mountain</option>
+<option>The Quest</option>
+<option>Pacific Heights</option>
+<option>Death Wish</option>
+<option>Warm Bodies</option>
+<option>Before the Devil Knows You're Dead</option>
+<option>Balls of Fury</option>
+<option>Moonraker</option>
+<option>Exit Wounds</option>
+<option>Romper Stomper</option>
+<option>No Strings Attached</option>
+<option>The Master of Disguise</option>
+<option>The Little Rascals</option>
+<option>Gung Ho</option>
+<option>Ninja Assassin</option>
+<option>Devil</option>
+<option>Soldier</option>
+<option>Blade Runner 2049</option>
+<option>Into the Woods</option>
+<option>The Lives of Others</option>
+<option>Broken Flowers</option>
+<option>Eight Crazy Nights</option>
+<option>Teenage Mutant Ninja Turtles III</option>
+<option>Confessions of a Teenage Drama Queen</option>
+<option>The Last Detail</option>
+<option>Orange County</option>
+<option>The King and I</option>
+<option>Homeward Bound: The Incredible Journey</option>
+<option>The Man Who Fell to Earth</option>
+<option>Funny Games</option>
+<option>Delicatessen</option>
+<option>Men in Black</option>
+<option>xXx: State of the Union</option>
+<option>A American Werewolf in London</option>
+<option>Treasure Planet</option>
+<option>My Neighbor Totoro</option>
+<option>Dragonheart</option>
+<option>Hannibal</option>
+<option>The Shawshank Redemption</option>
+<option>The Family Man</option>
+<option>Madagascar 3: Europe's Most Wanted</option>
+<option>The Last Waltz</option>
+<option>Freeway</option>
+<option>Warlock</option>
+<option>Re-Animator</option>
+<option>JFK</option>
+<option>Triumph of the Will</option>
+<option>Best in Show</option>
+<option>Twelve Monkeys</option>
+<option>The Adventures of Ichabod and Mr. Toad</option>
+<option>Any Which Way You Can</option>
+<option>Jin Roh: The Wolf Brigade</option>
+<option>Au revoir les enfants</option>
+<option>Ong-Bak: The Thai Warrior</option>
+<option>The Night of the Hunter</option>
+<option>Spectre</option>
+<option>Smokey and the Bandit II</option>
+<option>Coraline</option>
+<option>The Secret of NIMH</option>
+<option>Dirty Rotten Scoundrels</option>
+<option>Made</option>
+<option>Modern Times</option>
+<option>The Art of War</option>
+<option>Heart and Souls</option>
+<option>Aliens</option>
+<option>On the Beach</option>
+<option>Ted</option>
+<option>District 9</option>
+<option>Keeping the Faith</option>
+<option>Cujo</option>
+<option>Lord of War</option>
+<option>Hoodwinked!</option>
+<option>Mary Poppins</option>
+<option>Aladdin</option>
+<option>Before Midnight</option>
+<option>Quantum of Solace</option>
+<option>Showtime</option>
+<option>Control</option>
+<option>Splice</option>
+<option>The Ipcress File</option>
+<option>Akeelah and the Bee</option>
+<option>U Turn</option>
+<option>Taken 2</option>
+<option>The Matrix Reloaded</option>
+<option>You Can't Take It with You</option>
+<option>Nightcrawler</option>
+<option>The Karate Kid</option>
+<option>Warcraft</option>
+<option>Possession</option>
+<option>The Painted Veil</option>
+<option>Away We Go</option>
+<option>Lust, Caution</option>
+<option>Forgetting Sarah Marshall</option>
+<option>Captain Ron</option>
+<option>The Mark of Zorro</option>
+<option>A Simple Plan</option>
+<option>Secondhand Lions</option>
+<option>Heavyweights</option>
+<option>Super</option>
+<option>The Thin Red Line</option>
+<option>Stop Making Sense</option>
+<option>Miami Vice</option>
+<option>Sinister</option>
+<option>Eraser</option>
+<option>Secret Window</option>
+<option>Stand and Deliver</option>
+<option>King Arthur</option>
+<option>Ravenous</option>
+<option>The Muppet Christmas Carol</option>
+<option>Spawn</option>
+<option>The Bishop's Wife</option>
+<option>The Simpsons Movie</option>
+<option>The Hitchhiker's Guide to the Galaxy</option>
+<option>Hide and Seek</option>
+<option>Patriot Games</option>
+<option>Chronicle</option>
+<option>Made in America</option>
+<option>Wonder Boys</option>
+<option>Ninotchka</option>
+<option>The Prince of Tides</option>
+<option>Biloxi Blues</option>
+<option>The Island</option>
+<option>Hostel: Part II</option>
+<option>Lara Croft: Tomb Raider</option>
+<option>In the Heat of the Night</option>
+<option>Talk to Her</option>
+<option>Changeling</option>
+<option>The Little Shop of Horrors</option>
+<option>Predators</option>
+<option>Sin Nombre</option>
+<option>She's Out of My League</option>
+<option>The Bank Dick</option>
+<option>This Means War</option>
+<option>Taxi Driver</option>
+<option>Wrongfully Accused</option>
+<option>The Adventures of Milo and Otis</option>
+<option>On Her Majesty's Secret Service</option>
+<option>The Asphalt Jungle</option>
+<option>The Virgin Spring</option>
+<option>The Rite</option>
+<option>East of Eden</option>
+<option>Turbulence</option>
+<option>Dreamcatcher</option>
+<option>Firewall</option>
+<option>Cemetery Man</option>
+<option>Evita</option>
+<option>Paris Is Burning</option>
+<option>Another Earth</option>
+<option>Texas Chainsaw Massacre: The Next Generation</option>
+<option>Licence to Kill</option>
+<option>The Three Musketeers</option>
+<option>Tangled</option>
+<option>The Enforcer</option>
+<option>Heathers</option>
+<option>Desperado</option>
+<option>The Mothman Prophecies</option>
+<option>Nothing in Common</option>
+<option>Seven Samurai</option>
+<option>Contact</option>
+<option>Rocky II</option>
+<option>Earthquake</option>
+<option>Scent of a Woman</option>
+<option>Shadowlands</option>
+<option>Star Trek V: The Final Frontier</option>
+<option>A Christmas Carol</option>
+<option>Paprika</option>
+<option>The Devil's Advocate</option>
+<option>The Imaginarium of Doctor Parnassus</option>
+<option>Honey, I Shrunk the Kids</option>
+<option>Eight Legged Freaks</option>
+<option>The Truman Show</option>
+<option>Dick</option>
+<option>The Dark Knight Rises</option>
+<option>Turbo: A Power Rangers Movie</option>
+<option>The Adventures of Pinocchio</option>
+<option>Bad Lieutenant: Port of Call New Orleans</option>
+<option>Herbie Rides Again</option>
+<option>Freaks</option>
+<option>Paths of Glory</option>
+<option>The Cannonball Run</option>
+<option>The Client</option>
+<option>The Shadow</option>
+<option>It's the Great Pumpkin, Charlie Brown</option>
+<option>Meteor</option>
+<option>The Caine Mutiny</option>
+<option>The Party</option>
+<option>A Raisin in the Sun</option>
+<option>Thunderbolt and Lightfoot</option>
+<option>Michael Clayton</option>
+<option>The Scarlet Letter</option>
+<option>Can't Buy Me Love</option>
+<option>A History of Violence</option>
+<option>Return to Me</option>
+<option>Singin' in the Rain</option>
+<option>The Postman</option>
+<option>Jane Eyre</option>
+<option>The Great Escape</option>
+<option>The Associate</option>
+<option>The DUFF</option>
+<option>Eyes Without a Face</option>
+<option>Out of Time</option>
+<option>Lawrence of Arabia</option>
+<option>Birthday Girl</option>
+<option>Once Upon a Time in the West</option>
+<option>Eye For An Eye</option>
+<option>In the Loop</option>
+<option>Hairspray</option>
+<option>The Bone Collector</option>
+<option>PCU</option>
+<option>Tales from the Hood</option>
+<option>V for Vendetta</option>
+<option>Chinatown</option>
+<option>Grindhouse</option>
+<option>Casper</option>
+<option>Shine</option>
+<option>The Right Stuff</option>
+<option>Insidious</option>
+<option>EDtv</option>
+<option>The White Ribbon</option>
+<option>City of Angels</option>
+<option>Quest for Camelot</option>
+<option>Primary Colors</option>
+<option>D.O.A.</option>
+<option>Only God Forgives</option>
+<option>Network</option>
+<option>Nebraska</option>
+<option>Bloody Sunday</option>
+<option>Antitrust</option>
+<option>Journey to the Center of the Earth</option>
+<option>Hall Pass</option>
+<option>C.R.A.Z.Y.</option>
+<option>The Golden Voyage of Sinbad</option>
+<option>Miss Peregrine's Home for Peculiar Children</option>
+<option>Cat's Eye</option>
+<option>Capote</option>
+<option>Time Bandits</option>
+<option>Swing Kids</option>
+<option>Bitter Moon</option>
+<option>You're Next</option>
+<option>Magic Mike</option>
+<option>Tokyo Story</option>
+<option>Cool World</option>
+<option>Shoot 'Em Up</option>
+<option>Chitty Chitty Bang Bang</option>
+<option>Walk Hard: The Dewey Cox Story</option>
+<option>The Beastmaster</option>
+<option>Exit to Eden</option>
+<option>WarGames</option>
+<option>Frankenstein</option>
+<option>Zootopia</option>
+<option>Stalag 17</option>
+<option>Looney Tunes: Back in Action</option>
+<option>Mary Shelley's Frankenstein</option>
+<option>Project X</option>
+<option>Monsters University</option>
+<option>Johnny English</option>
+<option>Cloud Atlas</option>
+<option>Waltz with Bashir</option>
+<option>The Hound of the Baskervilles</option>
+<option>The Innocents</option>
+<option>Back to the Future</option>
+<option>Demolition Man</option>
+<option>Warrior</option>
+<option>The Love Bug</option>
+<option>Extreme Measures</option>
+<option>The Black Cauldron</option>
+<option>Ghost Dog: The Way of the Samurai</option>
+<option>Green Card</option>
+<option>Submarine</option>
+<option>The Bear</option>
+<option>Bullets Over Broadway</option>
+<option>We Need to Talk About Kevin</option>
+<option>Losing Isaiah</option>
+<option>Casino Royale</option>
+<option>Waiting for Guffman</option>
+<option>Get Smart</option>
+<option>Clockers</option>
+<option>Sleuth</option>
+<option>Session 9</option>
+<option>The Rock</option>
+<option>Marnie</option>
+<option>Mr. Magoo</option>
+<option>Dead Calm</option>
+<option>The Secret of Kells</option>
+<option>Inkheart</option>
+<option>The Bourne Legacy</option>
+<option>John Carter</option>
+<option>Coyote Ugly</option>
+<option>Days of Heaven</option>
+<option>Non-Stop</option>
+<option>Breaking Away</option>
+<option>Going My Way</option>
+<option>Black Swan</option>
+<option>The Falcon and the Snowman</option>
+<option>The Counterfeiters</option>
+<option>Flight</option>
+<option>High School Musical 2</option>
+<option>Mission to Mars</option>
+<option>Hitch</option>
+<option>Mystic River</option>
+<option>Serpico</option>
+<option>Limitless</option>
+<option>The Fifth Element</option>
+<option>Saw III</option>
+<option>The Ides of March</option>
+<option>Mr. Bean's Holiday</option>
+<option>Little Fockers</option>
+<option>Fido</option>
+<option>Shrek 2</option>
+<option>Transporter 2</option>
+<option>The Little Mermaid</option>
+<option>Presumed Innocent</option>
+<option>Paranormal Activity</option>
+<option>Harry Potter and the Deathly Hallows: Part 1</option>
+<option>Sherlock Holmes: A Game of Shadows</option>
+<option>Kick-Ass</option>
+<option>Ray</option>
+<option>Monsoon Wedding</option>
+<option>The Haunted Mansion</option>
+<option>Mean Girls</option>
+<option>The Devil's Own</option>
+<option>The Karate Kid, Part III</option>
+<option>The Lavender Hill Mob</option>
+<option>The Good Shepherd</option>
+<option>A.I. Artificial Intelligence</option>
+<option>Husbands and Wives</option>
+<option>Accepted</option>
+<option>Arthur</option>
+<option>Coma</option>
+<option>Cry Freedom</option>
+<option>Mighty Morphin Power Rangers: The Movie</option>
+<option>The Garden of the Finzi-Continis</option>
+<option>The Crow: City of Angels</option>
+<option>Memoirs of a Geisha</option>
+<option>Magnum Force</option>
+<option>The Jackal</option>
+<option>X-Men: First Class</option>
+<option>The Shining</option>
+<option>Angus</option>
+<option>Some Kind of Wonderful</option>
+<option>Moon</option>
+<option>Spice World</option>
+<option>King Solomon's Mines</option>
+<option>Eve's Bayou</option>
+<option>The Birds, the Bees and the Italians</option>
+<option>Star Wars: Episode I - The Phantom Menace</option>
+<option>Police Academy 4: Citizens on Patrol</option>
+<option>Sympathy for Mr. Vengeance</option>
+<option>The Wave</option>
+<option>Ghostbusters</option>
+<option>The Guard</option>
+<option>Remember Me</option>
+<option>High and Low</option>
+<option>Breakdown</option>
+<option>Starman</option>
+<option>Lords of Dogtown</option>
+<option>Before Sunset</option>
+<option>Blues Brothers 2000</option>
+<option>RoboCop 3</option>
+<option>North by Northwest</option>
+<option>Dragonslayer</option>
+<option>Running Scared</option>
+<option>The Exorcist III</option>
+<option>Don Juan DeMarco</option>
+<option>Closer</option>
+<option>Do the Right Thing</option>
+<option>Priest</option>
+<option>The Fast and the Furious</option>
+<option>A Nightmare on Elm Street 4: The Dream Master</option>
+<option>Police Academy 2: Their First Assignment</option>
+<option>Night at the Museum: Secret of the Tomb</option>
+<option>Tombstone</option>
+<option>The Sorcerer's Apprentice</option>
+<option>Raiders of the Lost Ark</option>
+<option>Basic Instinct</option>
+<option>Gosford Park</option>
+<option>Event Horizon</option>
+<option>Persona</option>
+<option>Le Good bye</option>
+<option>Coneheads</option>
+<option>Wanted</option>
+<option>Headhunters</option>
+<option>The Long Kiss Goodnight</option>
+<option>Bugsy</option>
+<option>Stir Crazy</option>
+<option>Little Shop of Horrors</option>
+<option>Steel</option>
+<option>Queen of the Damned</option>
+<option>Dinner for Schmucks</option>
+<option>Big</option>
+<option>Foxcatcher</option>
+<option>Private Benjamin</option>
+<option>Courage Under Fire</option>
+<option>The Hitcher</option>
+<option>Red River</option>
+<option>Final Destination 2</option>
+<option>A Good Year</option>
+<option>The Blue Angel</option>
+<option>Shrek the Third</option>
+<option>Silverado</option>
+<option>Surf's Up</option>
+<option>Speed Racer</option>
+<option>New York Stories</option>
+<option>Rent</option>
+<option>The Lone Ranger</option>
+<option>Spy Kids 3-D: Game Over</option>
+<option>Kundun</option>
+<option>The Monster Squad</option>
+<option>Rock Star</option>
+<option>Crooklyn</option>
+<option>Blazing Saddles</option>
+<option>The Tenant</option>
+<option>Ali</option>
+<option>The Unbearable Lightness of Being</option>
+<option>Garden State</option>
+<option>Mommie Dearest</option>
+<option>Repo Men</option>
+<option>The Phantom</option>
+<option>Wild</option>
+<option>Fargo</option>
+<option>Mad Love</option>
+<option>Tootsie</option>
+<option>Smoke Signals</option>
+<option>Crank: High Voltage</option>
+<option>Fever Pitch</option>
+<option>Music and Lyrics</option>
+<option>Bloodsport</option>
+<option>The Way, Way Back</option>
+<option>Driven</option>
+<option>Avengers: Age of Ultron</option>
+<option>The Pink Panther</option>
+<option>Captain America: The Winter Soldier</option>
+<option>Sister Act 2: Back in the Habit</option>
+<option>Shane</option>
+<option>Bambi</option>
+<option>Midnight Cowboy</option>
+<option>Bride Wars</option>
+<option>Rush Hour 3</option>
+<option>A Face in the Crowd</option>
+<option>Kingdom of Heaven</option>
+<option>Four Lions</option>
+<option>Heavy Metal</option>
+<option>Metro</option>
+<option>Vertigo</option>
+<option>Conan the Barbarian</option>
+<option>Pride</option>
+<option>Jumanji</option>
+<option>Arsenic and Old Lace</option>
+<option>Lars and the Real Girl</option>
+<option>Excalibur</option>
+<option>Under the Skin</option>
+<option>Yes Man</option>
+<option>The Man from U.N.C.L.E.</option>
+<option>Dumbo</option>
+<option>Morning Glory</option>
+<option>Blow</option>
+<option>Sneakers</option>
+<option>First Blood</option>
+<option>Halloween: Resurrection</option>
+<option>Song of the Sea</option>
+<option>The Year of Living Dangerously</option>
+<option>Urban Legends: Final Cut</option>
+<option>Salt</option>
+<option>Mission: Impossible II</option>
+<option>Spanglish</option>
+<option>Carnival of Souls</option>
+<option>Neighbors</option>
+<option>Fish Tank</option>
+<option>The Hours</option>
+<option>Max Payne</option>
+<option>The Browning Version</option>
+<option>Kiss the Girls</option>
+<option>Joy Ride</option>
+<option>Hoop Dreams</option>
+<option>Bicycle Thieves</option>
+<option>The Wild Bunch</option>
+<option>The Adventures of Rocky and Bullwinkle</option>
+<option>Seeking a Friend for the End of the World</option>
+<option>Frantic</option>
+<option>The General's Daughter</option>
+<option>Young Einstein</option>
+<option>Condorman</option>
+<option>The Kings of Summer</option>
+<option>Peggy Sue Got Married</option>
+<option>Gone Girl</option>
+<option>Scream</option>
+<option>The Lincoln Lawyer</option>
+<option>Wet Hot American Summer</option>
+<option>The Conformist</option>
+<option>Alexander</option>
+<option>RocketMan</option>
+<option>Iron Man 2</option>
+<option>The Mummy: Tomb of the Dragon Emperor</option>
+<option>First Knight</option>
+<option>Schindler's List</option>
+<option>Cinema Paradiso</option>
+<option>Trading Places</option>
+<option>The Tin Drum</option>
+<option>Star Trek: Generations</option>
+<option>Scoop</option>
+<option>Rambo</option>
+<option>The African Queen</option>
+<option>Hostage</option>
+<option>Any Given Sunday</option>
+<option>Poltergeist</option>
+<option>Underworld: Rise of the Lycans</option>
+<option>The Thing from Another World</option>
+<option>Breaking the Waves</option>
+<option>Casualties of War</option>
+<option>Lantana</option>
+<option>Transformers: Dark of the Moon</option>
+<option>The Ladies Man</option>
+<option>Hot Fuzz</option>
+<option>The Cure</option>
+<option>Cradle 2 the Grave</option>
+<option>The World According to Garp</option>
+<option>The Sandlot</option>
+<option>A Civil Action</option>
+<option>In the Company of Men</option>
+<option>The Jerk</option>
+<option>Star Trek III: The Search for Spock</option>
+<option>Rango</option>
+<option>Cast Away</option>
+<option>Hollow Man</option>
+<option>Date Movie</option>
+<option>The Revenant</option>
+<option>Dirty Dancing</option>
+<option>The Importance of Being Earnest</option>
+<option>Soapdish</option>
+<option>The Boondock Saints II: All Saints Day</option>
+<option>The Ring Two</option>
+<option>Win a Date with Tad Hamilton!</option>
+<option>Cross of Iron</option>
+<option>Push</option>
+<option>Pirates of the Caribbean: Dead Man's Chest</option>
+<option>Beloved</option>
+<option>Bamboozled</option>
+<option>The Hills Have Eyes</option>
+<option>The Devil's Rejects</option>
+<option>Bell, Book and Candle</option>
+<option>Amour</option>
+<option>L.A. Confidential</option>
+<option>Paulie</option>
+<option>Living in Oblivion</option>
+<option>The Mask of Zorro</option>
+<option>Irreversible</option>
+<option>Just Married</option>
+<option>Dark Shadows</option>
+<option>Traitor</option>
+<option>Glengarry Glen Ross</option>
+<option>Time After Time</option>
+<option>Get Over It</option>
+<option>Candyman: Farewell to the Flesh</option>
+<option>House II: The Second Story</option>
+<option>Iron Man</option>
+<option>Shanghai Knights</option>
+<option>Air Force One</option>
+<option>Duck Soup</option>
+<option>Dogville</option>
+<option>Underground</option>
+<option>Death Race 2000</option>
+<option>Enemy Mine</option>
+<option>Tampopo</option>
+<option>Insidious: Chapter 2</option>
+<option>Dead Poets Society</option>
+<option>The Fog</option>
+<option>X-Men Origins: Wolverine</option>
+<option>Departures</option>
+<option>Fantastic Mr. Fox</option>
+<option>Kung Fu Hustle</option>
+<option>Beverly Hills Cop II</option>
+<option>The Mirror Has Two Faces</option>
+<option>White Oleander</option>
+<option>Ichi the Killer</option>
+<option>House of Flying Daggers</option>
+<option>Buffalo '66</option>
+<option>Ultraviolet</option>
+<option>Unleashed</option>
+<option>The Great Outdoors</option>
+<option>Pillow Talk</option>
+<option>Annie</option>
+<option>Velvet Goldmine</option>
+<option>We Are Marshall</option>
+<option>The New Guy</option>
+<option>Presto</option>
+<option>Dumb and Dumberer: When Harry Met Lloyd</option>
+<option>Jack Reacher: Never Go Back</option>
+<option>Urban Legend</option>
+<option>Tales from the Darkside: The Movie</option>
+<option>The Book of Life</option>
+<option>Ant-Man</option>
+<option>Antwone Fisher</option>
+<option>Gaslight</option>
+<option>Snow Falling on Cedars</option>
+<option>Book of Shadows: Blair Witch 2</option>
+<option>Take Shelter</option>
+<option>Frances</option>
+<option>Sorority Boys</option>
+<option>My Fair Lady</option>
+<option>Finding Dory</option>
+<option>The Double Life of Veronique</option>
+<option>A Quiet Place</option>
+<option>Extract</option>
+<option>Duel</option>
+<option>Groundhog Day</option>
+<option>Cocoon</option>
+<option>Curse of the Golden Flower</option>
+<option>Timecop</option>
+<option>Knocked Up</option>
+<option>Mr. Nobody</option>
+<option>Murder on the Orient Express</option>
+<option>Center Stage</option>
+<option>Nosferatu the Vampyre</option>
+<option>The A-Team</option>
+<option>Hotel Rwanda</option>
+<option>Moonstruck</option>
+<option>Hard Target</option>
+<option>Attack of the Killer Tomatoes!</option>
+<option>The Black Dahlia</option>
+<option>The Other Woman</option>
+<option>Red Dawn</option>
+<option>Batman v Superman: Dawn of Justice</option>
+<option>RoboCop 2</option>
+<option>Deadpool 2</option>
+<option>I'm Not There</option>
+<option>Popeye</option>
+<option>Charlie and the Chocolate Factory</option>
+<option>The Diary of Anne Frank</option>
+<option>Intolerable Cruelty</option>
+<option>Jersey Girl</option>
+<option>A Day at the Races</option>
+<option>Room</option>
+<option>The Band Wagon</option>
+<option>The Break-Up</option>
+<option>Hiroshima Mon Amour</option>
+<option>Talladega Nights: The Ballad of Ricky Bobby</option>
+<option>The Vanishing</option>
+<option>Bronson</option>
+<option>The Act of Killing</option>
+<option>Legally Blonde</option>
+<option>Ice Age 4: Continental Drift</option>
+<option>Dr. Jekyll and Mr. Hyde</option>
+<option>Maverick</option>
+<option>The Great Muppet Caper</option>
+<option>Stepmom</option>
+<option>Jaws: The Revenge</option>
+<option>Repulsion</option>
+<option>The Visitor</option>
+<option>The Birdcage</option>
+<option>Peter's Friends</option>
+<option>My Sister's Keeper</option>
+<option>Men in Black II</option>
+<option>A Bronx Tale</option>
+<option>Fear and Loathing in Las Vegas</option>
+<option>Toy Story 3</option>
+<option>Hail, Caesar!</option>
+<option>The Ruling Class</option>
+<option>Paper Towns</option>
+<option>They Shoot Horses, Don't They?</option>
+<option>That Obscure Object of Desire</option>
+<option>Logan</option>
+<option>The Spy Who Loved Me</option>
+<option>The Incredibly True Adventure of Two Girls in Love</option>
+<option>Ghosts of Mars</option>
+<option>Shattered Glass</option>
+<option>The Ref</option>
+<option>National Lampoon's Vacation</option>
+<option>Four Brothers</option>
+<option>Finding Neverland</option>
+<option>Tender Mercies</option>
+<option>Gallipoli</option>
+<option>The House of Yes</option>
+<option>What We Do in the Shadows</option>
+<option>*batteries not included</option>
+<option>X-Men</option>
+<option>The Musketeer</option>
+<option>Valentine's Day</option>
+<option>Brother</option>
+<option>Cutthroat Island</option>
+<option>Leap Year</option>
+<option>The Cable Guy</option>
+<option>Oliver Twist</option>
+<option>White Heat</option>
+<option>Ice Age</option>
+<option>The Troll Hunter</option>
+<option>My Favorite Martian</option>
+<option>The Goonies</option>
+<option>Fame</option>
+<option>Reversal of Fortune</option>
+<option>Carnage</option>
+<option>The Lovely Bones</option>
+<option>Halloween: The Curse of Michael Myers</option>
+<option>The Baby-Sitters Club</option>
+<option>Tin Cup</option>
+<option>The Ghost and the Darkness</option>
+<option>Child's Play 3</option>
+<option>My Life as a Dog</option>
+<option>How to Train Your Dragon</option>
+<option>The Last Kiss</option>
+<option>The Long Goodbye</option>
+<option>Some Like It Hot</option>
+<option>The Number 23</option>
+<option>Behind Enemy Lines</option>
+<option>The Cove</option>
+<option>Win Win</option>
+<option>Stargate</option>
+<option>Conan the Destroyer</option>
+<option>The Absent-Minded Professor</option>
+<option>The Siege</option>
+<option>The Hand That Rocks the Cradle</option>
+<option>The Mummy Returns</option>
+<option>ParaNorman</option>
+<option>Night of the Comet</option>
+<option>Friday the 13th Part VI: Jason Lives</option>
+<option>Herbie Goes to Monte Carlo</option>
+<option>A Fish Called Wanda</option>
+<option>Soylent Green</option>
+<option>Dead Again</option>
+<option>Man of the House</option>
+<option>Babe</option>
+<option>Song of the South</option>
+<option>The Kite Runner</option>
+<option>The Orphanage</option>
+<option>Message in a Bottle</option>
+<option>Bird on a Wire</option>
+<option>Psycho II</option>
+<option>Alien: Covenant</option>
+<option>Masters of the Universe</option>
+<option>After Life</option>
+<option>This Is 40</option>
+<option>The Sentinel</option>
+<option>Platoon</option>
+<option>The Hunger Games: Mockingjay - Part 1</option>
+<option>Loser</option>
+<option>Back to the Future Part III</option>
+<option>Beerfest</option>
+<option>Mallrats</option>
+<option>American Psycho</option>
+<option>P.S. I Love You</option>
+<option>The Aristocrats</option>
+<option>The Hitman's Bodyguard</option>
+<option>Kung Fu Panda 3</option>
+<option>London Has Fallen</option>
+<option>The Return of the Living Dead</option>
+<option>The Toy</option>
+<option>Mission: Impossible III</option>
+<option>Supernova</option>
+<option>Everything Must Go</option>
+<option>Smoke</option>
+<option>For Your Eyes Only</option>
+<option>High School Musical</option>
+<option>Meet John Doe</option>
+<option>Abraham Lincoln: Vampire Hunter</option>
+<option>Black Book</option>
+<option>Arlington Road</option>
+<option>Frailty</option>
+<option>Places in the Heart</option>
+<option>RV</option>
+<option>About a Boy</option>
+<option>Buffalo Soldiers</option>
+<option>Summer Rental</option>
+<option>Primal Fear</option>
+<option>Dante's Peak</option>
+<option>The Ghost and Mrs. Muir</option>
+<option>Wrong Turn</option>
+<option>The Wolf of Wall Street</option>
+<option>The Endless Summer</option>
+<option>Gladiator</option>
+<option>Can't Hardly Wait</option>
+<option>Pulp Fiction</option>
+<option>Citizen Kane</option>
+<option>Goodfellas</option>
+<option>Barcelona</option>
+<option>My Cousin Vinny</option>
+<option>To Kill a Mockingbird</option>
+<option>Silver Linings Playbook</option>
+<option>Bulworth</option>
+<option>Mr. Smith Goes to Washington</option>
+<option>Meet the Robinsons</option>
+<option>Monster</option>
+<option>Sunshine Cleaning</option>
+<option>Epic</option>
+<option>Married to the Mob</option>
+<option>A Streetcar Named Desire</option>
+<option>State of Play</option>
+<option>Weekend at Bernie's II</option>
+<option>Lawnmower Man 2: Beyond Cyberspace</option>
+<option>The Man Who Knew Too Much</option>
+<option>Pay It Forward</option>
+<option>Woman in the Dunes</option>
+<option>The Lost World: Jurassic Park</option>
+<option>Toys</option>
+<option>Brave</option>
+<option>Body Heat</option>
+<option>Apt Pupil</option>
+<option>Scream 4</option>
+<option>The Princess Diaries</option>
+<option>Time Lapse</option>
+<option>Stir of Echoes</option>
+<option>Wonderland</option>
+<option>Matilda</option>
+<option>Logan Lucky</option>
+<option>Wild at Heart</option>
+<option>Lean on Me</option>
+<option>Bedazzled</option>
+<option>Laura</option>
+<option>SLC Punk!</option>
+<option>Frankenweenie</option>
+<option>Apollo 13</option>
+<option>Monkey Business</option>
+<option>Psycho III</option>
+<option>Beauty and the Beast</option>
+<option>MirrorMask</option>
+<option>The Living Daylights</option>
+<option>Atonement</option>
+<option>The Fox and the Hound</option>
+<option>The Object of My Affection</option>
+<option>Curly Sue</option>
+<option>Harry Potter and the Chamber of Secrets</option>
+<option>Princess Mononoke</option>
+<option>Blast from the Past</option>
+<option>Once Were Warriors</option>
+<option>Iron Eagle</option>
+<option>Jiro Dreams of Sushi</option>
+<option>Wild Things</option>
+<option>Clockstoppers</option>
+<option>Eyes Wide Shut</option>
+<option>Nobody's Fool</option>
+<option>Infernal Affairs</option>
+<option>Europa Europa</option>
+<option>Dead Snow</option>
+<option>Water for Elephants</option>
+<option>Scrooged</option>
+<option>The Tourist</option>
+<option>Blow Out</option>
+<option>Spring Breakers</option>
+<option>Spy</option>
+<option>The Incredibles</option>
+<option>The Life Aquatic with Steve Zissou</option>
+<option>Indiana Jones and the Last Crusade</option>
+<option>Nighthawks</option>
+<option>Fried Green Tomatoes</option>
+<option>Transformers: Age of Extinction</option>
+<option>Stagecoach</option>
+<option>Waitress</option>
+<option>The Maltese Falcon</option>
+<option>Filth</option>
+<option>Nacho Libre</option>
+<option>Blue Is the Warmest Color</option>
+<option>Pirates of the Caribbean: At World's End</option>
+<option>Open Range</option>
+<option>Cry-Baby</option>
+<option>Hook</option>
+<option>Dope</option>
+<option>Love Actually</option>
+<option>Midnight Run</option>
+<option>Tangled Ever After</option>
+<option>The Great Beauty</option>
+<option>Death Race</option>
+<option>Very Bad Things</option>
+<option>A Beautiful Mind</option>
+<option>Needful Things</option>
+<option>In the Mouth of Madness</option>
+<option>The Boys from Brazil</option>
+<option>The Hunger Games: Catching Fire</option>
+<option>Cloverfield</option>
+<option>Mamma Mia!</option>
+<option>Blood Diamond</option>
+<option>Legend</option>
+<option>White House Down</option>
+<option>Pumpkinhead</option>
+<option>Rosencrantz and Guildenstern Are Dead</option>
+<option>Murder at 1600</option>
+<option>Harriet the Spy</option>
+<option>Whiplash</option>
+<option>Raise the Red Lantern</option>
+<option>Dracula: Dead and Loving It</option>
+<option>Singles</option>
+<option>The Brave Little Toaster</option>
+<option>The Man with the Golden Gun</option>
+<option>If....</option>
+<option>Star Trek II: The Wrath of Khan</option>
+<option>[REC]</option>
+<option>Frenzy</option>
+<option>My Blue Heaven</option>
+<option>Southpaw</option>
+<option>Hell or High Water</option>
+<option>The Last Airbender</option>
+<option>The Rapture</option>
+<option>Snatch</option>
+<option>Underworld</option>
+<option>Kong: Skull Island</option>
+<option>Skyline</option>
+<option>Get Him to the Greek</option>
+<option>Daddy's Home</option>
+<option>Employee of the Month</option>
+<option>The Craft</option>
+<option>Bowfinger</option>
+<option>Chocolat</option>
+<option>The Handmaiden</option>
+<option>Mystery Men</option>
+<option>Private Parts</option>
+<option>History of the World: Part I</option>
+<option>Vantage Point</option>
+<option>The Man in the Moon</option>
+<option>The Grapes of Wrath</option>
+<option>Everything Is Illuminated</option>
+<option>I Love You, Man</option>
+<option>Tequila Sunrise</option>
+<option>All the Pretty Horses</option>
+<option>Don't Breathe</option>
+<option>Boys Don't Cry</option>
+<option>Creepshow</option>
+<option>Aguirre: The Wrath of God</option>
+<option>Marty</option>
+<option>August Rush</option>
+<option>The Graduate</option>
+<option>From Russia with Love</option>
+<option>The Poseidon Adventure</option>
+<option>Once</option>
+<option>Margin Call</option>
+<option>Krull</option>
+<option>Animal Crackers</option>
+<option>Animal Kingdom</option>
+<option>In Bruges</option>
+<option>Phantom of the Opera</option>
+<option>Maximum Overdrive</option>
+<option>Sweet and Lowdown</option>
+<option>Volunteers</option>
+<option>Along Came a Spider</option>
+<option>Captain Corelli's Mandolin</option>
+<option>Lawless</option>
+<option>Punch-Drunk Love</option>
+<option>Snake Eyes</option>
+<option>Driving Miss Daisy</option>
+<option>Thank You for Smoking</option>
+<option>The Hateful Eight</option>
+<option>Nightwatch</option>
+<option>Barbershop</option>
+<option>Red 2</option>
+<option>Passenger 57</option>
+<option>Better Than Chocolate</option>
+<option>Amazon Women on the Moon</option>
+<option>The Box</option>
+<option>Oh, God!</option>
+<option>Melinda and Melinda</option>
+<option>A Perfect Murder</option>
+<option>Everyone Says I Love You</option>
+<option>Koyaanisqatsi</option>
+<option>Bad Taste</option>
+<option>Whip It</option>
+<option>The Triplets of Belleville</option>
+<option>The Good Son</option>
+<option>Capturing the Friedmans</option>
+<option>Resident Evil</option>
+<option>The Maze Runner</option>
+<option>Bats</option>
+<option>Love and Basketball</option>
+<option>Of Mice and Men</option>
+<option>Attack the Block</option>
+<option>Babes in Toyland</option>
+<option>The Impossible</option>
+<option>American Pie</option>
+<option>Juno</option>
+<option>Monty Python's Life of Brian</option>
+<option>Horton Hears a Who!</option>
+<option>Sin City: A Dame to Kill For</option>
+<option>The Idiots</option>
+<option>Step Brothers</option>
+<option>Perfect Blue</option>
+<option>How to Make an American Quilt</option>
+<option>The Kingdom</option>
+<option>M</option>
+<option>Super 8</option>
+<option>What Lies Beneath</option>
+<option>Hope Floats</option>
+<option>Lifeboat</option>
+<option>Ghost in the Shell</option>
+<option>Ace Ventura: When Nature Calls</option>
+<option>Vicky Cristina Barcelona</option>
+<option>Rififi</option>
+<option>The NeverEnding Story</option>
+<option>Green Lantern</option>
+<option>Titus</option>
+<option>Ninja Scroll</option>
+<option>Sudden Impact</option>
+<option>The Danish Girl</option>
+<option>Stuart Little 2</option>
+<option>Killers</option>
+<option>U-571</option>
+<option>Herbie Goes Bananas</option>
+<option>Upside Down</option>
+<option>In the Name of the Father</option>
+<option>Renaissance Man</option>
+<option>The Italian Job</option>
+<option>The Thing</option>
+<option>The Hunger Games: Mockingjay - Part 2</option>
+<option>Elizabeth</option>
+<option>Sully</option>
+<option>X-Men: The Last Stand</option>
+<option>The Natural</option>
+<option>The Scorpion King</option>
+<option>Clue</option>
+<option>Jimmy Neutron: Boy Genius</option>
+<option>The Opposite of Sex</option>
+<option>Timecrimes</option>
+<option>Unbroken</option>
+<option>Drop Dead Fred</option>
+<option>Dead Men Don't Wear Plaid</option>
+<option>Gilda</option>
+<option>Hot Tub Time Machine</option>
+<option>Two Weeks Notice</option>
+<option>Death to Smoochy</option>
+<option>Annihilation</option>
+<option>Dirty Pretty Things</option>
+<option>Being John Malkovich</option>
+<option>Blown Away</option>
+<option>Dangerous Liaisons</option>
+<option>King of the Hill</option>
+<option>Sister Act</option>
+<option>The Blob</option>
+<option>Higher Learning</option>
+<option>Coach Carter</option>
+<option>The Twilight Samurai</option>
+<option>Next</option>
+<option>The Artist</option>
+<option>The Net</option>
+<option>Paint Your Wagon</option>
+<option>Down by Law</option>
+<option>Sleeper</option>
+<option>Doctor Strange</option>
+<option>National Treasure</option>
+<option>Swimming with Sharks</option>
+<option>The Grudge</option>
+<option>High Noon</option>
+<option>Still Alice</option>
+<option>The People vs. Larry Flynt</option>
+<option>The Fighter</option>
+<option>The Witch</option>
+<option>Oklahoma!</option>
+<option>Romy and Michele's High School Reunion</option>
+<option>Little Big League</option>
+<option>Billy Elliot</option>
+<option>The Exorcism of Emily Rose</option>
+<option>The Santa Clause</option>
+<option>Jumper</option>
+<option>The Martian</option>
+<option>Volver</option>
+<option>Klute</option>
+<option>Lucas</option>
+<option>Penelope</option>
+<option>Mortal Kombat</option>
+<option>Darkman</option>
+<option>Reign Over Me</option>
+<option>One Crazy Summer</option>
+<option>The Last Unicorn</option>
+<option>Mimic</option>
+<option>Erin Brockovich</option>
+<option>Tropic Thunder</option>
+<option>Resident Evil: Afterlife</option>
+<option>The Last Castle</option>
+<option>The Wind Rises</option>
+<option>Paul Blart: Mall Cop</option>
+<option>Troop Beverly Hills</option>
+<option>Don't Say a Word</option>
+<option>Extremely Loud and Incredibly Close</option>
+<option>The Hobbit: The Desolation of Smaug</option>
+<option>FearDotCom</option>
+<option>What Women Want</option>
+<option>Sleeping with the Enemy</option>
+<option>Enter the Dragon</option>
+<option>Independence Day</option>
+<option>Scary Movie</option>
+<option>Shrek</option>
+<option>The Mummy</option>
+<option>Face/Off</option>
+<option>Moscow on the Hudson</option>
+<option>King Arthur: Legend of the Sword</option>
+<option>Rio Bravo</option>
+<option>Final Fantasy VII: Advent Children</option>
+<option>Snowden</option>
+<option>House of Games</option>
+<option>Slaughterhouse-Five</option>
+<option>The Good Girl</option>
+<option>Malcolm X</option>
+<option>Child's Play 2</option>
+<option>Enchanted</option>
+<option>In the Realm of the Senses</option>
+<option>Need for Speed</option>
+<option>The Passion of Joan of Arc</option>
+<option>Commando</option>
+<option>Exorcist II: The Heretic</option>
+<option>The Boy Who Could Fly</option>
+<option>Big Night</option>
+<option>Dunkirk</option>
+<option>Willow</option>
+<option>Wishmaster</option>
+<option>Hamlet</option>
+<option>Never Been Kissed</option>
+<option>Ocean's Twelve</option>
+<option>The Aviator</option>
+<option>The Wolverine</option>
+<option>Babette's Feast</option>
+<option>Catwoman</option>
+<option>Bully</option>
+<option>Desperate Measures</option>
+<option>Amarcord</option>
+<option>Transformers: The Movie</option>
+<option>Once Upon a Time in China</option>
+<option>Pirate Radio</option>
+<option>The Court Jester</option>
+<option>Hoodlum</option>
+<option>Police Academy 6: City Under Siege</option>
+<option>Nurse Betty</option>
+<option>Twins</option>
+<option>We Were Soldiers</option>
+<option>Jumanji: Welcome to the Jungle</option>
+<option>The Other Sister</option>
+<option>Contempt</option>
+<option>Deadpool</option>
+<option>Saving Silverman</option>
+<option>G.I. Joe: Retaliation</option>
+<option>The Watcher</option>
+<option>Great Expectations</option>
+<option>Enter the Void</option>
+<option>The Best Offer</option>
+<option>The Mission</option>
+<option>Coco</option>
+<option>The Omega Man</option>
+<option>The Secret World of Arrietty</option>
+<option>Conquest of the Planet of the Apes</option>
+<option>The Hunchback of Notre Dame</option>
+<option>Children of the Damned</option>
+<option>Practical Magic</option>
+<option>Ju-on: The Grudge</option>
+<option>Cronos</option>
+<option>Local Hero</option>
+<option>Gifted</option>
+<option>The Day After Tomorrow</option>
+<option>Little Children</option>
+<option>Throne of Blood</option>
+<option>Joe's Apartment</option>
+<option>White Man's Burden</option>
+<option>Lara Croft Tomb Raider: The Cradle of Life</option>
+<option>The Signal</option>
+<option>Stardust</option>
+<option>Anna and the King</option>
+<option>Friday the 13th Part V: A New Beginning</option>
+<option>Richie Rich</option>
+<option>Monster's Ball</option>
+<option>The Virgin Suicides</option>
+<option>The Towering Inferno</option>
+<option>Tora! Tora! Tora!</option>
+<option>Reds</option>
+<option>Locke</option>
+<option>Amadeus</option>
+<option>Prom Night</option>
+<option>Mixed Nuts</option>
+<option>Heat</option>
+<option>Transcendence</option>
+<option>A Cinderella Story</option>
+<option>Star Trek Into Darkness</option>
+<option>I Now Pronounce You Chuck and Larry</option>
+<option>Knowing</option>
+<option>Wolf</option>
+<option>The Dark Half</option>
+<option>The Fate of the Furious</option>
+<option>The Jungle Book</option>
+<option>The Big Short</option>
+<option>Deep Impact</option>
+<option>George of the Jungle</option>
+<option>The Longest Yard</option>
+<option>A Shot in the Dark</option>
+<option>Rocky Balboa</option>
+<option>The Other Boleyn Girl</option>
+<option>Stardust Memories</option>
+<option>Kindergarten Cop</option>
+<option>You've Got Mail</option>
+<option>Peeping Tom</option>
+<option>Miss Pettigrew Lives for a Day</option>
+<option>Gattaca</option>
+<option>Blue Ruin</option>
+<option>Superhero Movie</option>
+<option>Grown Ups</option>
+<option>Weekend at Bernie's</option>
+<option>Rocky IV</option>
+<option>Police Academy 3: Back in Training</option>
+<option>Crazy Heart</option>
+<option>Windtalkers</option>
+<option>Premonition</option>
+<option>Little Nicky</option>
+<option>The Last Witch Hunter</option>
+<option>The Red Shoes</option>
+<option>Everest</option>
+<option>Unfaithful</option>
+<option>Persepolis</option>
+<option>Get Shorty</option>
+<option>Road to Perdition</option>
+<option>Saw</option>
+<option>Harakiri</option>
+<option>Mulholland Falls</option>
+<option>It Happened One Night</option>
+<option>Friday the 13th</option>
+<option>The Dead Zone</option>
+<option>Highlander: Endgame</option>
+<option>Jack Ryan: Shadow Recruit</option>
+<option>Rumble in the Bronx</option>
+<option>Pacific Rim</option>
+<option>Tinker Tailor Soldier Spy</option>
+<option>Footloose</option>
+<option>Whale Rider</option>
+<option>Galaxy Quest</option>
+<option>American Graffiti</option>
+<option>Focus</option>
+<option>Guardians of the Galaxy</option>
+<option>Glory Road</option>
+<option>The Big Chill</option>
+<option>Gangster Squad</option>
+<option>The Great Race</option>
+<option>Gone Baby Gone</option>
+<option>EuroTrip</option>
+<option>Fool's Gold</option>
+<option>Sex Drive</option>
+<option>Jackie Brown</option>
+<option>Pearl Harbor</option>
+<option>Wedding Crashers</option>
+<option>Rudy</option>
+<option>The Interpreter</option>
+<option>The American President</option>
+<option>The Blind Side</option>
+<option>The Fall</option>
+<option>The Shipping News</option>
+<option>The Man Who Shot Liberty Valance</option>
+<option>The Barbarian Invasions</option>
+<option>Daredevil</option>
+<option>War of the Worlds</option>
+<option>Nixon</option>
+<option>A American Tail: Fievel Goes West</option>
+<option>Jawbreaker</option>
+<option>Spider-Man 2</option>
+<option>Quiz Show</option>
+<option>Elf</option>
+<option>Munich</option>
+<option>Funny Face</option>
+<option>The Road Warrior</option>
+<option>The Boondock Saints</option>
+<option>What a Girl Wants</option>
+<option>Woodstock</option>
+<option>Kids in the Hall: Brain Candy</option>
+<option>Spider</option>
+<option>Cheaper by the Dozen</option>
+<option>Confessions of a Shopaholic</option>
+<option>Come and See</option>
+<option>The Descent</option>
+<option>Hellboy</option>
+<option>Chappie</option>
+<option>Animal House</option>
+<option>A Hard Day's Night</option>
+<option>Mr. Popper's Penguins</option>
+<option>The Equalizer</option>
+<option>Rosemary's Baby</option>
+<option>Abbott and Costello Meet Frankenstein</option>
+<option>Mad Max</option>
+<option>The Other Guys</option>
+<option>Yellow Submarine</option>
+<option>Red Planet</option>
+<option>Coherence</option>
+<option>Valentine</option>
+<option>Cleopatra</option>
+<option>Fiddler on the Roof</option>
+<option>Johnny Mnemonic</option>
+<option>The Golden Compass</option>
+<option>Frances Ha</option>
+<option>Mr. Holland's Opus</option>
+<option>Sucker Punch</option>
+<option>She-Devil</option>
+<option>The Best Man</option>
+<option>The Bad Seed</option>
+<option>Midnight Special</option>
+<option>Addams Family Values</option>
+<option>Safe House</option>
+<option>The Basketball Diaries</option>
+<option>Revenge of the Nerds</option>
+<option>A Prairie Home Companion</option>
+<option>Under Siege</option>
+<option>Ed Wood</option>
+<option>A Officer and a Gentleman</option>
+<option>Doctor Zhivago</option>
+<option>The Green Mile</option>
+<option>It</option>
+<option>The Sword in the Stone</option>
+<option>Screamers</option>
+<option>Steel Magnolias</option>
+<option>Ringu</option>
+<option>The Amazing Spider-Man 2</option>
+<option>S.W.A.T.</option>
+<option>Fahrenheit 9/11</option>
+<option>Mighty Aphrodite</option>
+<option>Bull Durham</option>
+<option>Who Framed Roger Rabbit?</option>
+<option>First Strike</option>
+<option>Big Fat Liar</option>
+<option>Boyhood</option>
+<option>Gorky Park</option>
+<option>Chain Reaction</option>
+<option>Addicted to Love</option>
+<option>North Country</option>
+<option>Like Water for Chocolate</option>
+<option>The Last of the Mohicans</option>
+<option>Pirates of Silicon Valley</option>
+<option>The Hunted</option>
+<option>Anacondas: The Hunt for the Blood Orchid</option>
+<option>The Holy Mountain</option>
+<option>Crimson Tide</option>
+<option>The International</option>
+<option>Christine</option>
+<option>Black Rain</option>
+<option>Puss in Boots</option>
+<option>Central Intelligence</option>
+<option>Kickboxer</option>
+<option>X-Men: Days of Future Past</option>
+<option>Only Lovers Left Alive</option>
+<option>The Untouchables</option>
+<option>Miller's Crossing</option>
+<option>Eat Pray Love</option>
+<option>Underworld: Awakening</option>
+<option>Final Destination 5</option>
+<option>King Ralph</option>
+<option>The Mirror</option>
+<option>Quarantine</option>
+<option>Traffic</option>
+<option>The Frighteners</option>
+<option>Ballistic: Ecks vs. Sever</option>
+<option>Brazil</option>
+<option>Splash</option>
+<option>Dennis the Menace</option>
+<option>The Place Beyond the Pines</option>
+<option>Monsters vs. Aliens</option>
+<option>Drunken Master</option>
+<option>Corpse Bride</option>
+<option>Blades of Glory</option>
+<option>The Day of the Jackal</option>
+<option>Sweet Smell of Success</option>
+<option>Maximum Risk</option>
+<option>The Godfather: Part III</option>
+<option>Mrs. Miniver</option>
+<option>The 'burbs</option>
+<option>Bridge of Spies</option>
+<option>Broadway Danny Rose</option>
+<option>Avalon</option>
+<option>Million Dollar Baby</option>
+<option>The Usual Suspects</option>
+<option>Van Helsing</option>
+<option>Bob Roberts</option>
+<option>The Crimson Rivers</option>
+<option>The French Connection</option>
+<option>Who Killed the Electric Car?</option>
+<option>Inside Out</option>
+<option>Baby's Day Out</option>
+<option>Baby... Secret of the Lost Legend</option>
+<option>Gremlins 2: The New Batch</option>
+<option>Barfly</option>
+<option>American Beauty</option>
+<option>Swiss Army Man</option>
+<option>The Wedding Banquet</option>
+<option>Hearts in Atlantis</option>
+<option>Femme Fatale</option>
+<option>King Kong</option>
+<option>Captain America: The First Avenger</option>
+<option>Rocky</option>
+<option>Dr. No</option>
+<option>Spy Hard</option>
+<option>Star Trek IV: The Voyage Home</option>
+<option>Nine Months</option>
+<option>Indecent Proposal</option>
+<option>Red Eye</option>
+<option>Blue Crush</option>
+<option>The Bourne Identity</option>
+<option>The Hurt Locker</option>
+<option>Suicide Squad</option>
+<option>Safe</option>
+<option>Osmosis Jones</option>
+<option>Strictly Ballroom</option>
+<option>Due Date</option>
+<option>Atomic Blonde</option>
+<option>Death Proof</option>
+<option>Grand Canyon</option>
+<option>A Separation</option>
+<option>Jingle All the Way</option>
+<option>Something's Gotta Give</option>
+<option>Meatballs</option>
+<option>Picnic at Hanging Rock</option>
+<option>Crazy/Beautiful</option>
+<option>Critters</option>
+<option>Con Air</option>
+<option>Hang 'Em High</option>
+<option>The Forbidden Kingdom</option>
+<option>The Goodbye Girl</option>
+<option>The Trip to Bountiful</option>
+<option>Ghost Rider</option>
+<option>Tommy</option>
+<option>The Killers</option>
+<option>Predator 2</option>
+<option>Atlantis: The Lost Empire</option>
+<option>Hot Shots! Part Deux</option>
+<option>The Return of Martin Guerre</option>
+<option>Primer</option>
+<option>The Bodyguard</option>
+<option>Home Alone 2: Lost in New York</option>
+<option>Panic Room</option>
+<option>Set It Off</option>
+<option>Sirens</option>
+<option>Undercover Brother</option>
+<option>Percy Jackson: Sea of Monsters</option>
+<option>The Constant Gardener</option>
+<option>Letters from Iwo Jima</option>
+<option>Howl's Moving Castle</option>
+<option>Babe: Pig in the City</option>
+<option>From Hell</option>
+<option>The 400 Blows</option>
+<option>Alligator</option>
+<option>Alphaville</option>
+<option>Poseidon</option>
+<option>The Last House on the Left</option>
+<option>Mutiny on the Bounty</option>
+<option>Anchorman: The Legend of Ron Burgundy</option>
+<option>Rebecca</option>
+<option>Iron Sky</option>
+<option>Biutiful</option>
+<option>Waiting to Exhale</option>
+<option>Miracle</option>
+<option>Mon Oncle</option>
+<option>I Love You Phillip Morris</option>
+<option>The Aristocats</option>
+<option>Fail-Safe</option>
+<option>Vera Drake</option>
+<option>Zelig</option>
+<option>Spy Kids</option>
+<option>The Hudsucker Proxy</option>
+<option>Peter Pan</option>
+<option>Robin Hood</option>
+<option>Hart's War</option>
+<option>The Incredible Shrinking Man</option>
+<option>The Killer</option>
+<option>The Stepford Wives</option>
+<option>War Horse</option>
+<option>Real Genius</option>
+<option>Mama</option>
+<option>Ali G Indahouse</option>
+<option>Lone Survivor</option>
+<option>Ender's Game</option>
+<option>Philadelphia</option>
+<option>Papillon</option>
+<option>The Freshman</option>
+<option>We Bought a Zoo</option>
+<option>Inspector Gadget</option>
+<option>Mr. Brooks</option>
+<option>The Buddy Holly Story</option>
+<option>Ghosts of Girlfriends Past</option>
+<option>The Breakfast Club</option>
+<option>The Incredible Hulk</option>
+<option>Pet Sematary</option>
+<option>The Addams Family</option>
+<option>Trainspotting</option>
+<option>Harry Potter and the Sorcerer's Stone</option>
+<option>The Name of the Rose</option>
+<option>Stalker</option>
+<option>The Warriors</option>
+<option>Rambo III</option>
+<option>The Perfect Storm</option>
+<option>The Ring</option>
+<option>The Fly II</option>
+<option>The Rookie</option>
+<option>Lincoln</option>
+<option>Mongol</option>
+<option>Man on Fire</option>
+<option>Bernie</option>
+<option>United 93</option>
+<option>Nothing But Trouble</option>
+<option>Chasing Amy</option>
+<option>Micmacs</option>
+<option>Antz</option>
+<option>Charlotte's Web</option>
+<option>Bringing Down the House</option>
+<option>Encino Man</option>
+<option>The Best Exotic Marigold Hotel</option>
+<option>A Few Good Men</option>
+<option>I Love Trouble</option>
+<option>Mr. Saturday Night</option>
+<option>Wait Until Dark</option>
+<option>Day of the Dead</option>
+<option>Crocodile Dundee</option>
+<option>Good Will Hunting</option>
+<option>Before the Rain</option>
+<option>Alone in the Dark</option>
+<option>Stigmata</option>
+<option>Farewell My Concubine</option>
+<option>Michael</option>
+<option>The Thin Man</option>
+<option>Chungking Express</option>
+<option>Near Dark</option>
+<option>The Man with Two Brains</option>
+<option>Trumbo</option>
+<option>The Paper</option>
+<option>Hard Rain</option>
+<option>Pineapple Express</option>
+<option>Slap Shot</option>
+<option>Until the End of the World</option>
+<option>On the Town</option>
+<option>The Brothers Bloom</option>
+<option>Fire Down Below</option>
+<option>Catfish</option>
+<option>Leaving Las Vegas</option>
+<option>Layer Cake</option>
+<option>Paycheck</option>
+<option>A Place in the Sun</option>
+<option>Death Note</option>
+<option>Tarzan</option>
+<option>Domino</option>
+<option>Man Bites Dog</option>
+<option>The Nightmare Before Christmas</option>
+<option>Showgirls</option>
+<option>The River Wild</option>
+<option>Surrogates</option>
+<option>Killing Them Softly</option>
+<option>Angel Heart</option>
+<option>No Man's Land</option>
+<option>Mean Streets</option>
+<option>The Specialist</option>
+<option>Angels in the Outfield</option>
+<option>Absolute Power</option>
+<option>Jade</option>
+<option>There's Something About Mary</option>
+<option>The Changeling</option>
+<option>Freejack</option>
+<option>Necessary Roughness</option>
+<option>Trance</option>
+<option>Assassins</option>
+<option>Spaceballs</option>
+<option>Clerks II</option>
+<option>Outlander</option>
+<option>The Iron Giant</option>
+<option>Riddick</option>
+<option>Sabotage</option>
+<option>The Beverly Hillbillies</option>
+<option>Short Circuit</option>
+<option>The Squid and the Whale</option>
+<option>The Sisterhood of the Traveling Pants</option>
+<option>Joe Dirt</option>
+<option>Alien Nation</option>
+<option>The Bling Ring</option>
+<option>Big Top Pee-Wee</option>
+<option>Quest for Fire</option>
+<option>Hollywood Ending</option>
+<option>Lethal Weapon</option>
+<option>Home Alone</option>
+<option>Total Recall</option>
+<option>The Village</option>
+<option>A Very Brady Sequel</option>
+<option>A Room with a View</option>
+<option>Double Indemnity</option>
+<option>Steamboat Willie</option>
+<option>Cabin Fever</option>
+<option>Jabberwocky</option>
+<option>The Drop</option>
+<option>Muriel's Wedding</option>
+<option>Diner</option>
+<option>Rope</option>
+<option>The Replacements</option>
+<option>Whisper of the Heart</option>
+<option>Identity Thief</option>
+<option>The Nice Guys</option>
+<option>Apocalypto</option>
+<option>The Motorcycle Diaries</option>
+<option>The Polar Express</option>
+<option>Spartacus</option>
+<option>Mr. Magorium's Wonder Emporium</option>
+<option>The Texas Chainsaw Massacre: The Beginning</option>
+<option>Manhunter</option>
+<option>Red Sonja</option>
+<option>Up</option>
+<option>The Fly</option>
+<option>Deliverance</option>
+<option>Melancholia</option>
+<option>My Girl</option>
+<option>Burlesque</option>
+<option>Meet Joe Black</option>
+<option>Hitman</option>
+<option>Mermaids</option>
+<option>How to Steal a Million</option>
+<option>The Three Caballeros</option>
+<option>The Duchess</option>
+<option>Anatomy of a Murder</option>
+<option>Election</option>
+<option>Jeepers Creepers</option>
+<option>Harold and Maude</option>
+<option>Sliver</option>
+<option>Her</option>
+<option>Wuthering Heights</option>
+<option>Dick Tracy</option>
+<option>The Believer</option>
+<option>Harry Potter and the Order of the Phoenix</option>
+<option>Patton</option>
+<option>Ladder 49</option>
+<option>Big Momma's House</option>
+<option>Predestination</option>
+<option>Night Shift</option>
+<option>Enron: The Smartest Guys in the Room</option>
+<option>As Good as It Gets</option>
+<option>The Shaggy Dog</option>
+<option>Key Largo</option>
+<option>Short Circuit 2</option>
+<option>Sleepwalkers</option>
+<option>Space Jam</option>
+<option>Taps</option>
+<option>Close Encounters of the Third Kind</option>
+<option>A Life Less Ordinary</option>
+<option>Tell No One</option>
+<option>Bridget Jones: The Edge of Reason</option>
+<option>The Prophecy</option>
+<option>The Kids Are All Right</option>
+<option>Bless the Child</option>
+<option>Die Hard 2</option>
+<option>Chaplin</option>
+<option>Dead Ringers</option>
+<option>Unthinkable</option>
+<option>Martyrs</option>
+<option>The Santa Clause 2</option>
+<option>King Kong vs. Godzilla</option>
+<option>Rising Sun</option>
+<option>This Is Spinal Tap</option>
+<option>Hidalgo</option>
+<option>Despicable Me</option>
+<option>Dirty Harry</option>
+<option>Cookie's Fortune</option>
+<option>Dolores Claiborne</option>
+<option>Funny Girl</option>
+<option>Tideland</option>
+<option>Wild Tales</option>
+<option>Spirit: Stallion of the Cimarron</option>
+<option>Blackfish</option>
+<option>Murder, My Sweet</option>
+<option>G.I. Jane</option>
+<option>House of Sand and Fog</option>
+<option>South Pacific</option>
+<option>Entrapment</option>
+<option>Cannonball Run II</option>
+<option>Yours, Mine and Ours</option>
+<option>UHF</option>
+<option>A Man and a Woman</option>
+<option>Beavis and Butt-Head Do America</option>
+<option>Me Before You</option>
+<option>Calvary</option>
+<option>Manhattan Murder Mystery</option>
+<option>Feast</option>
+<option>Moneyball</option>
+<option>Mr. Deeds</option>
+<option>The Peacemaker</option>
+<option>Nick of Time</option>
+<option>Night at the Museum: Battle of the Smithsonian</option>
+<option>The Skulls</option>
+<option>Halloween III: Season of the Witch</option>
+<option>The Girl with the Dragon Tattoo</option>
+<option>A Charlie Brown Christmas</option>
+<option>Brothers</option>
+<option>Terminator Genisys</option>
+<option>Alaska</option>
+<option>The Losers</option>
+<option>The Elephant Man</option>
+<option>Angel Eyes</option>
+<option>Death and the Maiden</option>
+<option>Lucy</option>
+<option>The Dish</option>
+<option>Invictus</option>
+<option>Summer of Sam</option>
+<option>This Film Is Not Yet Rated</option>
+<option>The X-Files: I Want to Believe</option>
+<option>Big Fish</option>
+<option>The Indian in the Cupboard</option>
+<option>Mission: Impossible</option>
+<option>The Adventures of Robin Hood</option>
+<option>Paperman</option>
+<option>Bewitched</option>
+<option>Bullitt</option>
+<option>Teen Wolf</option>
+<option>Saw VI</option>
+<option>Disturbing Behavior</option>
+<option>Bridesmaids</option>
+<option>Shutter Island</option>
+<option>The Flintstones in Viva Rock Vegas</option>
+<option>Series 7: The Contenders</option>
+<option>The Way Back</option>
+<option>Mystic Pizza</option>
+<option>The Tailor of Panama</option>
+<option>Slither</option>
+<option>Action Jackson</option>
+<option>Dreamgirls</option>
+<option>Wonder Woman</option>
+<option>Paris, Texas</option>
+<option>Narc</option>
+<option>The Tuxedo</option>
+<option>Jack</option>
+<option>Jason X</option>
+<option>Titan A.E.</option>
+<option>The Edge</option>
+<option>Gandhi</option>
+<option>Defending Your Life</option>
+<option>The Sweetest Thing</option>
+<option>Roger Dodger</option>
+<option>Mississippi Burning</option>
+<option>Seven Pounds</option>
+<option>Brassed Off</option>
+<option>Robin Hood: Men in Tights</option>
+<option>Escape from L.A.</option>
+<option>Boiler Room</option>
+<option>Law Abiding Citizen</option>
+<option>Ip Man 2</option>
+<option>Planet Terror</option>
+<option>The Wicker Man</option>
+<option>The Negotiator</option>
+<option>Oliver!</option>
+<option>The Time Traveler's Wife</option>
+<option>End of Watch</option>
+<option>Grand Hotel</option>
+<option>Love and Other Drugs</option>
+<option>Working Girl</option>
+<option>Cyrano de Bergerac</option>
+<option>Runaway Jury</option>
+<option>Hotel Transylvania 2</option>
+<option>Enemy</option>
+<option>Batman Returns</option>
+<option>Mean Creek</option>
+<option>Blood Simple</option>
+<option>Flushed Away</option>
+<option>How High</option>
+<option>Dave</option>
+<option>The Doom Generation</option>
+<option>Sweeney Todd: The Demon Barber of Fleet Street</option>
+<option>Celtic Pride</option>
+<option>Horrible Bosses</option>
+<option>Wing Commander</option>
+<option>Halloween</option>
+<option>Vincent</option>
+<option>The Hunt for Red October</option>
+<option>Strange Days</option>
+<option>Battleship Potemkin</option>
+<option>Batman: Mask of the Phantasm</option>
+<option>The Celluloid Closet</option>
+<option>Collateral Damage</option>
+<option>Flatliners</option>
+<option>Kiss of the Dragon</option>
+<option>Magic in the Moonlight</option>
+<option>Tommy Boy</option>
+<option>The Cat in the Hat</option>
+<option>Shadow of the Vampire</option>
+<option>Love Affair</option>
+<option>Friday the 13th Part VII: The New Blood</option>
+<option>Outrageous Fortune</option>
+<option>Amityville II: The Possession</option>
+<option>The Muppets Take Manhattan</option>
+<option>Thunderball</option>
+<option>Escape from Alcatraz</option>
+<option>Dumb and Dumber To</option>
+<option>Deathtrap</option>
+<option>The Bounty Hunter</option>
+<option>Three Days of the Condor</option>
+<option>Strangers on a Train</option>
+<option>Gorillas in the Mist</option>
+<option>Orlando</option>
+<option>Black Hawk Down</option>
+<option>Mister Roberts</option>
+<option>Big Eyes</option>
+<option>The Last Supper</option>
+<option>Stand by Me</option>
+<option>Spy Game</option>
+<option>Lion</option>
+<option>The King of Comedy</option>
+<option>I'm Gonna Git You Sucka</option>
+<option>Thirteen Days</option>
+<option>Semi-Pro</option>
+<option>Cyborg</option>
+<option>The Flight of the Phoenix</option>
+<option>The Straight Story</option>
+<option>Vertical Limit</option>
+<option>Monty Python Live at the Hollywood Bowl</option>
+<option>Blade</option>
+<option>Swept Away</option>
+<option>Into the Blue</option>
+<option>Desperately Seeking Susan</option>
+<option>City Slickers</option>
+<option>Milk Money</option>
+<option>Women on the Verge of a Nervous Breakdown</option>
+<option>Elephant</option>
+<option>Pete's Dragon</option>
+<option>Memphis Belle</option>
+<option>Ghost Town</option>
+<option>Last Night</option>
+<option>Dogma</option>
+<option>Loaded Weapon 1</option>
+<option>Superman II</option>
+<option>Master and Commander: The Far Side of the World</option>
+<option>Tomorrowland</option>
+<option>The Three Burials of Melquiades Estrada</option>
+<option>Jaws</option>
+<option>Ruthless People</option>
+<option>Somewhere in Time</option>
+<option>The Majestic</option>
+<option>Top Secret!</option>
+<option>Jupiter Ascending</option>
+<option>The Five-Year Engagement</option>
+<option>The Expendables 3</option>
+<option>The Founder</option>
+<option>Mars Attacks!</option>
+<option>They Live</option>
+<option>Our Idiot Brother</option>
+<option>Street Kings</option>
+<option>The Great Gatsby</option>
+<option>Meet the Fockers</option>
+<option>The Dictator</option>
+<option>Love and Death</option>
+<option>After Hours</option>
+<option>Ernest Saves Christmas</option>
+<option>Monsters</option>
+<option>Poison Ivy</option>
+<option>Prizzi's Honor</option>
+<option>Doom</option>
+<option>Blank Check</option>
+<option>Terminator 2: Judgment Day</option>
+<option>The Dark Crystal</option>
+<option>Assault on Precinct 13</option>
+<option>National Security</option>
+<option>For Richer or Poorer</option>
+<option>The Machinist</option>
+<option>Fantasia</option>
+<option>Jay and Silent Bob Strike Back</option>
+<option>The Cat Returns</option>
+<option>Days of Thunder</option>
+<option>Three Kings</option>
+<option>Star Wars: Episode III - Revenge of the Sith</option>
+<option>A Tale of Two Sisters</option>
+<option>Anger Management</option>
+<option>The Swan Princess</option>
+<option>American History X</option>
+<option>Enemy of the State</option>
+<option>Inside Man</option>
+<option>The Perks of Being a Wallflower</option>
+<option>Eragon</option>
+<option>Less Than Zero</option>
+<option>The Lion King</option>
+<option>Final Fantasy: The Spirits Within</option>
+<option>M*A*S*H</option>
+<option>Shadow of a Doubt</option>
+<option>Elizabethtown</option>
+<option>Creepshow 2</option>
+<option>St. Elmo's Fire</option>
+<option>Agent Cody Banks</option>
+<option>Escape from New York</option>
+<option>Blood Work</option>
+<option>I Know What You Did Last Summer</option>
+<option>Alice in Wonderland</option>
+<option>Superman III</option>
+<option>Chariots of Fire</option>
+<option>The Thin Blue Line</option>
+<option>Firestarter</option>
+<option>Vacation</option>
+<option>The Cider House Rules</option>
+<option>The Devil Wears Prada</option>
+<option>Last Man Standing</option>
+<option>High Art</option>
+<option>The Host</option>
+<option>Crocodile Dundee II</option>
+<option>A View to a Kill</option>
+<option>Charade</option>
+<option>The Texas Chainsaw Massacre 2</option>
+<option>Jack the Giant Slayer</option>
+<option>And the Band Played On</option>
+<option>Saw IV</option>
+<option>Remember the Titans</option>
+<option>Escape to Witch Mountain</option>
+<option>Zombieland</option>
+<option>Harry and the Hendersons</option>
+<option>The China Syndrome</option>
+<option>Grease</option>
+<option>Shampoo</option>
+<option>The Spirit</option>
+<option>xXx</option>
+<option>Airplane!</option>
+<option>Breach</option>
+<option>Children of Paradise</option>
+<option>Eagle Eye</option>
+<option>Transamerica</option>
+<option>On the Waterfront</option>
+<option>Stop! Or My Mom Will Shoot</option>
+<option>Witness</option>
+<option>Space Cowboys</option>
+<option>Finding Nemo</option>
+<option>American Wedding</option>
+<option>Swiss Family Robinson</option>
+<option>The Lawnmower Man</option>
+<option>Sexy Beast</option>
+<option>East is East</option>
+<option>This Is the End</option>
+<option>The In-Laws</option>
+<option>How to Train Your Dragon 2</option>
+<option>Pitch Black</option>
+<option>Stranger than Fiction</option>
+<option>The Station Agent</option>
+<option>A Dangerous Method</option>
+<option>Last Tango in Paris</option>
+<option>Austin Powers in Goldmember</option>
+<option>Tomorrow Never Dies</option>
+<option>Lone Star</option>
+<option>Beautiful Creatures</option>
+<option>Pinocchio</option>
+<option>Mrs. Dalloway</option>
+<option>Spring, Summer, Fall, Winter... and Spring</option>
+<option>Lethal Weapon 4</option>
+<option>The Wrestler</option>
+<option>Henry: Portrait of a Serial Killer</option>
+<option>A Million Ways to Die in the West</option>
+<option>Battle for the Planet of the Apes</option>
+<option>Far and Away</option>
+<option>The Magnificent Seven</option>
+<option>Self/less</option>
+<option>The Accountant</option>
+<option>The Producers</option>
+<option>Hellraiser</option>
+<option>Stoker</option>
+<option>The Man Who Would Be King</option>
+<option>The Campaign</option>
+<option>The Family Stone</option>
+<option>Sin City</option>
+<option>Six Days Seven Nights</option>
+<option>Scream 2</option>
+<option>Blue Jasmine</option>
+<option>Batman: Under the Red Hood</option>
+<option>Braveheart</option>
+<option>Operation Dumbo Drop</option>
+<option>Double Impact</option>
+<option>After Earth</option>
+<option>Money Talks</option>
+<option>Star Wars: The Last Jedi</option>
+<option>Down to Earth</option>
+<option>Airplane II: The Sequel</option>
+<option>The Girl Who Leapt Through Time</option>
+<option>Backbeat</option>
+<option>Hunger</option>
+<option>Eastern Promises</option>
+<option>Deep Blue Sea</option>
+<option>Fitzcarraldo</option>
+<option>Sense and Sensibility</option>
+<option>The Bounty</option>
+<option>Race to Witch Mountain</option>
+<option>Rio</option>
+<option>Creed</option>
+<option>Anna Karenina</option>
+<option>You Only Live Twice</option>
+<option>A Nightmare on Elm Street 2: Freddy's Revenge</option>
+<option>No Country for Old Men</option>
+<option>Suicide Kings</option>
+<option>Magnolia</option>
+<option>Every Which Way But Loose</option>
+<option>The Hangover Part II</option>
+<option>Into the Wild</option>
+<option>Let the Right One In</option>
+<option>Begin Again</option>
+<option>Justice League</option>
+<option>Gimme Shelter</option>
+<option>The Game</option>
+<option>To Catch a Thief</option>
+<option>King of New York</option>
+<option>Pitch Perfect 2</option>
+<option>Money Train</option>
+<option>Ice Age 2: The Meltdown</option>
+<option>Edward Scissorhands</option>
+<option>The Gold Rush</option>
+<option>Australia</option>
+<option>My Own Private Idaho</option>
+<option>Ace Ventura: Pet Detective</option>
+<option>The Deer Hunter</option>
+<option>I Am Sam</option>
+<option>Captain America: Civil War</option>
+<option>Righteous Kill</option>
+<option>The Grand Budapest Hotel</option>
+<option>Thor: Ragnarok</option>
+<option>The Last Days of Disco</option>
+<option>River's Edge</option>
+<option>Waking Ned Devine</option>
+<option>Sicko</option>
+<option>Frozen</option>
+<option>Open Water</option>
+<option>Pollyanna</option>
+<option>Death Becomes Her</option>
+<option>Girlfight</option>
+<option>Howard the Duck</option>
+<option>Snow Dogs</option>
+<option>Spies Like Us</option>
+<option>Hulk</option>
+<option>Uptown Girls</option>
+<option>Vampires</option>
+<option>Eight Below</option>
+<option>Rain Man</option>
+<option>U.S. Marshals</option>
+<option>The Magdalene Sisters</option>
+<option>Black Cat, White Cat</option>
+<option>Oculus</option>
+<option>Resident Evil: Apocalypse</option>
+<option>Logan's Run</option>
+<option>The Man Who Knew Too Little</option>
+<option>Fletch Lives</option>
+<option>Shame</option>
+<option>The Rules of Attraction</option>
+<option>Caddyshack</option>
+<option>The Bridge on the River Kwai</option>
+<option>Head Over Heels</option>
+<option>Kingpin</option>
+<option>The Imitation Game</option>
+<option>Now and Then</option>
+<option>Strange Brew</option>
+<option>The Professional</option>
+<option>The Science of Sleep</option>
+<option>Snow Day</option>
+<option>Weird Science</option>
+<option>Star Trek: Insurrection</option>
+<option>Don't Look Now</option>
+<option>A Man for All Seasons</option>
+<option>The Dirty Dozen</option>
+<option>Daylight</option>
+<option>The Iron Lady</option>
+<option>Forrest Gump</option>
+<option>Dressed to Kill</option>
+<option>SpaceCamp</option>
+<option>Things to Do in Denver When You're Dead</option>
+<option>The Edge of Seventeen</option>
+<option>The Great White Hype</option>
+<option>Dial M for Murder</option>
+<option>Seven</option>
+<option>The Man from Earth</option>
+<option>The Toxic Avenger</option>
+<option>Jaws 3-D</option>
+<option>Broken Arrow</option>
+<option>Gran Torino</option>
+<option>The Amityville Horror</option>
+<option>The Rescuers</option>
+<option>To Sir with Love</option>
+<option>Kissing Jessica Stein</option>
+<option>What Ever Happened to Baby Jane?</option>
+<option>This Is England</option>
+<option>Raising Helen</option>
+<option>Revolver</option>
+<option>Serenity</option>
+<option>The Judge</option>
+<option>Friday the 13th Part 2</option>
+<option>Major Payne</option>
+<option>From Paris with Love</option>
+<option>The Butterfly Effect</option>
+<option>Risky Business</option>
+<option>Paranormal Activity 2</option>
+<option>Judge Dredd</option>
+<option>Help!</option>
+<option>I Still Know What You Did Last Summer</option>
+<option>Murder in the First</option>
+<option>Saturn 3</option>
+<option>Slacker</option>
+<option>Terminator Salvation</option>
+<option>The Faculty</option>
+<option>Gothika</option>
+<option>April Fool's Day</option>
+<option>Carol</option>
+<option>Nocturnal Animals</option>
+<option>White Chicks</option>
+<option>Monkeybone</option>
+<option>Charlie Bartlett</option>
+<option>May</option>
+<option>My Man Godfrey</option>
+<option>The X-Files: Fight the Future</option>
+<option>Inception</option>
+<option>The Howling</option>
+<option>Top Gun</option>
+<option>Sweet Home Alabama</option>
+<option>Labyrinth</option>
+<option>Saturday Night Fever</option>
+<option>Sideways</option>
+<option>Rules of Engagement</option>
+<option>The Walk</option>
+<option>Striking Distance</option>
+<option>American Hustle</option>
+<option>Rabbit-Proof Fence</option>
+<option>Problem Child</option>
+<option>Ip Man</option>
+<option>The Adventures of Pluto Nash</option>
+<option>Good Luck Chuck</option>
+<option>Evil Dead</option>
+<option>Roxanne</option>
+<option>Blade Runner</option>
+<option>She's All That</option>
+<option>The Lobster</option>
+<option>Bad Day at Black Rock</option>
+<option>Holy Motors</option>
+<option>The Bourne Supremacy</option>
+<option>Ready Player One</option>
+<option>Baraka</option>
+<option>The Witches of Eastwick</option>
+<option>The Muppets</option>
+<option>Star Trek VI: The Undiscovered Country</option>
+<option>Down and Out in Beverly Hills</option>
+<option>Millennium Actress</option>
+<option>The Last Stand</option>
+<option>The Lost Boys</option>
+<option>Interstate 60</option>
+<option>Madeline</option>
+<option>When In Rome</option>
+<option>The Mist</option>
+<option>Friday Night Lights</option>
+<option>The 13th Warrior</option>
+<option>Beneath the Planet of the Apes</option>
+<option>FLCL</option>
+<option>What About Bob?</option>
+<option>Fantasia 2000</option>
+<option>The Puppet Masters</option>
+<option>Knife in the Water</option>
+<option>The Hobbit: An Unexpected Journey</option>
+<option>Manchester by the Sea</option>
+<option>Big Daddy</option>
+<option>Gangs of New York</option>
+<option>Shortbus</option>
+<option>The Invisible Man</option>
+<option>A Nightmare on Elm Street 3: Dream Warriors</option>
+<option>Real Women Have Curves</option>
+<option>Six Degrees of Separation</option>
+<option>How Stella Got Her Groove Back</option>
+<option>Mirrors</option>
+<option>Junebug</option>
+<option>Nosferatu</option>
+<option>Bring It On</option>
+<option>Picture Perfect</option>
+<option>Donnie Darko</option>
+<option>Inferno</option>
+<option>Man on the Moon</option>
+<option>The Young Victoria</option>
+<option>The Legend of Bagger Vance</option>
+<option>Battleship</option>
+<option>The Hidden</option>
+<option>Gremlins</option>
+<option>A Time to Kill</option>
+<option>Nanny McPhee</option>
+<option>Jesus Christ Superstar</option>
+<option>Dark City</option>
+<option>Return to Oz</option>
+<option>The Purge</option>
+<option>Shaun of the Dead</option>
+<option>Clerks</option>
+<option>Superbad</option>
+<option>Alfie</option>
+<option>The Girl on the Train</option>
+<option>Troy</option>
+<option>The Prestige</option>
+<option>Final Destination</option>
+<option>Daybreakers</option>
+<option>Kind Hearts and Coronets</option>
+<option>The Haunting</option>
+<option>GoldenEye</option>
+<option>Kids</option>
+<option>Vacancy</option>
+<option>Shanghai Noon</option>
+<option>Kung Fury</option>
+<option>Don Jon</option>
+<option>Autumn Sonata</option>
+<option>The Terminator</option>
+<option>Where the Wild Things Are</option>
+<option>Falling Down</option>
+<option>Hud</option>
+<option>Monster-in-Law</option>
+<option>Alice Doesn't Live Here Anymore</option>
+<option>Synecdoche, New York</option>
+<option>The Social Network</option>
+<option>Midnight in Paris</option>
+<option>Under the Tuscan Sun</option>
+<option>The Pacifier</option>
+<option>Casanova</option>
+<option>The Hot Chick</option>
+<option>Empire Records</option>
+<option>The Men Who Stare at Goats</option>
+<option>Beverly Hills Cop</option>
+<option>The Time Machine</option>
+<option>The Invention of Lying</option>
+<option>Jason Bourne</option>
+<option>Rush</option>
+<option>With Honors</option>
+<option>The Women</option>
+<option>Goon</option>
+<option>Cars</option>
+<option>Diva</option>
+<option>The NeverEnding Story III</option>
+<option>A Night at the Opera</option>
+<option>Moana</option>
+<option>Monty Python's The Meaning of Life</option>
+<option>Universal Soldier</option>
+<option>Crash</option>
+<option>Sing Street</option>
+<option>The Gay Divorcee</option>
+<option>The Others</option>
+<option>Doubt</option>
+<option>Saving Grace</option>
+<option>Match Point</option>
+<option>Snowpiercer</option>
+<option>Inherit the Wind</option>
+<option>Rise of the Guardians</option>
+<option>Penguins of Madagascar</option>
+<option>A Trip to the Moon</option>
+<option>Judgment Night</option>
+<option>The Monuments Men</option>
+<option>The Nanny Diaries</option>
+<option>The Hobbit: The Battle of the Five Armies</option>
+<option>Crimson Peak</option>
+<option>Life</option>
+<option>Get the Gringo</option>
+<option>Rookie of the Year</option>
+<option>Unknown</option>
+<option>Dangerous Minds</option>
+<option>The Eye</option>
+<option>Colombiana</option>
+<option>Free Willy 2: The Adventure Home</option>
+<option>Red</option>
+<option>The Replacement Killers</option>
+<option>Lenny</option>
+<option>The Relic</option>
+<option>Searching for Bobby Fischer</option>
+<option>Snakes on a Plane</option>
+<option>Firefox</option>
+<option>Executive Decision</option>
+<option>A Scanner Darkly</option>
+<option>Predator</option>
+<option>The Pianist</option>
+<option>Body of Lies</option>
+<option>Monster House</option>
+<option>The Debt</option>
+<option>Land of the Lost</option>
+<option>Old School</option>
+<option>Lady and the Tramp</option>
+<option>Downfall</option>
+<option>The Rundown</option>
+<option>Inherent Vice</option>
+<option>The Emperor's Club</option>
+<option>Fearless</option>
+<option>Legion</option>
+<option>Coming Home</option>
+<option>Roman Holiday</option>
+<option>Pitch Perfect</option>
+<option>Coal Miner's Daughter</option>
+<option>Reservoir Dogs</option>
+<option>The Vow</option>
+<option>Shooter</option>
+<option>The American</option>
+<option>In Time</option>
+<option>Argo</option>
+<option>Beaches</option>
+<option>Dune</option>
+<option>Devil in a Blue Dress</option>
+<option>Zulu</option>
+<option>Robin Hood: Prince of Thieves</option>
+<option>Sleepless in Seattle</option>
+<option>Kolya</option>
+<option>Calendar Girls</option>
+<option>O</option>
+<option>The Amazing Spider-Man</option>
+<option>What's Love Got to Do with It?</option>
+<option>The Grifters</option>
+<option>Sunshine</option>
+<option>Medicine Man</option>
+<option>Wall Street: Money Never Sleeps</option>
+<option>The Wedding Singer</option>
+<option>Nine to Five</option>
+<option>The Ladykillers</option>
+<option>When a Stranger Calls</option>
+<option>Sinbad: Legend of the Seven Seas</option>
+<option>Walkabout</option>
+<option>Friday the 13th Part VIII: Jason Takes Manhattan</option>
+<option>The Man from Nowhere</option>
+<option>Man of Steel</option>
+<option>Jesus of Montreal</option>
+<option>American Pie 2</option>
+<option>Wayne's World 2</option>
+<option>The Man Who Wasn't There</option>
+<option>Fantastic Four: Rise of the Silver Surfer</option>
+<option>Ghost</option>
+<option>Save the Last Dance</option>
+<option>Gamer</option>
+<option>Hush</option>
+<option>The Age of Adaline</option>
+<option>Green Room</option>
+<option>Indochine</option>
+<option>Igby Goes Down</option>
+<option>Mystery Train</option>
+<option>Silkwood</option>
+<option>Your Highness</option>
+<option>The Switch</option>
+<option>A American Tail</option>
+<option>The Help</option>
+<option>Man on Wire</option>
+<option>The Winslow Boy</option>
+<option>The Astronaut's Wife</option>
+<option>Amistad</option>
+<option>Baby Geniuses</option>
+<option>Superman Returns</option>
+<option>We're the Millers</option>
+<option>Meet the Spartans</option>
+<option>The Giver</option>
+<option>Immortals</option>
+<option>Knockin' on Heaven's Door</option>
+<option>Train to Busan</option>
+<option>Bulletproof</option>
+<option>Sing</option>
+<option>The Blair Witch Project</option>
+<option>Balto</option>
+<option>The Raid 2: Berandal</option>
+<option>The Disaster Artist</option>
+<option>In the Valley of Elah</option>
+<option>Westworld</option>
+<option>Underworld: Evolution</option>
+<option>Notorious</option>
+<option>The Manchurian Candidate</option>
+<option>Look Who's Talking</option>
+<option>A Affair to Remember</option>
+<option>Eternal Sunshine of the Spotless Mind</option>
+<option>Wag the Dog</option>
+<option>Ladyhawke</option>
+<option>Home</option>
+<option>Just Go with It</option>
+<option>Thumbsucker</option>
+<option>Under Siege 2: Dark Territory</option>
+<option>Fury</option>
+<option>The French Lieutenant's Woman</option>
+<option>It's a Wonderful Life</option>
+<option>Six-String Samurai</option>
+<option>A Bug's Life</option>
+<option>Awakenings</option>
+<option>Breakfast at Tiffany's</option>
+<option>Young Guns</option>
+<option>Sgt. Bilko</option>
+<option>Me and Earl and the Dying Girl</option>
+<option>Fifty Shades of Grey</option>
+<option>Precious</option>
+<option>Multiplicity</option>
+<option>Lady in the Water</option>
+<option>The Watch</option>
+<option>Moonrise Kingdom</option>
+<option>John Q</option>
+<option>Teenage Mutant Ninja Turtles</option>
+<option>The Crazies</option>
+<option>French Kiss</option>
+<option>Dracula Untold</option>
+<option>Meet the Parents</option>
+<option>Empire of the Sun</option>
+<option>The Dead Pool</option>
+<option>Erik the Viking</option>
+<option>The Contender</option>
+<option>Fantastic Beasts and Where to Find Them</option>
+<option>The Bourne Ultimatum</option>
+<option>Taking Lives</option>
+<option>Children of a Lesser God</option>
+<option>Duplex</option>
+<option>Defiance</option>
+<option>The Secret Garden</option>
+<option>Maurice</option>
+<option>The Matrix Revolutions</option>
+<option>Akira</option>
+<option>The Forgotten</option>
+<option>The Evil Dead</option>
+<option>Bonnie and Clyde</option>
+<option>The Queen</option>
+<option>Suburbia</option>
+<option>Madagascar</option>
+<option>Pirates of the Caribbean: Dead Men Tell No Tales</option>
+<option>The War of the Worlds</option>
+<option>Milk</option>
+<option>Army of Darkness</option>
+<option>The Outlaw Josey Wales</option>
+<option>Super Troopers</option>
+<option>Born on the Fourth of July</option>
+<option>Touch of Evil</option>
+<option>Definitely, Maybe</option>
+<option>2001: A Space Odyssey</option>
+<option>Starsky and Hutch</option>
+<option>Batman and Robin</option>
+<option>Another 48 Hrs.</option>
+<option>Amos and Andrew</option>
+<option>28 Weeks Later</option>
+<option>10 Things I Hate About You</option>
+<option>Me, Myself and Irene</option>
+<option>The Cook the Thief His Wife and Her Lover</option>
+<option>Pet Sematary II</option>
+<option>Benny and Joon</option>
+<option>3 Ninjas: High Noon On Mega Mountain</option>
+<option>The Lord of the Rings: The Return of the King</option>
+<option>The Circle</option>
+<option>Horrible Bosses 2</option>
+<option>300: Rise of an Empire</option>
+<option>F/X2</option>
+<option>54</option>
+<option>Fathers' Day</option>
+<option>11:14</option>
+<option>Marley and Me</option>
+<option>Batman: The Dark Knight Returns, Part 2</option>
+<option>28 Days</option>
+<option>In and Out</option>
+<option>Pokemon: The First Movie</option>
+<option>Manon of the Spring</option>
+<option>McCabe and Mrs. Miller</option>
+<option>Oblivion</option>
+<option>The Chronicles of Narnia: Prince Caspian</option>
+<option>Lagaan: Once Upon a Time in India</option>
+<option>The Creature from the Black Lagoon</option>
+<option>Gnomeo and Juliet</option>
+<option>National Treasure: Book of Secrets</option>
+<option>Wallace and Gromit: A Close Shave</option>
+<option>Christmas Vacation</option>
+<option>12 Angry Men</option>
+<option>Tucker and Dale vs Evil</option>
+<option>Sunset Blvd.</option>
+<option>The Legend of Drunken Master</option>
+<option>5 Centimeters per Second</option>
+<option>(500) Days of Summer</option>
+<option>Dumb and Dumber</option>
+<option>Black Sheep</option>
+<option>Garfield: The Movie</option>
+<option>Thelma and Louise</option>
+<option>William Shakespeare's Romeo + Juliet</option>
+<option>Turner and Hooch</option>
+<option>8 Women</option>
+<option>Bruno</option>
+<option>1984</option>
+<option>John Wick: Chapter Two</option>
+<option>Legally Blonde 2: Red, White and Blonde</option>
+<option>Elite Squad</option>
+<option>Problem Child 2</option>
+<option>The Benchwarmers</option>
+<option>Mr. and Mrs. Smith</option>
+<option>Family Guy Presents Stewie Griffin: The Untold Story</option>
+<option>AVPR: Aliens vs. Predator - Requiem</option>
+<option>Pokemon 3: The Movie</option>
+<option>Les Miserables</option>
+<option>Winnie the Pooh and the Blustery Day</option>
+<option>Cowboy Bebop: The Movie</option>
+<option>Guardians of the Galaxy 2</option>
+<option>1408</option>
+<option>Tremors II: Aftershocks</option>
+<option>The Fog of War: Eleven Lessons from the Life of Robert S. McNamara</option>
+<option>Heaven and Earth</option>
+<option>Hansel and Gretel: Witch Hunters</option>
+<option>2012</option>
+<option>Lilya 4-Ever</option>
+<option>Alien³</option>
+<option>30 Days of Night</option>
+<option>Thesis</option>
+<option>2 Guns</option>
+<option>Dr. Seuss' The Lorax</option>
+<option>21</option>
+<option>Miss Congeniality 2: Armed and Fabulous</option>
+<option>Men in Black III</option>
+<option>Allegiant: Part 1</option>
+<option>Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan</option>
+<option>Stalingrad</option>
+<option>The Fast Runner</option>
+<option>Cowboys and Aliens</option>
+<option>Grand Illusion</option>
+<option>Harold and Kumar Escape from Guantanamo Bay</option>
+<option>8 Mile</option>
+<option>Police Academy: Mission to Moscow</option>
+<option>The Chronicles of Narnia: The Voyage of the Dawn Treader</option>
+<option>My Girl 2</option>
+<option>Queen Margot</option>
+<option>9</option>
+<option>The Way of the Dragon</option>
+<option>50 First Dates</option>
+<option>8 Heads in a Duffel Bag</option>
+<option>50/50</option>
+<option>Air Bud: Golden Receiver</option>
+<option>Untitled Spider-Man Reboot</option>
+<option>102 Dalmatians</option>
+<option>Inglorious Bastards</option>
+<option>Planes, Trains and Automobiles</option>
+<option>Mute Witness</option>
+<option>How to Lose Friends and Alienate People</option>
+<option>Friday the 13th Part IV: The Final Chapter</option>
+<option>Julie and Julia</option>
+<option>And Your Mother Too</option>
+<option>Diabolique</option>
+<option>10 Cloverfield Lane</option>
+<option>13 Hours</option>
+<option>Jet Li's Fearless</option>
+<option>2 Fast 2 Furious</option>
+<option>Flight of the Phoenix</option>
+<option>13 Ghosts</option>
+<option>Wallace and Gromit in 'A Matter of Loaf and Death'</option>
+<option>The World of Apu</option>
+<option>101 Dalmatians</option>
+<option>The Truth About Cats and Dogs</option>
+<option>Fast Five</option>
+<option>Catch-22</option>
+<option>Band of Outsiders</option>
+<option>24 Hour Party People</option>
+<option>Funny Games U.S.</option>
+<option>The Slums of Beverly Hills</option>
+<option>Maze Runner: Scorch Trials</option>
+<option>Wyatt Earp</option>
+<option>22 Jump Street</option>
+<option>D2: The Mighty Ducks</option>
+<option>Femme Nikita, La</option>
+<option>Bloodsport 2</option>
+<option>Beowulf</option>
+<option>Bill and Ted's Bogus Journey</option>
+<option>Fast and Furious 6</option>
+<option>10,000 BC</option>
+<option>Pit and the Pendulum</option>
+<option>Cheech and Chong's Up in Smoke</option>
+<option>The Blind Swordsman: Zatoichi</option>
+<option>Poison Ivy II</option>
+<option>Star Wars: Episode VII - The Force Awakens</option>
+<option>Suspiria</option>
+<option>The Gods Must Be Crazy II</option>
+<option>17 Again</option>
+<option>21 Grams</option>
+<option>Gone in 60 Seconds</option>
+<option>Major League: Back to the Minors</option>
+<option>The Bride of Frankenstein</option>
+<option>Bride and Prejudice</option>
+<option>Tango and Cash</option>
+<option>20,000 Leagues Under the Sea</option>
+<option>Unforgettable</option>
+<option>Bill and Ted's Excellent Adventure</option>
+<option>The Naked Gun: From the Files of Police Squad!</option>
+<option>Force 10 from Navarone</option>
+<option>Star Wars: Episode IV - A New Hope</option>
+<option>The Man with the Movie Camera</option>
+<option>Sky High</option>
+<option>Wallace and Gromit in The Curse of the Were-Rabbit</option>
+<option>The Chronicles of Narnia: The Lion, the Witch and the Wardrobe</option>
+<option>Lee Daniels' The Butler</option>
+<option>Ever After: A Cinderella Story</option>
+<option>The Prince and Me</option>
+<option>40 Days and 40 Nights</option>
+<option>Airport '77</option>
+<option>Dolce Vita, La</option>
+<option>Evil Dead II</option>
+<option>Star Wars: Episode V - The Empire Strikes Back</option>
+<option>3:10 to Yuma</option>
+<option>3 Idiots</option>
+<option>Wolf Children</option>
+<option>Nausicaa of the Valley of the Wind</option>
+<option>Kate and Leopold</option>
+<option>Tristan and Isolde</option>
+<option>Robot and Frank</option>
+<option>Cats and Dogs</option>
+<option>Dear Zachary: A Letter to a Son About His Father</option>
+<option>What the #$*! Do We Know!?</option>
+<option>Superman</option>
+<option>Willy Wonka and the Chocolate Factory</option>
+<option>Good Night, and Good Luck.</option>
+<option>Rugrats in Paris: The Movie</option>
+<option>European Vacation</option>
+<option>30 Minutes or Less</option>
+<option>13 Assassins</option>
+<option>Pokemon the Movie 2000</option>
+<option>The Secret of My Succe$s</option>
+<option>The Borrowers</option>
+<option>Pain and Gain</option>
+<option>10</option>
+<option>Green Street Hooligans</option>
+<option>Wallace and Gromit: The Wrong Trousers</option>
+<option>27 Dresses</option>
+<option>Land Before Time III: The Time of the Great Giving</option>
+<option>Evangelion: 1.0 You Are</option>
+<option>21 Jump Street</option>
+<option>88 Minutes</option>
+<option>Sunrise: A Song of Two Humans</option>
+<option>Secrets and Lies</option>
+<option>Kill Bill: Vol. 1</option>
+<option>Deuce Bigalow: Male Gigolo</option>
+<option>My Bodyguard</option>
+<option>Lilo and Stitch</option>
+<option>Pursuit of Happiness</option>
+<option>Laputa: Castle in the Sky</option>
+<option>2046</option>
+<option>The Jinx: The Life and Deaths of Robert Durst</option>
+<option>The Apostle</option>
+<option>Step Up 2 the Streets</option>
+<option>Lock, Stock and Two Smoking Barrels</option>
+<option>A Grand Day Out with Wallace and Gromit</option>
+<option>47 Ronin</option>
+<option>Some Folks Call It a Sling Blade</option>
+<option>Fast and Furious</option>
+<option>Saw VII 3D - The Final Chapter</option>
+<option>The Return of Jafar</option>
+<option>Nutty Professor II: The Klumps</option>
+<option>16 Blocks</option>
+<option>Spy Kids 2: The Island of Lost Dreams</option>
+<option>We Own the Night</option>
+<option>1941</option>
+<option>City by the Sea</option>
+<option>Three Colors: Red</option>
+<option>3000 Miles to Graceland</option>
+<option>Roger and Me</option>
+<option>Pride and Prejudice</option>
+<option>Hustle and Flow</option>
+<option>Interview with the Vampire: The Vampire Chronicles</option>
+<option>The Princess Diaries 2: Royal Engagement</option>
+<option>Wallace and Gromit: The Best of Aardman Animation</option>
+<option>13 Going on 30</option>
+<option>The Kid</option>
+<option>Point Break</option>
+<option>3-Iron</option>
+<option>The Endless Summer 2</option>
+<option>Furious 7</option>
+<option>25th Hour</option>
+<option>Revenge of the Nerds II: Nerds in Paradise</option>
+<option>District 13</option>
+<option>M. Hulot's Holiday</option>
+<option>200 Cigarettes</option>
+<option>Automata</option>
+<option>Neighbors 2: Sorority Rising</option>
+<option>Sugar and Spice</option>
+<option>Cheaper by the Dozen 2</option>
+<option>Paris, I Love You</option>
+<option>42</option>
+<option>Simone</option>
+<option>Star Wars: Episode VI - Return of the Jedi</option>
+<option>The Chorus</option>
+<option>Fracture</option>
+<option>Much Ado About Nothing</option>
+<option>Scooby-Doo 2: Monsters Unleashed</option>
+<option>Lady Vengeance</option>
+<option>12 Years a Slave</option>
+<option>127 Hours</option>
+<option>Jack Frost</option>
+<option>Radioland Murders</option>
+<option>Lupin III: The Castle Of Cagliostro</option>
+<option>Tales from the Crypt Presents: Bordello of Blood</option>
+<option>Flash Gordon</option>
+<option>Freaky Friday</option>
+<option>The Heartbreak Kid</option>
+<option>Around the World in 80 Days</option>
+<option>Avengers: Infinity War - Part I</option>
+<option>Gone with the Wind</option>
+<option>Megamind</option>
+<option>The Avengers</option>
+<option>All Through the Night</option>
+<option>Soul Surfer</option>
+<option>The Lost Battalion</option>
+<option>Gods of Egypt</option>
+<option>The Descent Part 2</option>
+<option>Chinese Ghost Story</option>
+<option>Starship Troopers 3: Marauder</option>
+<option>McCabe & Mrs. Miller</option>
+<option>Riki-Oh: The Story of Ricky</option>
+<option>Carry On Cabby</option>
+<option>The Russians Are Coming, the Russians Are Coming</option>
+<option>The Florida Project</option>
+<option>Alien Abduction: Incident in Lake County</option>
+<option>Laid to Rest</option>
+<option>Dracula A.D. 1972</option>
+<option>Sukiyaki Western Django</option>
+<option>Tom Yum Goong</option>
+<option>I Know That Voice</option>
+<option>Spider-Man: Far From Home</option>
+<option>Flowers of War</option>
+<option>Support Your Local Sheriff</option>
+<option>Mortal Kombat: The Movie</option>
+<option>Almighty Thor</option>
+<option>Red Cliff</option>
+<option>The Gunman</option>
+<option>Death Note Series</option>
+<option>Dark Star</option>
+<option>A Wrinkle in Time</option>
+<option>Moulin Rouge!</option>
+<option>A Perfect Getaway</option>
+<option>Dragonball Evolution</option>
+<option>The Specials</option>
+<option>Phantom of the Megaplex</option>
+<option>Greyfriars Bobby</option>
+<option>The Living Wake</option>
+<option>Death Wish 4: The Crackdown</option>
+<option>National Lampoon's Christmas Vacation</option>
+<option>The Birds</option>
+<option>Repo! The Genetic Opera</option>
+<option>Creed II</option>
+<option>Blood Punch</option>
+<option>TRON: Legacy</option>
+<option>Us</option>
+<option>Bad Grandpa</option>
+<option>Sunset Boulevard</option>
+<option>Paddington 2</option>
+<option>Getaway</option>
+<option>Willy Wonka & the Chocolate Factory</option>
+<option>The Death of Stalin</option>
+<option>The Swarm</option>
+<option>The Chronicles of Narnia</option>
+<option>Car Wash</option>
+<option>The Amazing Spider Man 2</option>
+<option>Guardians of the Galaxy Vol. 2</option>
+<option>Madea's Family Reunion</option>
+<option>Mr. Deeds Goes to Town</option>
+<option> Charlie Wilson's War</option>
+<option>John Q.</option>
+<option>Space Camp</option>
+<option>Red Scorpion</option>
+<option>Evil Dead 2</option>
+<option>Danny the Dog</option>
+<option>Goodbye Lenin</option>
+<option>The Last Dragon</option>
+<option>Kamen Rider × Kamen Rider Drive & Gaim: Movie War Full Throttle</option>
+<option>The Burning</option>
+<option>Starship Invasions</option>
+<option>Attack of the Clones</option>
+<option>Diary of a Wimpy Kid</option>
+<option>The Bourne Series</option>
+<option>Ice Cold in Alex</option>
+<option>Halloweentown</option>
+<option>Cult of Chucky</option>
+<option>Thir13en Ghosts</option>
+<option>Road to ...</option>
+<option>Death Machine</option>
+<option>The Eagle</option>
+<option>Transformers: The Last Knight</option>
+<option>Der Schuh des Manitu</option>
+<option>Still Crazy</option>
+<option>Sharknado 2: The Second One</option>
+<option>Hellfighters</option>
+<option>Southland Tales</option>
+<option>Teenage Mutant Ninja Turtles: Out of the Shadows</option>
+<option>Dagon</option>
+<option>Godzilla, Mothra, King Ghidorah: Giant Monsters All-Out Attack!</option>
+<option>Radio Rebel</option>
+<option>Love, Simon</option>
+<option>The Smurfs</option>
+<option>The Gamers</option>
+<option>Ocean's 8</option>
+<option>Camp</option>
+<option>Bubba Ho Tep</option>
+<option>Mission: Impossible – Fallout</option>
+<option>Black Death</option>
+<option>James Bond</option>
+<option>Spider-Man Trilogy</option>
+<option>Friday the 13th: The Final Chapter</option>
+<option>The Pixar Story</option>
+<option>Farewell, FamiKamen Rider</option>
+<option>SHAZAM!</option>
+<option>Maze Runner: The Scorch Trials</option>
+<option>Hansel & Gretel: Witch Hunters</option>
+<option>The Fury</option>
+<option>The Good, the Bad and the Ugly</option>
+<option>Follow That Camel!</option>
+<option>Don't Turn the Other Cheek!</option>
+<option>DodgeBall: A True Underdog Story</option>
+<option>Just Visiting</option>
+<option>5 Fingers</option>
+<option>CK Dezerterzy</option>
+<option>Se7en</option>
+<option>Mad Max 2: The Road Warrior</option>
+<option>Battle of the Sexes</option>
+<option>Malavita</option>
+<option>Facing the Giants</option>
+<option>Madea Goes to Jail</option>
+<option>Maniac Cop</option>
+<option>Muppets from Space</option>
+<option>Hesher</option>
+<option>Starsky & Hutch</option>
+<option>The Hateful 8</option>
+<option>Jurassic World: Fallen Kingdom</option>
+<option>Son of Frankenstein</option>
+<option>Super Cop</option>
+<option>Cold Prey</option>
+<option>48 Hrs.</option>
+<option>Robot Jox</option>
+<option>Resident Evil: The Final Chapter</option>
+<option>Snitch</option>
+<option>Maniac Cop 2</option>
+<option>Cowboys & Aliens</option>
+<option>Yes-Man</option>
+<option>Phantom of the Paradise</option>
+<option>Texas Chainsaw 3D</option>
+<option>Targets</option>
+<option>Interview with the Vampire</option>
+<option>The BFG</option>
+<option>Descendants</option>
+<option>Carry On</option>
+<option>The Post</option>
+<option>Hatchet</option>
+<option>April Fools' Day</option>
+<option>300</option>
+<option>Universal Soldier: Regeneration</option>
+<option>The Keep</option>
+<option>Eating Raoul</option>
+<option>Rampage</option>
+<option>Magic Island</option>
+<option>Susie Q</option>
+<option>Cecil B. Demented</option>
+<option>Bridge to Terabithia</option>
+<option>Curse of Chucky</option>
+<option>Love at First Bite</option>
+<option>Indiana Jones</option>
+<option>Bill & Ted's Bogus Journey</option>
+<option>Hello Mary Lou: Prom Night II</option>
+<option>Yankee Doodle Dandy</option>
+<option>Motel Hell</option>
+<option>The Adventures of Sharkboy and Lavagirl</option>
+<option>Waterloo</option>
+<option>The Green Berets</option>
+<option>Kill Bill</option>
+<option>Stepsister from Planet Weird</option>
+<option>Dirty Laundry</option>
+<option>Universal Soldier: Day of Reckoning</option>
+<option>Absurd</option>
+<option>Go Go Sentai Boukenger Vs Super Sentai</option>
+<option>First Man</option>
+<option>Ant-Man and the Wasp</option>
+<option>Kids in America</option>
+<option>Novitiate</option>
+<option>Return of the Jedi</option>
+<option>Rambo IV</option>
+<option>Glass</option>
+<option>Mike and Dave Need Wedding Dates</option>
+<option>The Meteor Man</option>
+<option>Scaramouche</option>
+<option>Blow Dry</option>
+<option>Surf Ninjas</option>
+<option>Mr. & Mrs. Smith</option>
+<option>Threads</option>
+<option>Stargate Continuum</option>
+<option>The Elite Squad</option>
+<option>Point Blank</option>
+<option>The Meg</option>
+<option>Snatch.</option>
+<option>Stargate: The Ark of Truth</option>
+<option>Little Giants</option>
+<option>The Smurfs 2</option>
+<option>Heisei Rider Vs Showa Rider Kamen Rider Wars Featuring Super Sentai</option>
+<option>Angry Video Game Nerd: The Movie</option>
+<option>Master and Commander</option>
+<option>Captain EO</option>
+<option>The Life and Death of Colonel Blimp</option>
+<option>Blackbeard's Ghost</option>
+<option>Ben 10: Race Against Time</option>
+<option>The Day After</option>
+<option>Captain America</option>
+<option>Mighty Morphin' Power Rangers: The Movie</option>
+<option>Racing Stripes</option>
+<option>What's Love Got to Do with It</option>
+<option>Hellraiser: Hellworld</option>
+<option>Machete Kills</option>
+<option>Venom</option>
+<option>Dr. Strangelove</option>
+<option>The Hunger Games: Mockingjay</option>
+<option>Troll 2</option>
+<option>Red Tails</option>
+<option>The Story of Robin Hood and His Merrie Men</option>
+<option>Plunkett & Macleane</option>
+<option>Zoom: Academy for Superheroes</option>
+<option>Uncommon Valor</option>
+<option>Captain Blood</option>
+<option>Bill & Ted's Excellent Adventure</option>
+<option>C.S.A.: The Confederate States of America</option>
+<option>Stage Door</option>
+<option>Follow Me, Boys!</option>
+<option>Stay Alive</option>
+<option>Mary Poppins Returns</option>
+<option>The Magic Christian</option>
+<option>Harold & Kumar Escape from Guantanamo Bay</option>
+<option>Head</option>
+<option>Van Wilder</option>
+<option>Leprechaun</option>
+<option>The Delta Force</option>
+<option>The Incident</option>
+<option>Creature from the Black Lagoon</option>
+<option>Our Man Flint</option>
+<option>Battle of Britain</option>
+<option>A Nightmare on Elm Street Part 2: Freddy's Revenge</option>
+<option>The Last Jedi</option>
+<option>In Hell</option>
+<option>A Series of Unfortunate Events</option>
+<option>Daens</option>
+<option>Bill & Ted</option>
+<option>Snow Cake</option>
+<option>Godzilla vs. Biollante</option>
+<option>Werewolf</option>
+<option>The Librarian</option>
+<option>Mulholland Dr.</option>
+<option>Punisher: War Zone</option>
+<option>Big Jake</option>
+<option>Man of La Mancha</option>
+<option>The Grey Zone</option>
+<option>The Mummy's Hand</option>
+<option>The Raven Trilogy</option>
+<option>Mandy</option>
+<option>On the Job</option>
+<option>Bride of the Monster</option>
+<option>Robot</option>
+<option>History of the World Part I</option>
+<option>The Phantom Menace</option>
+<option>Space Mutiny</option>
+<option>Die Hard with a Vengeance</option>
+<option>Pompeii</option>
+<option>The Dark Knight Trilogy</option>
+<option>Men in Black 3</option>
+<option>3 Ninjas</option>
+<option>Frankenstein Meets the Wolf Man</option>
+<option>The Great Mcginty</option>
+<option>Little Alvin and the Mini-Munks</option>
+<option>Ben-Hur</option>
+<option>The Wizard</option>
+<option>Behind the Waterfall</option>
+<option>Harry Potter and the Deathly Hallows</option>
+<option>Mad Max: Beyond Thunderdome</option>
+<option>Julie & Julia</option>
+<option>Mom's Got a Date with a Vampire</option>
+<option>Alita: Battle Angel</option>
+<option>Godzilla: Final Wars</option>
+<option>Admiral</option>
+<option>Hardcore Henry</option>
+<option>Braindead</option>
+<option>The Slipper and the Rose</option>
+<option>A Very Harold & Kumar 3D Christmas</option>
+<option>Alex Cross</option>
+<option>Okja</option>
+<option>Streets of Fire</option>
+<option>Escape from Sobibór</option>
+<option>Godspell</option>
+<option>X-Men Film Series</option>
+<option>Alien vs. Predator</option>
+<option>On Deadly Ground</option>
+<option>Nativity!</option>
+<option>Terminator</option>
+<option>Halloween H20: Twenty Years Later</option>
+<option>Winnetou</option>
+<option>Demon Knight</option>
+<option>Goodbye, Mr. Chips</option>
+<option>Russian Ark</option>
+<option>Superman: The Movie</option>
+<option>Birdemic</option>
+<option>Big Game</option>
+<option>The Midnight Meat Train</option>
+<option>Dead Snow: Red vs. Dead</option>
+<option>The Cloverfield Paradox</option>
+<option>Happy Death Day</option>
+<option>RoboGeisha</option>
+<option>The Legend of Billie Jean</option>
+<option>The Wolf Man</option>
+<option>Ip Man Film Series</option>
+<option>The Room</option>
+<option>Stick It</option>
+<option>Destroy All Monsters</option>
+<option>Florence Foster Jenkins</option>
+<option>Aquaman</option>
+<option>Princess</option>
+<option>Mission: Impossible – Rogue Nation</option>
+<option>Thunderbirds</option>
+<option>How to be a Serial Killer</option>
+<option>No More Baths</option>
+<option>Press Start</option>
+<option>Abduction</option>
+<option>Carry On Jack</option>
+<option>The Raid</option>
+<option>Who Framed Roger Rabbit</option>
+<option>Sinbad and the Eye of the Tiger </option>
+<option>The Mummy Trilogy</option>
+<option>Star Wars: Ewok Adventures</option>
+<option>9 to 5</option>
+<option>Girl vs. Monster</option>
+<option>Godzilla: King of the Monsters</option>
+<option>Citizen X</option>
+<option>Godzilla Against Mechagodzilla</option>
+<option>El Mariachi</option>
+<option>Valley Girl</option>
+<option>Dèmoni</option>
+<option>Persecuted</option>
+<option>The Greatest Showman</option>
+<option>K19: The Widowmaker</option>
+<option>Mission: Impossible Film Series</option>
+<option>The Wraith</option>
+<option>X Xx Return Of Xander Cage</option>
+<option>Leatherface: The Texas Chainsaw Massacre III</option>
+<option>Don't Lose Your Head</option>
+<option>Rogue One</option>
+<option>Fat Albert</option>
+<option>BlacKkKlansman</option>
+<option>Angels & Demons</option>
+<option>Natutulog Pa Ang Diyos</option>
+<option>Bastard out of Carolina</option>
+<option>OOO, Den-O, All Riders: Let's Go Kamen Riders</option>
+<option>The Three Stooges</option>
+<option>Mega Shark vs. Giant Octopus</option>
+<option>The Great Wall</option>
+<option>Spider-Man: Homecoming</option>
+<option>Alpha</option>
+<option>Zookeeper</option>
+<option>The World's Greatest Athlete</option>
+<option>Invasion of Astro-Monster</option>
+<option>Revenge of the Sith</option>
+<option>Battle of the Bulge</option>
+<option>Kamen Rider 1</option>
+<option> Halloween II</option>
+<option>Smetto Quando Voglio Masterclass</option>
+<option>The Dark Side of Chocolate</option>
+<option>To Wong Foo, Thanks for Everything, Julie Newmar</option>
+<option>The Wind and the Lion</option>
+<option>Pirates of the Caribbean</option>
+<option>The Empire Strikes Back</option>
+<option>Kamen Rider X Super Sentai Superhero Taisen</option>
+<option>Power Rangers</option>
+<option>North West Frontier</option>
+<option>Ultraman Zero: The Revenge of Belial</option>
+<option>Bon Cop, Bad Cop</option>
+<option>Ride Along</option>
+<option>Pokémon: Detective Pikachu</option>
+<option>Ace Ventura</option>
+<option>City Hunter: The Cupid's Perfume</option>
+<option>Wings</option>
+<option>Attack the Gas Station!</option>
+<option>I Wanna Hold Your Hand</option>
+<option>Harry Potter and the Philosopher's Stone</option>
+<option>Hitchcock</option>
+<option>Fantastic Beasts: The Crimes of Grindelwald</option>
+<option>The Final Sacrifice</option>
+<option>Muppets Most Wanted</option>
+<option>Me, Myself & Irene</option>
+<option>Sorority Row</option>
+<option>Don't Look Under the Bed</option>
+<option>North to Alaska</option>
+<option>Crazy Rich Asians</option>
+<option>Puma Man</option>
+<option>Dragonworld</option>
+<option>Starship Troopers 2: Hero of the Federation</option>
+<option>Shin Godzilla</option>
+<option>Act of Valor</option>
+<option>Drillbit Taylor</option>
+<option>Tag</option>
+<option>A Fistful of Dynamite</option>
+<option>Trouble with the Curve</option>
+<option>The Butler</option>
+<option>Maniac Cop 3: Badge of Silence</option>
+<option>Good Time</option>
+<option>A New Hope</option>
+<option>My Boyfriend's Back</option>
+<option>It's a Very Merry Muppet Christmas Movie</option>
+<option>Beyond Re-Animator</option>
+<option>Run, Lola, Run</option>
+<option>Cursed</option>
+<option>Tinker, Tailor, Soldier, Spy</option>
+<option>Bohemian Rhapsody</option>
+<option>Mary of Scotland</option>
+<option>Smetto Quando Voglio</option>
+<option>Death Wish V: The Face of Death</option>
+<option>The Next Generation -Patlabor-</option>
+<option>Harry Potter</option>
+<option>Death Wish 3</option>
+<option>Oz: The Great and Powerful</option>
+<option>The Wall</option>
+<option>Silent Hill: Revelation 3D</option>
+<option>Batman & Robin</option>
+<option>The Man Who Killed Don Quixote</option>
+<option>Godzilla vs. Mechagodzilla</option>
+<option>Harold & Kumar Go to White Castle</option>
+<option>Out for Justice</option>
+<option>The President's Last Bang</option>
+<option>Hard Boiled</option>
+<option>Don Camillo</option>
+<option>No Holds Barred</option>
+<option>Zenon</option>
+<option>Amityville: It's About Time</option>
+<option>2010: The Year We Make Contact</option>
+<option>Army of One</option>
+<option>The Force Awakens</option>
+<option>Hellraiser: Hellseeker</option>
+<option>Belle</option>
+<option>Dolphin Tale</option>
+<option>Les Visiteurs</option>
+<option>The Fortune Cookie</option>
+<option>It Conquered the World</option>
+<option>Sharknado 3: Oh Hell No!</option>
+<option>An American Werewolf in London</option>
+<option>Drive Angry</option>
+<option>Sharknado</option>
+<option>The Heiress</option>
+<option>8mm</option>
+<option>Black Dynamite</option>
+<option>Girls Trip</option>
+<option>The Boat That Rocked</option>
+<option>Godzilla vs. Megaguirus</option>
+<option>The Misfits</option>
+<option>The Ritual</option>
+<option>ThePredator</option>
+<option>Gamera</option>
+<option>The Man Who Saves the World</option>
+<option>A Midnight Clear</option>
+<option>TRON</option>
+<option>An American Werewolf in Paris</option>
+<option>Night of the Demon</option>
+<option>Jason Goes to Hell: The Final Friday</option>
+<option>Let It Shine</option>
+<option>Popstar: Never Stop Never Stopping</option>
+<option>Dead Silence</option>
+<option>Sha Po Lang</option>
+<option>Prehysteria</option>
+<option>Krampus</option>
+<option>Bumblebee</option>
+<option>Suffragette</option>
+<option>Sharktopus</option>
+<option>Miami Connection</option>
+<option>Lo</option>
+<option>Pacific Rim: Uprising</option>
+<option>The Thief of Bagdad</option>
+<option>Bride of Frankenstein</option>
+<option>Crazy Stupid Love</option>
+<option>Wittgenstein</option>
+<option>An American Carol</option>
+<option>Ever After</option>
+<option>The Mutilator</option>
+<option>The VVitch</option>
+<option>"Manos" The Hands of Fate</option>
+<option>The Purge: Election Year</option>
+<option>Belly</option>
+<option>Fire Starter</option>
+<option>Oldboy</option>
+<option>The Big Country</option>
+<option>Christopher Robin</option>
+<option>John Wick: Chapter 2</option>
+<option>Das Boot</option>
+<option>28 Days Later</option>
+<option>Blackhat</option>
+<option>The Luck of the Irish</option>
+<option>The Car</option>
+<option>D-War</option>
+<option>Austin Powers</option>
+<option>Grace of My Heart</option>
+<option>The Giant Claw</option>
+<option>T2 Trainspotting</option>
+<option>Ink</option>
+<option>Sharknado 5: Global Swarming</option>
+<option>Why Did I Get Married</option>
+<option>Les Misérables</option>
+<option>The Wolf Man 2010</option>
+<option>Birdman</option>
+<option>Game of Death</option>
+<option>Ball of Fire</option>
+<option>A Taxi Driver</option>
+<option>Mission: Impossible – Ghost Protocol</option>
+<option>Star Kid</option>
+<option>Fireproof</option>
+<option>The Lord Inquisitor</option>
+<option>Game Night</option>
+<option>The Good, the Bad, the Weird</option>
+<option>Valhalla Rising</option>
+<option>Evil Ed</option>
+<option>Boyz n the Hood</option>
+<option>Lone Wolf McQuade</option>
+<option>Diary of the Dead</option>
+<option>Friday the 13th Part III</option>
+<option>Thelma & Louise</option>
+<option>The Hebrew Hammer</option>
+<option>New Jack City</option>
+<option>Lock, Stock & Two Smoking Barrels</option>
+<option>Indie Game: The Movie</option>
+<option>Rock of Ages</option>
+<option>Trick or Treat</option>
