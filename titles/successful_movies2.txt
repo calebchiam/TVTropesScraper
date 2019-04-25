@@ -247,7 +247,6 @@ The Mighty Ducks
 The Lego Batman Movie
 The Secret in Their Eyes
 Cocktail
-Moulin Rouge
 All Dogs Go to Heaven 2
 The Rules of the Game
 American Movie
@@ -293,7 +292,6 @@ Code 46
 Mercury Rising
 Swimfan
 Faster Pussycat! Kill! Kill!
-To Wong Foo, Thanks for Everything! Julie Newmar
 L.A. Story
 The Taking of Pelham One Two Three
 Hannibal Rising
@@ -1007,7 +1005,6 @@ I Am Number Four
 The Piano Teacher
 Up in the Air
 Detroit Rock City
-Die Hard: With a Vengeance
 Mrs. Doubtfire
 Lucky Number Slevin
 Isle of Dogs
@@ -2957,7 +2954,6 @@ S.W.A.T.
 Fahrenheit 9/11
 Mighty Aphrodite
 Bull Durham
-Who Framed Roger Rabbit?
 First Strike
 Big Fat Liar
 Boyhood
@@ -3924,7 +3920,6 @@ Kolya
 Calendar Girls
 O
 The Amazing Spider-Man
-What's Love Got to Do with It?
 The Grifters
 Sunshine
 Medicine Man
@@ -4005,7 +4000,6 @@ Multiplicity
 Lady in the Water
 The Watch
 Moonrise Kingdom
-John Q
 Teenage Mutant Ninja Turtles
 The Crazies
 French Kiss
@@ -4041,13 +4035,11 @@ Born on the Fourth of July
 Touch of Evil
 Definitely, Maybe
 2001: A Space Odyssey
-Starsky and Hutch
 Batman and Robin
 Another 48 Hrs.
 Amos and Andrew
 28 Weeks Later
 10 Things I Hate About You
-Me, Myself and Irene
 The Cook the Thief His Wife and Her Lover
 Pet Sematary II
 Benny and Joon
@@ -4066,7 +4058,6 @@ Batman: The Dark Knight Returns, Part 2
 In and Out
 Pokemon: The First Movie
 Manon of the Spring
-McCabe and Mrs. Miller
 Oblivion
 The Chronicles of Narnia: Prince Caspian
 Lagaan: Once Upon a Time in India
@@ -4099,7 +4090,6 @@ Mr. and Mrs. Smith
 Family Guy Presents Stewie Griffin: The Untold Story
 AVPR: Aliens vs. Predator - Requiem
 Pokemon 3: The Movie
-Les Miserables
 Winnie the Pooh and the Blustery Day
 Cowboy Bebop: The Movie
 Guardians of the Galaxy 2
@@ -4107,7 +4097,6 @@ Guardians of the Galaxy 2
 Tremors II: Aftershocks
 The Fog of War: Eleven Lessons from the Life of Robert S. McNamara
 Heaven and Earth
-Hansel and Gretel: Witch Hunters
 2012
 Lilya 4-Ever
 Alien³
@@ -4138,12 +4127,10 @@ The Way of the Dragon
 Air Bud: Golden Receiver
 Untitled Spider-Man Reboot
 102 Dalmatians
-Inglorious Bastards
 Planes, Trains and Automobiles
 Mute Witness
 How to Lose Friends and Alienate People
 Friday the 13th Part IV: The Final Chapter
-Julie and Julia
 And Your Mother Too
 Diabolique
 10 Cloverfield Lane
@@ -4215,7 +4202,6 @@ Cats and Dogs
 Dear Zachary: A Letter to a Son About His Father
 What the #$*! Do We Know!?
 Superman
-Willy Wonka and the Chocolate Factory
 Good Night, and Good Luck.
 Rugrats in Paris: The Movie
 European Vacation
@@ -4356,7 +4342,6 @@ The Death of Stalin
 The Swarm
 The Chronicles of Narnia
 Car Wash
-The Amazing Spider Man 2
 Guardians of the Galaxy Vol. 2
 Madea's Family Reunion
 Mr. Deeds Goes to Town
@@ -4395,7 +4380,6 @@ The Smurfs
 The Gamers
 Ocean's 8
 Camp
-Bubba Ho Tep
 Mission: Impossible – Fallout
 Black Death
 James Bond
@@ -4434,7 +4418,6 @@ Resident Evil: The Final Chapter
 Snitch
 Maniac Cop 2
 Cowboys & Aliens
-Yes-Man
 Phantom of the Paradise
 Texas Chainsaw 3D
 Targets
@@ -4444,7 +4427,6 @@ Descendants
 Carry On
 The Post
 Hatchet
-April Fools' Day
 300
 Universal Soldier: Regeneration
 The Keep
@@ -4488,7 +4470,6 @@ Stargate Continuum
 The Elite Squad
 Point Blank
 The Meg
-Snatch.
 Stargate: The Ark of Truth
 Little Giants
 The Smurfs 2
@@ -4501,7 +4482,6 @@ Blackbeard's Ghost
 Ben 10: Race Against Time
 The Day After
 Captain America
-Mighty Morphin' Power Rangers: The Movie
 Racing Stripes
 What's Love Got to Do with It
 Hellraiser: Hellworld
@@ -4567,7 +4547,6 @@ Ben-Hur
 The Wizard
 Behind the Waterfall
 Harry Potter and the Deathly Hallows
-Mad Max: Beyond Thunderdome
 Julie & Julia
 Mom's Got a Date with a Vampire
 Alita: Battle Angel
@@ -4767,7 +4746,6 @@ Lo
 Pacific Rim: Uprising
 The Thief of Bagdad
 Bride of Frankenstein
-Crazy Stupid Love
 Wittgenstein
 An American Carol
 Ever After
@@ -4815,7 +4793,5 @@ Friday the 13th Part III
 Thelma & Louise
 The Hebrew Hammer
 New Jack City
-Lock, Stock & Two Smoking Barrels
-Indie Game: The Movie
 Rock of Ages
 Trick or Treat

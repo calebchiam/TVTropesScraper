@@ -304,7 +304,6 @@ Murder On The Leviathan
 Persuasion
 Cryptid Hunters
 Methuselah's Children
-The Lion, The Witch And The Wardrobe
 Going Bovine
 By The Light Of The Moon
 Plain Kate
@@ -643,7 +642,6 @@ The Color Purple
 To Sail Beyond The Sunset
 The Chocolate War
 The Witches
-Angels And Demons
 Wintergirls
 The Reader
 Cujo
@@ -1355,7 +1353,7 @@ Red Dragon
 Atlas Shrugged
 Threshold
 Chronicle Of A Death Foretold
-Le Morte D'arthur
+Le Morte d'Arthur
 The Autumn Of The Patriarch
 Camouflage
 Sister Alice
@@ -2119,7 +2117,6 @@ Dragaera
 Spock's World
 Rook
 Calling All Heroes
-Magnus Chaseandthe Godsof Asgard
 The Witchlands
 Magister Trilogy
 Fate/strange fake
@@ -2198,7 +2195,6 @@ Angel Beats!
 The Nexus Series
 The Dreams Of Lonely Stars
 Worldwar
-Weave World
 Dragons
 Mr. Hook's Big Black Box
 Otherland
@@ -2237,7 +2233,6 @@ A Song of Ice and Fire
 Black Jewels
 Escape to Witch Mountain
 Revan
-I Capture Thecastle
 Die Urbain Diablo
 The Harem Games
 Dream Park
@@ -2503,7 +2498,6 @@ Midnighters
 Warrior Cats: The Original Series
 Hand of Thrawn
 Seeker Bears
-Guardians Of Gahoole
 The Return of the Condor Heroes
 Live and Let Die
 Warrior Cats: Power of Three
@@ -2528,7 +2522,6 @@ The Seven Realms Series
 Calenture
 Great Expectations
 Cal Leandros
-Le Morte Darthur
 The Darksword Trilogy
 Warrior Cats: Dawn of the Clans
 The Death Gate Cycle
@@ -2838,7 +2831,7 @@ Priests of Mars
 Fate of the Jedi
 Walk Two Moons
 Vorkosigan Saga
-The Lion, the Witch, and the Wardrobe
+The Lion, the Witch and the Wardrobe
 A Dog's Purpose
 Remnants
 The Spirit Thief
@@ -2853,7 +2846,6 @@ Berserker
 Afterglow
 Harry Potter and the Half-Blood Prince
 A Portrait of the Artist as a Young Man
-Department19
 The Powder Mage Trilogy
 The Belgariad
 Takeshi Kovacs
@@ -2890,7 +2882,6 @@ The Hitchhiker's Guide to the Galaxy
 Insignia
 Forever Gate
 Space Pirate Captain MacTaggart
-The Babysitters Club
 Demon Squad
 The Name of the Wind
 Miss Prince
